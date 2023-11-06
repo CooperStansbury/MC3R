@@ -1,0 +1,1906 @@
+path_name,overlapping_genes,adj_p_val
+myelination (GO:0042552),"['GAL3ST1', 'MYRF', 'PLLP', 'PLP1', 'PMP22', 'MAL', 'MBP', 'ACSBG1', 'SOX10', 'HES5', 'BCAS1']",1.893385124091196e-07
+central nervous system development (GO:0007417),"['GSN', 'MYRF', 'MOG', 'SYNJ2', 'SOX10', 'MEIS2', 'POU3F3', 'HAPLN2', 'NR4A2', 'BCAN', 'MEIS1', 'NFIB', 'ZIC1', 'MAL', 'SOX8', 'APOD', 'PHGDH', 'MBP', 'SOX6', 'DSCAML1', 'HES5']",6.019160479200266e-07
+nervous system development (GO:0007399),"['LPAR1', 'PTN', 'HAPLN2', 'EDNRB', 'MOBP', 'ERBB3', 'ZIC1', 'HES1', 'SOX8', 'MBP', 'SOX6', 'HES5', 'GSN', 'MOG', 'SOX10', 'POU3F3', 'VEGFA', 'BCAN', 'ZEB2', 'GJB1', 'NINJ2', 'LHX1', 'PMP22', 'TYRO3', 'MAL', 'DSCAML1', 'FGF11']",6.019160479200266e-07
+glial cell differentiation (GO:0010001),"['SOX2', 'MYRF', 'ERBB3', 'METRN', 'NFIB', 'SOX8', 'SOX10', 'HES5']",3.629622786461051e-06
+regulation of oligodendrocyte differentiation (GO:0048713),"['NOTCH1', 'TMEM98', 'OPALIN', 'HES1', 'PTN', 'HES5']",9.503177786026328e-05
+axon ensheathment in central nervous system (GO:0032291),"['MYRF', 'PLP1', 'SOX10', 'HES5']",0.0004561307424477839
+negative regulation of oligodendrocyte differentiation (GO:0048715),"['NOTCH1', 'TMEM98', 'HES1', 'HES5']",0.0004561307424477839
+negative regulation of glial cell differentiation (GO:0045686),"['NOTCH1', 'TMEM98', 'HES1', 'HES5']",0.001403057837264371
+oligodendrocyte differentiation (GO:0048709),"['MYRF', 'SOX8', 'SOX6', 'SOX10', 'HES5']",0.0020034668710576663
+central nervous system myelination (GO:0022010),"['MYRF', 'PLP1', 'SOX10', 'HES5']",0.0028707290825256385
+"positive regulation of transcription, DNA-templated (GO:0045893)","['NFIX', 'NOTCH1', 'MYRF', 'EPAS1', 'LITAF', 'GLI3', 'EGFR', 'SOX2', 'SALL1', 'ZIC1', 'HES1', 'SOX8', 'HES5', 'IL33', 'TCF7L2', 'JUP', 'TFEB', 'MITF', 'ETV1', 'SOX10', 'MEIS2', 'ST18', 'POU3F3', 'RGMA', 'VEGFA', 'NR4A2', 'POMC', 'ZEB2', 'DAB2', 'MEIS1', 'NR4A3', 'NFIA', 'IRF3', 'NFIB', 'LHX1', 'PADI2', 'CREB5']",0.0032665212781435925
+regulation of myelination (GO:0031641),"['NKX6-2', 'MYRF', 'TMEM98', 'PTN', 'HES5']",0.005921694166162662
+cell-cell junction assembly (GO:0007043),"['CLDN11', 'GJA1', 'GJB1', 'JUP', 'CDH20', 'CD9', 'CDH19']",0.008526693328752518
+regulation of pro-B cell differentiation (GO:2000973),"['NOTCH1', 'HES1', 'HES5']",0.008793812615176748
+oligodendrocyte development (GO:0014003),"['MYRF', 'PLP1', 'SOX10', 'HES5']",0.009947293742372297
+brain development (GO:0007420),"['MEIS1', 'NFIB', 'ZIC1', 'APOD', 'PHGDH', 'SYNJ2', 'SOX6', 'DSCAML1', 'MEIS2', 'HES5']",0.010888542890445814
+positive regulation of transcription by RNA polymerase II (GO:0045944),"['NFIX', 'NOTCH1', 'EPAS1', 'LITAF', 'GLI3', 'EGFR', 'SOX2', 'SALL1', 'HES1', 'SOX8', 'IL33', 'TCF7L2', 'JUP', 'TFEB', 'MITF', 'ETV1', 'MEIS2', 'ST18', 'RGMA', 'VEGFA', 'NR4A2', 'POMC', 'ZEB2', 'DAB2', 'MEIS1', 'NR4A3', 'NFIA', 'IRF3', 'NFIB']",0.011836369075820615
+vascular associated smooth muscle cell development (GO:0097084),"['NOTCH1', 'HES1', 'VEGFA']",0.011836369075820615
+regulation of canonical Wnt signaling pathway (GO:0060828),"['TCF7L2', 'JUP', 'LRP4', 'GLI3', 'EGFR', 'NKD1', 'SOX2', 'ZEB2', 'DAB2', 'FRMD8', 'FAM53B', 'WLS', 'RNF220']",0.012421441275375793
+negative regulation of transcription by RNA polymerase II (GO:0000122),"['IL33', 'TCF7L2', 'NFIX', 'NOTCH1', 'MITF', 'CXXC5', 'SOX10', 'MEIS2', 'GLI3', 'VEGFA', 'SOX2', 'NR4A2', 'ZEB2', 'DAB2', 'NR4A3', 'SALL1', 'EDNRB', 'IFI27', 'NFIB', 'ID3', 'HES1', 'SOX8', 'HES5']",0.02680563462574493
+positive regulation of morphogenesis of an epithelium (GO:1905332),"['GJA1', 'LHX1', 'SOX8', 'VEGFA']",0.03182281078745982
+apical protein localization (GO:0045176),"['ATP8B1', 'INSC', 'MAL']",0.03211024547565236
+regulation of cell migration (GO:0030334),"['NTNG2', 'PDGFRA', 'CLIC4', 'NOTCH1', 'SEMA6D', 'MITF', 'PRR5L', 'VSIR', 'NKD1', 'EGFR', 'VEGFA', 'DAB2', 'ENPP2', 'PLXNB3', 'SPRY2', 'AMOTL2']",0.03694505707138699
+peripheral nervous system development (GO:0007422),"['ERBB3', 'PMP22', 'SOX8', 'SOX10']",0.03694505707138699
+homotypic cell-cell adhesion (GO:0034109),"['PDGFRA', 'MEGF10', 'CSRP1', 'TYRO3', 'PLPP3']",0.03694505707138699
+enteric nervous system development (GO:0048484),"['EDNRB', 'SOX8', 'SOX10']",0.03694505707138699
+regulation of astrocyte differentiation (GO:0048710),"['NOTCH1', 'HES1', 'HES5']",0.045234990050397494
+positive regulation of branching involved in ureteric bud morphogenesis (GO:0090190),"['LHX1', 'SOX8', 'VEGFA']",0.045234990050397494
+negative regulation of hydrogen peroxide-induced cell death (GO:1903206),"['GPR37', 'NR4A3', 'GPR37L1']",0.05427779382369355
+negative regulation of stem cell differentiation (GO:2000737),"['NOTCH1', 'HES1', 'HES5']",0.05427779382369355
+axon guidance (GO:0007411),"['NOTCH1', 'UNC5B', 'NFIB', 'SEMA6D', 'LHX1', 'GAB1', 'PLXNB3', 'PRKCQ', 'DSCAML1', 'VEGFA']",0.06280435488798224
+regulation of cell projection organization (GO:0031344),"['NTNG2', 'SPRY2', 'ERMN']",0.06404715702743626
+"negative regulation of transcription, DNA-templated (GO:0045892)","['NFIX', 'NOTCH1', 'CXXC5', 'GLI3', 'SOX2', 'SALL1', 'EDNRB', 'HES1', 'SOX8', 'HES5', 'IL33', 'TCF7L2', 'NKX6-2', 'ATP8B1', 'MITF', 'SOX10', 'MEIS2', 'POU3F3', 'VEGFA', 'NR4A2', 'ZEB2', 'DAB2', 'NR4A3', 'IFI27', 'LHX1', 'ID3', 'CRYAB']",0.06426914801155746
+regulation of branching involved in ureteric bud morphogenesis (GO:0090189),"['LHX1', 'SOX8', 'VEGFA']",0.07451702055589755
+cellular response to vascular endothelial growth factor stimulus (GO:0035924),"['NOTCH1', 'GAB1', 'SPRY2', 'VEGFA']",0.08784942473618917
+negative regulation of neurogenesis (GO:0050768),"['MAG', 'NOTCH1', 'LRP4', 'PTN']",0.09423155613516762
+positive regulation of nucleic acid-templated transcription (GO:1903508),"['NOTCH1', 'MYRF', 'TFEB', 'MITF', 'SOX10', 'GLI3', 'EGFR', 'POU3F3', 'SOX2', 'SALL1', 'NFIB', 'LHX1', 'ZIC1', 'HES1', 'SOX8', 'HES5', 'CREB5']",0.09423155613516762
+cell communication by electrical coupling involved in cardiac conduction (GO:0086064),"['GJA1', 'GJC3', 'ATP1A2']",0.09423155613516762
+gliogenesis (GO:0042063),"['METRN', 'NFIB', 'CD9']",0.09423155613516762
+regulation of ossification (GO:0030278),"['NOTCH1', 'S1PR1', 'LRP4', 'PTN']",0.09423155613516762
+coronary artery morphogenesis (GO:0060982),"['NOTCH1', 'VEGFA']",0.09423155613516762
+regulation of microvillus assembly (GO:0032534),"['ATP8B1', 'PLD1']",0.09423155613516762
+positive regulation of myoblast proliferation (GO:2000288),"['MEGF10', 'MEIS2']",0.09423155613516762
+positive regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061419),"['NOTCH1', 'VEGFA']",0.09423155613516762
+positive regulation of cell population proliferation (GO:0008284),"['PDGFRA', 'TCF7L2', 'NOTCH1', 'MEGF10', 'PTN', 'MEIS2', 'EGFR', 'POU3F3', 'VEGFA', 'GJA1', 'MEIS1', 'NR4A3', 'ERBB3', 'HES1', 'SOX8', 'HES5']",0.0955432985872282
+positive regulation of glial cell differentiation (GO:0045687),"['NOTCH1', 'HES1', 'PTN']",0.0955432985872282
+negative regulation of cell differentiation (GO:0045596),"['SOX2', 'MEIS1', 'NOTCH1', 'SPRY2', 'SOX8', 'HES1', 'MEIS2', 'EGFR', 'HES5']",0.09728307167584678
+connective tissue development (GO:0061448),"['COL11A2', 'SOX8', 'SOX6', 'HES5']",0.09728307167584678
+positive regulation of cell migration (GO:0030335),"['PDGFRA', 'DOCK5', 'DAB2', 'NOTCH1', 'SEMA6D', 'GAB1', 'ENPP2', 'SPRY2', 'VSIR', 'EGFR', 'VEGFA']",0.10030979183872407
+regulation of epithelial cell proliferation (GO:0050678),"['SOX2', 'TCF7L2', 'NR4A3', 'EGFR', 'ZFP36L1', 'VEGFA']",0.1043684323491517
+cardiac ventricle development (GO:0003231),"['NOTCH1', 'SALL1', 'HES1']",0.1043684323491517
+embryonic digestive tract development (GO:0048566),"['PDGFRA', 'SALL1', 'GLI3']",0.1043684323491517
+regulation of keratinocyte apoptotic process (GO:1902172),"['GSN', 'ZFP36L1']",0.1043684323491517
+regulation of nitric oxide mediated signal transduction (GO:0010749),"['EGFR', 'VEGFA']",0.1043684323491517
+galactolipid biosynthetic process (GO:0019375),"['FA2H', 'GAL3ST1']",0.1043684323491517
+galactosylceramide biosynthetic process (GO:0006682),"['FA2H', 'GAL3ST1']",0.1043684323491517
+venous blood vessel morphogenesis (GO:0048845),"['NOTCH1', 'VEGFA']",0.1043684323491517
+negative regulation of glial cell proliferation (GO:0060253),"['NOTCH1', 'HES1']",0.1043684323491517
+"positive regulation of Wnt signaling pathway, planar cell polarity pathway (GO:2000096)","['DAB2', 'NKD1']",0.1043684323491517
+regulation of nervous system development (GO:0051960),"['NKX6-2', 'HES1', 'PTN', 'HES5']",0.11261368870906512
+autonomic nervous system development (GO:0048483),"['EDNRB', 'SOX8', 'SOX10']",0.11359699137051431
+cell chemotaxis (GO:0060326),"['PDGFRA', 'LPAR1', 'PLXNB3', 'PRKCQ', 'VEGFA']",0.11534923431511736
+positive regulation of intracellular signal transduction (GO:1902533),"['PDGFRA', 'TCF7L2', 'GPR37', 'UNC5B', 'LPAR1', 'GAB1', 'GPR37L1', 'CXXC5', 'LITAF', 'EGFR', 'VEGFA', 'SOX2', 'GJA1', 'ERBB3', 'TRIM13', 'SPRY2', 'WLS']",0.11534923431511736
+regulation of platelet activation (GO:0010543),"['PDGFRA', 'PLA2G4A', 'PRKCQ']",0.11855031480782037
+negative regulation of myeloid cell differentiation (GO:0045638),"['MEIS1', 'MEIS2', 'ZFP36L1']",0.11855031480782037
+phosphatidylserine acyl-chain remodeling (GO:0036150),"['MBOAT1', 'PLA2G4A', 'PLAAT3']",0.11855031480782037
+regulation of mesenchymal stem cell differentiation (GO:2000739),"['PDGFRA', 'SOX6']",0.11855031480782037
+gap junction assembly (GO:0016264),"['GJA1', 'GJB1']",0.11855031480782037
+glycosylceramide biosynthetic process (GO:0046476),"['FA2H', 'GAL3ST1']",0.11855031480782037
+vascular wound healing (GO:0061042),"['MCAM', 'VEGFA']",0.11855031480782037
+negative regulation of cardiocyte differentiation (GO:1905208),"['SOX6', 'EGFR']",0.11855031480782037
+pituitary gland development (GO:0021983),"['SOX2', 'SALL1']",0.11855031480782037
+negative regulation of neuron differentiation (GO:0045665),"['SOX2', 'HES1', 'HES5']",0.13257029635076148
+positive regulation of developmental process (GO:0051094),"['PHLDB1', 'GJA1', 'LHX1', 'ENPP2', 'SOX8', 'PTN', 'SOX6', 'VEGFA']",0.13257029635076148
+integrin-mediated signaling pathway (GO:0007229),"['DAB2', 'ITGB5', 'ITGA10', 'PTN', 'PLPP3']",0.13257029635076148
+phospholipid metabolic process (GO:0006644),"['ENPP2', 'MBOAT1', 'PLA2G4A', 'PLAAT3', 'PLPP3']",0.13257029635076148
+commissural neuron axon guidance (GO:0071679),"['NFIB', 'VEGFA']",0.13257029635076148
+coronary vasculature morphogenesis (GO:0060977),"['NOTCH1', 'VEGFA']",0.13257029635076148
+regulation of microvillus organization (GO:0032530),"['ATP8B1', 'PLD1']",0.13257029635076148
+galactosylceramide metabolic process (GO:0006681),"['FA2H', 'GAL3ST1']",0.13257029635076148
+negative regulation of response to reactive oxygen species (GO:1901032),"['GPR37', 'GPR37L1']",0.13257029635076148
+positive regulation of astrocyte differentiation (GO:0048711),"['NOTCH1', 'HES1']",0.13257029635076148
+positive regulation of cell migration by vascular endothelial growth factor signaling pathway (GO:0038089),"['GAB1', 'VEGFA']",0.13257029635076148
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway (GO:2001269),"['GSN', 'ST18']",0.13257029635076148
+positive regulation of vascular associated smooth muscle cell migration (GO:1904754),"['DOCK5', 'NR4A3']",0.13257029635076148
+positive regulation of multicellular organismal process (GO:0051240),"['IL33', 'GJA1', 'GATM', 'DAB2', 'EPAS1', 'LHX1', 'ABCA7', 'SOX8', 'OXT', 'PTN', 'SOX6', 'VEGFA']",0.13547814977322747
+regulation of smooth muscle cell proliferation (GO:0048660),"['TCF7L2', 'NR4A3', 'APOD', 'HES5']",0.13547814977322747
+regulation of cellular component movement (GO:0051270),"['ERBB3', 'CD9', 'EGFR', 'VEGFA']",0.14203950490874706
+glial cell development (GO:0021782),"['MYRF', 'SOX10', 'HES5']",0.14203950490874706
+phosphatidylethanolamine acyl-chain remodeling (GO:0036152),"['MBOAT1', 'PLA2G4A', 'PLAAT3']",0.14203950490874706
+negative regulation of apoptotic process (GO:0043066),"['TNFAIP8', 'NOTCH1', 'UNC5B', 'EGFR', 'POU3F3', 'VEGFA', 'NR4A2', 'MAG', 'DAB2', 'ERBB3', 'TYRO3', 'SPRY2', 'SOX8', 'AVP', 'CRYAB']",0.14203950490874706
+regulation of cytoskeleton organization (GO:0051493),"['PHLDB1', 'CLIC4', 'ARHGEF19', 'MAP6D1', 'TRIM36', 'SORBS3']",0.14245968847339266
+regulation of axonogenesis (GO:0050770),"['MAG', 'METRN', 'PLXNB3', 'LRP4']",0.14604089903356865
+negative regulation of signal transduction (GO:0009968),"['NR4A2', 'TSPAN15', 'ERBB3', 'TYRO3', 'SPRY2', 'PRKCQ', 'APOD', 'GLI3', 'EGFR', 'NKD1']",0.1469029971812867
+regulation of glial cell proliferation (GO:0060251),"['NOTCH1', 'HES1']",0.1469029971812867
+glomerular filtration (GO:0003094),"['MYO1E', 'MCAM']",0.1469029971812867
+"regulation of Wnt signaling pathway, planar cell polarity pathway (GO:2000095)","['DAB2', 'NKD1']",0.1469029971812867
+ameboidal-type cell migration (GO:0001667),"['SEMA6D', 'SOX8', 'AMOTL2', 'SOX10']",0.1469029971812867
+cartilage development (GO:0051216),"['NFIB', 'COL11A2', 'SOX6', 'HES5']",0.1469029971812867
+positive regulation of Wnt signaling pathway (GO:0030177),"['ZEB2', 'SALL1', 'JUP', 'FAM53B', 'EGFR', 'WLS', 'RNF220']",0.16039874621799702
+positive regulation of MAPK cascade (GO:0043410),"['SOX2', 'PDGFRA', 'GPR37', 'NOTCH1', 'LPAR1', 'SPRY2', 'ABCA7', 'GPR37L1', 'EGFR', 'VEGFA']",0.16288885545999202
+limb development (GO:0060173),"['SALL1', 'LRP4', 'GLI3']",0.16288885545999202
+alanine transport (GO:0032328),"['SLC38A3', 'SLC7A10']",0.16288885545999202
+cell differentiation involved in metanephros development (GO:0072202),"['SALL1', 'POU3F3']",0.16288885545999202
+regulation of hydrogen peroxide-induced cell death (GO:1903205),"['GPR37', 'GPR37L1']",0.16288885545999202
+renal filtration (GO:0097205),"['MYO1E', 'MCAM']",0.16288885545999202
+myelin assembly (GO:0032288),"['PMP22', 'CD9']",0.16288885545999202
+negative regulation of cell-cell adhesion mediated by cadherin (GO:2000048),"['NOTCH1', 'VEGFA']",0.16288885545999202
+phosphatidylcholine catabolic process (GO:0034638),"['ENPP2', 'PLA2G4A']",0.16288885545999202
+skeletal system development (GO:0001501),"['ADAMTS4', 'BCAN', 'GJA1', 'COL11A2', 'SOX6', 'HES5', 'HAPLN2']",0.17103353079148717
+artery morphogenesis (GO:0048844),"['NOTCH1', 'HES1', 'VEGFA']",0.17103353079148717
+morphogenesis of an epithelium (GO:0002009),"['LHX1', 'SOX8', 'SOX10']",0.17103353079148717
+epithelium development (GO:0060429),"['SALL1', 'LHX1', 'SOX8', 'SOX10', 'HES5', 'VEGFA']",0.17326179217072643
+renal system development (GO:0072001),"['SALL1', 'LHX1', 'LRP4', 'VEGFA']",0.17563590094957912
+positive regulation of epithelial cell proliferation (GO:0050679),"['TCF7L2', 'NR4A3', 'PLXNB3', 'PTN', 'EGFR', 'VEGFA']",0.17612268895951425
+eye development (GO:0001654),"['SOX2', 'MEIS1', 'MEIS2', 'HES5']",0.17612268895951425
+fat cell differentiation (GO:0045444),"['NR4A2', 'TCF7L2', 'NR4A3', 'SOX8']",0.17612268895951425
+angiogenesis involved in wound healing (GO:0060055),"['MCAM', 'VEGFA']",0.17612268895951425
+regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway (GO:2001267),"['GSN', 'ST18']",0.17612268895951425
+cell differentiation in spinal cord (GO:0021515),"['LHX1', 'SOX6']",0.17612268895951425
+negative regulation of lymphocyte migration (GO:2000402),"['PADI2', 'APOD']",0.17612268895951425
+positive regulation of non-canonical Wnt signaling pathway (GO:2000052),"['DAB2', 'NKD1']",0.17612268895951425
+regulation of stem cell differentiation (GO:2000736),"['PDGFRA', 'NOTCH1', 'HES1', 'PTN', 'HES5']",0.1816994339904829
+chondrocyte differentiation (GO:0002062),"['NFIB', 'SOX6', 'HES5']",0.1816994339904829
+ERBB2 signaling pathway (GO:0038128),"['ERBB3', 'GAB1', 'EGFR']",0.1816994339904829
+positive regulation of receptor signaling pathway via STAT (GO:1904894),"['NOTCH1', 'HES1', 'HES5']",0.1816994339904829
+negative regulation of canonical Wnt signaling pathway (GO:0090090),"['SOX2', 'TCF7L2', 'DAB2', 'FRMD8', 'LRP4', 'GLI3', 'NKD1']",0.18631275887113852
+muscle cell development (GO:0055001),"['MEGF10', 'HES1', 'VEGFA']",0.18772837414008697
+positive regulation of receptor signaling pathway via JAK-STAT (GO:0046427),"['NOTCH1', 'HES1', 'HES5']",0.18772837414008697
+regulation of transcription by RNA polymerase II (GO:0006357),"['NFIX', 'NOTCH1', 'EPAS1', 'CXXC5', 'LITAF', 'GLI3', 'EGFR', 'SOX2', 'SALL1', 'EDNRB', 'SALL3', 'ZIC1', 'HES1', 'SOX8', 'SOX6', 'HES5', 'IL33', 'TCF7L2', 'NKX6-2', 'JUP', 'PRRX1', 'EBF1', 'TFEB', 'MITF', 'ETV1', 'OLIG1', 'OLIG2', 'SOX10', 'MEIS2', 'ST18', 'POU3F3', 'RGMA', 'VEGFA', 'NR4A2', 'POMC', 'ZEB2', 'DAB2', 'MEIS1', 'NR4A3', 'IFI27', 'NFIA', 'IRF3', 'NFIB', 'LHX1', 'ID3', 'CREB5']",0.18772837414008697
+epithelial cell-cell adhesion (GO:0090136),"['ITGB5', 'JUP']",0.18772837414008697
+regulation of pseudopodium assembly (GO:0031272),"['CDC42EP2', 'CDC42EP1']",0.18772837414008697
+eye photoreceptor cell differentiation (GO:0001754),"['NKD1', 'VEGFA']",0.18772837414008697
+regulation of vascular associated smooth muscle cell migration (GO:1904752),"['DOCK5', 'NR4A3']",0.18772837414008697
+neurotransmitter uptake (GO:0001504),"['SLC1A3', 'ATP1A2']",0.18772837414008697
+positive regulation of pseudopodium assembly (GO:0031274),"['CDC42EP2', 'CDC42EP1']",0.18772837414008697
+positive regulation of canonical Wnt signaling pathway (GO:0090263),"['ZEB2', 'JUP', 'FAM53B', 'EGFR', 'WLS', 'RNF220']",0.19111438596541758
+cardiac muscle contraction (GO:0060048),"['GSN', 'TNNI1', 'ATP1A2']",0.1916457070579073
+regulation of myoblast differentiation (GO:0045661),"['NOTCH1', 'SOX8', 'ZFP36L1']",0.1916457070579073
+phosphatidylinositol 3-kinase signaling (GO:0014065),"['ERBB3', 'TYRO3', 'ZFP36L1']",0.1916457070579073
+phosphatidylserine metabolic process (GO:0006658),"['MBOAT1', 'PLA2G4A', 'PLAAT3']",0.1916457070579073
+cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),"['CLDN11', 'MAG', 'CDH20', 'CDH23', 'PLXNB3', 'DSCAML1', 'CDH19']",0.1936838454086667
+anterior/posterior pattern specification (GO:0009952),"['LHX1', 'HES1', 'HES5', 'WLS']",0.1969675038996616
+smoothened signaling pathway (GO:0007224),"['PKD2L1', 'GLI3', 'HES5']",0.19918014720727625
+positive regulation of cold-induced thermogenesis (GO:0120162),"['GJA1', 'GATM', 'EPAS1', 'OXT', 'VEGFA']",0.19918014720727625
+extracellular matrix organization (GO:0030198),"['ADAMTS4', 'BCAN', 'GSN', 'COL27A1', 'ITGB5', 'MMP15', 'ITGA10', 'COL11A2', 'PLOD1', 'MATN4']",0.19918014720727625
+cardiac cell development (GO:0055006),"['NOTCH1', 'VEGFA']",0.19918014720727625
+cranial nerve development (GO:0021545),"['SALL1', 'ERBB3']",0.19918014720727625
+relaxation of cardiac muscle (GO:0055119),"['GSN', 'ATP1A2']",0.19918014720727625
+negative regulation of myoblast differentiation (GO:0045662),"['NOTCH1', 'SOX8']",0.19918014720727625
+regulation of peptidyl-serine phosphorylation (GO:0033135),"['RASSF2', 'SPRY2', 'AVP', 'EGFR', 'VEGFA']",0.20113131004237114
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),"['CDH20', 'CDH23', 'CDH19']",0.20113131004237114
+regulation of microtubule-based process (GO:0032886),"['PHLDB1', 'MAP6D1', 'TRIM36']",0.20113131004237114
+endoderm formation (GO:0001706),"['ITGB5', 'MMP15', 'LHX1']",0.20113131004237114
+regulation of protein import into nucleus (GO:0042306),"['JUP', 'ZIC1', 'APOD']",0.20113131004237114
+platelet aggregation (GO:0070527),"['PDGFRA', 'CSRP1', 'TYRO3']",0.20113131004237114
+extracellular structure organization (GO:0043062),"['ADAMTS4', 'BCAN', 'COL27A1', 'ITGB5', 'MMP15', 'ITGA10', 'COL11A2', 'MATN4']",0.20113131004237114
+external encapsulating structure organization (GO:0045229),"['ADAMTS4', 'BCAN', 'COL27A1', 'ITGB5', 'MMP15', 'ITGA10', 'COL11A2', 'MATN4']",0.20490758078019158
+regulation of microtubule cytoskeleton organization (GO:0070507),"['PHLDB1', 'MAP6D1', 'TRIM36']",0.2091815399123349
+neural crest cell migration (GO:0001755),"['SEMA6D', 'SOX8', 'SOX10']",0.2091815399123349
+regulation of gastrulation (GO:0010470),"['PHLDB1', 'LHX1']",0.2091815399123349
+regulation of trophoblast cell migration (GO:1901163),"['GJA1', 'VEGFA']",0.2091815399123349
+relaxation of muscle (GO:0090075),"['GSN', 'ATP1A2']",0.2091815399123349
+T cell differentiation in thymus (GO:0033077),"['GLI3', 'ZFP36L1']",0.2091815399123349
+vascular endothelial growth factor signaling pathway (GO:0038084),"['GAB1', 'VEGFA']",0.2091815399123349
+positive regulation of cell motility (GO:2000147),"['PDGFRA', 'DAB2', 'NOTCH1', 'SEMA6D', 'SPRY2', 'VSIR', 'EGFR', 'VEGFA']",0.21513318262373973
+regulation of myeloid cell differentiation (GO:0045637),"['MEIS1', 'NR4A3', 'PRKCQ', 'MEIS2']",0.21705388778766338
+ventricular septum development (GO:0003281),"['NOTCH1', 'SALL1', 'HES1']",0.21705388778766338
+embryonic cranial skeleton morphogenesis (GO:0048701),"['PDGFRA', 'LHX1']",0.23061508054620936
+membrane raft organization (GO:0031579),"['FA2H', 'ABCA7']",0.23061508054620936
+myoblast differentiation (GO:0045445),"['TCF7L2', 'EPAS1']",0.23061508054620936
+kidney development (GO:0001822),"['SALL1', 'LHX1', 'LRP4', 'VEGFA']",0.23250704032579406
+regulation of phosphatidylinositol 3-kinase signaling (GO:0014066),"['PDGFRA', 'ERBB3', 'UNC5B', 'GAB1', 'EGFR']",0.23803176053535974
+digestive tract development (GO:0048565),"['EDNRB', 'SALL1', 'GLI3']",0.23803176053535974
+negative regulation of neuron apoptotic process (GO:0043524),"['MAG', 'ERBB3', 'UNC5B', 'TYRO3']",0.23803176053535974
+phosphatidylinositol-mediated signaling (GO:0048015),"['PDGFRA', 'ERBB3', 'TYRO3', 'ZFP36L1']",0.23803176053535974
+positive regulation of neurogenesis (GO:0050769),"['METRN', 'PLXNB3', 'SOX8', 'VEGFA']",0.24521012598344508
+carboxylic acid transmembrane transport (GO:1905039),"['SLC7A11', 'SLC7A10', 'SLC38A3']",0.24521012598344508
+visual system development (GO:0150063),"['SOX2', 'MEIS1', 'MEIS2']",0.24521012598344508
+negative regulation of cell-cell adhesion (GO:0022408),"['NOTCH1', 'MBP', 'VEGFA']",0.24521012598344508
+negative regulation of platelet activation (GO:0010544),"['PDGFRA', 'CD9']",0.24521012598344508
+platelet-derived growth factor receptor signaling pathway (GO:0048008),"['PDGFRA', 'NR4A3']",0.24521012598344508
+positive regulation of epithelial to mesenchymal transition (GO:0010718),"['TCF7L2', 'DAB2', 'NOTCH1']",0.259600592603113
+negative regulation of Wnt signaling pathway (GO:0030178),"['SOX2', 'TCF7L2', 'DAB2', 'FRMD8', 'LRP4', 'GLI3', 'NKD1']",0.26383748816825525
+regulation of neuroblast proliferation (GO:1902692),"['PTN', 'VEGFA']",0.2644905231468763
+regulation of stem cell proliferation (GO:0072091),"['GJA1', 'ZFP36L1']",0.2644905231468763
+mesonephric tubule development (GO:0072164),"['SALL1', 'LHX1']",0.2644905231468763
+positive regulation of smooth muscle cell migration (GO:0014911),"['DOCK5', 'NR4A3']",0.2644905231468763
+positive regulation of stem cell differentiation (GO:2000738),"['PTN', 'SOX6']",0.2644905231468763
+substantia nigra development (GO:0021762),"['PLP1', 'PADI2', 'MBP']",0.2644905231468763
+positive regulation of phospholipase C activity (GO:0010863),"['PDGFRA', 'LPAR1', 'EGFR']",0.2644905231468763
+positive regulation of cellular process (GO:0048522),"['PDGFRA', 'NOTCH1', 'MYRF', 'MLC1', 'ABCA7', 'PTN', 'MEIS2', 'EGFR', 'POU3F3', 'VEGFA', 'ZFP36L1', 'MEIS1', 'ERBB3', 'TRIM13', 'HES1', 'HES5']",0.26905070754748217
+positive regulation of metabolic process (GO:0009893),"['GJA1', 'GATM', 'EPAS1', 'OXT', 'VEGFA']",0.2721764118690752
+embryonic organ morphogenesis (GO:0048562),"['PDGFRA', 'HES1', 'DSCAML1']",0.2721764118690752
+phosphatidylcholine metabolic process (GO:0046470),"['ENPP2', 'MBOAT1', 'PLA2G4A', 'PLAAT3']",0.2721764118690752
+positive regulation of phosphatidylinositol 3-kinase signaling (GO:0014068),"['PDGFRA', 'ERBB3', 'UNC5B', 'GAB1']",0.2721764118690752
+positive regulation of kinase activity (GO:0033674),"['PDGFRA', 'RASSF2', 'ERBB3', 'TYRO3', 'EGFR']",0.2721764118690752
+acidic amino acid transport (GO:0015800),"['GJA1', 'SLC1A3']",0.2721764118690752
+regulation of platelet aggregation (GO:0090330),"['CD9', 'PRKCQ']",0.2721764118690752
+embryonic digit morphogenesis (GO:0042733),"['SALL1', 'GLI3']",0.2721764118690752
+fluid transport (GO:0042044),"['AQP4', 'AVP']",0.2721764118690752
+long-chain fatty-acyl-CoA biosynthetic process (GO:0035338),"['ACSBG1', 'ELOVL7']",0.2721764118690752
+water transport (GO:0006833),"['AQP4', 'AVP']",0.2721764118690752
+phosphatidylinositol acyl-chain remodeling (GO:0036149),"['PLA2G4A', 'PLAAT3']",0.2721764118690752
+positive chemotaxis (GO:0050918),"['PLXNB3', 'VEGFA']",0.2721764118690752
+amino acid transmembrane transport (GO:0003333),"['SLC7A11', 'SLC7A10', 'SLC38A3']",0.2732626522909688
+regulation of receptor signaling pathway via JAK-STAT (GO:0046425),"['NOTCH1', 'HES1', 'HES5']",0.2732626522909688
+neural crest cell development (GO:0014032),"['SEMA6D', 'SOX8', 'SOX10']",0.2732626522909688
+sphingolipid metabolic process (GO:0006665),"['FA2H', 'GAL3ST1', 'ENPP2', 'ELOVL7', 'PLPP3']",0.2781675223803397
+alpha-amino acid metabolic process (GO:1901605),"['FOLH1', 'GPT', 'ASPA']",0.2781675223803397
+positive regulation of nucleocytoplasmic transport (GO:0046824),"['TCF7L2', 'JUP', 'ZIC1']",0.2781675223803397
+positive regulation of smooth muscle cell proliferation (GO:0048661),"['GJA1', 'NR4A3', 'HES5']",0.2781675223803397
+cellular response to growth factor stimulus (GO:0071363),"['NOTCH1', 'SPRY2', 'SOX6', 'EGFR', 'ZFP36L1', 'VEGFA']",0.2781675223803397
+negative regulation of cellular component organization (GO:0051129),"['SPRY2', 'ABCA7', 'CRYAB', 'VEGFA']",0.2781675223803397
+aspartate family amino acid catabolic process (GO:0009068),"['PIPOX', 'ASPA']",0.2781675223803397
+aspartate family amino acid metabolic process (GO:0009066),"['FOLH1', 'ASPA']",0.2781675223803397
+regulation of cell-cell adhesion mediated by cadherin (GO:2000047),"['NOTCH1', 'VEGFA']",0.2781675223803397
+detection of mechanical stimulus (GO:0050982),"['JUP', 'PKD2L1']",0.2781675223803397
+heart trabecula morphogenesis (GO:0061384),"['NOTCH1', 'S1PR1']",0.2781675223803397
+mesenchymal cell development (GO:0014031),"['NOTCH1', 'SOX8']",0.2781675223803397
+ureteric bud development (GO:0001657),"['SALL1', 'LHX1']",0.2781675223803397
+negative regulation of striated muscle cell differentiation (GO:0051154),"['NOTCH1', 'SOX6']",0.2781675223803397
+positive regulation of protein kinase B signaling (GO:0051897),"['PDGFRA', 'TCF7L2', 'ERBB3', 'GAB1', 'SPRY2', 'EGFR']",0.29674747493979603
+cell-cell junction organization (GO:0045216),"['JUP', 'CDH20', 'LIMS2', 'CDH19']",0.29674747493979603
+dopaminergic neuron differentiation (GO:0071542),"['NR4A2', 'VEGFA']",0.29801483675960183
+eye morphogenesis (GO:0048592),"['NKD1', 'VEGFA']",0.29801483675960183
+gastrulation (GO:0007369),"['NR4A3', 'LHX1']",0.29801483675960183
+skeletal muscle contraction (GO:0003009),"['TNNI1', 'MYH14']",0.29801483675960183
+adherens junction organization (GO:0034332),"['JUP', 'CDH20', 'CDH19']",0.30592571203747265
+negative regulation of cell projection organization (GO:0031345),"['MAG', 'LPAR1', 'SPRY2']",0.30592571203747265
+positive regulation of actin filament polymerization (GO:0030838),"['GSN', 'CDC42EP2', 'CDC42EP1']",0.30592571203747265
+regulation of neuron projection development (GO:0010975),"['NTNG2', 'MAG', 'LPAR1', 'PLXNB3', 'MBOAT1', 'PTN']",0.3151327806408955
+anterior/posterior axis specification (GO:0009948),"['LHX1', 'WLS']",0.3151327806408955
+positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus (GO:1901522),"['NOTCH1', 'VEGFA']",0.3151327806408955
+positive regulation of vascular associated smooth muscle cell proliferation (GO:1904707),"['GJA1', 'NR4A3']",0.3151327806408955
+amino acid transport (GO:0006865),"['SLC7A11', 'SLC7A10', 'SLC38A3']",0.3151327806408955
+regulation of MAPK cascade (GO:0043408),"['SOX2', 'GPR37', 'LPAR1', 'ABCA7', 'GPR37L1', 'EGFR']",0.31688541936595715
+regulation of epithelial cell migration (GO:0010632),"['DOCK5', 'ENPP2', 'PTN']",0.327074006456113
+negative regulation of transport (GO:0051051),"['ERBB3', 'ABCA7', 'CRYAB']",0.327074006456113
+negative regulation of protein metabolic process (GO:0051248),"['EDNRB', 'CRYAB', 'EGFR']",0.3419426726786931
+positive regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043123),"['GJA1', 'TRIM13', 'LPAR1', 'CXXC5', 'LITAF', 'WLS']",0.3477877319805248
+heart morphogenesis (GO:0003007),"['NOTCH1', 'HES1', 'VEGFA']",0.3477877319805248
+artery development (GO:0060840),"['HES1', 'VEGFA']",0.3477877319805248
+regulation of protein export from nucleus (GO:0046825),"['TCF7L2', 'IFI27']",0.3477877319805248
+ERK1 and ERK2 cascade (GO:0070371),"['AVP', 'ZFP36L1']",0.3477877319805248
+negative regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001240),"['UNC5B', 'EYA4']",0.3477877319805248
+negative regulation of signal transduction in absence of ligand (GO:1901099),"['UNC5B', 'EYA4']",0.3477877319805248
+positive regulation of protein autophosphorylation (GO:0031954),"['RASSF2', 'VEGFA']",0.3477877319805248
+striated muscle contraction (GO:0006941),"['TNNI1', 'MYH14', 'ATP1A2']",0.3477877319805248
+positive regulation of transport (GO:0051050),"['DAB2', 'MLC1', 'ABCA7', 'SGK2']",0.3477877319805248
+negative regulation of nucleic acid-templated transcription (GO:1903507),"['TCF7L2', 'NKX6-2', 'NOTCH1', 'SALL1', 'ATP8B1', 'LHX1', 'ID3', 'HES1', 'SOX8', 'CRYAB', 'GLI3', 'POU3F3']",0.3477877319805248
+Wnt signaling pathway (GO:0016055),"['NR4A2', 'TCF7L2', 'PLPP3', 'WLS']",0.3477877319805248
+positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090100),"['ZEB2', 'DAB2', 'NOTCH1', 'HES5']",0.3477877319805248
+regulation of axon extension involved in axon guidance (GO:0048841),"['SEMA6D', 'VEGFA']",0.3477877319805248
+regulation of cardiac muscle hypertrophy (GO:0010611),"['NOTCH1', 'NR4A3']",0.3477877319805248
+cardiac muscle cell development (GO:0055013),"['PDGFRA', 'VEGFA']",0.3477877319805248
+cellular response to catecholamine stimulus (GO:0071870),"['NR4A3', 'PDE4B']",0.3477877319805248
+dorsal/ventral pattern formation (GO:0009953),"['LHX1', 'DSCAML1']",0.3477877319805248
+endocrine system development (GO:0035270),"['SOX2', 'SALL1']",0.3477877319805248
+establishment of mitotic spindle orientation (GO:0000132),"['GJA1', 'INSC']",0.3477877319805248
+response to gamma radiation (GO:0010332),"['TRIM13', 'CRYAB']",0.3477877319805248
+lipid translocation (GO:0034204),"['ATP8B1', 'ABCA7']",0.3477877319805248
+long-chain fatty-acyl-CoA metabolic process (GO:0035336),"['ACSBG1', 'ELOVL7']",0.3477877319805248
+negative regulation of ossification (GO:0030279),"['NOTCH1', 'LRP4']",0.3477877319805248
+phospholipid catabolic process (GO:0009395),"['ENPP2', 'PLA2G4A']",0.3477877319805248
+positive regulation of cellular response to transforming growth factor beta stimulus (GO:1903846),"['DAB2', 'ZEB2']",0.3477877319805248
+positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003),"['NOTCH1', 'VEGFA']",0.3477877319805248
+positive regulation of transforming growth factor beta receptor signaling pathway (GO:0030511),"['DAB2', 'ZEB2']",0.3477877319805248
+protein kinase B signaling (GO:0043491),"['TYRO3', 'ZFP36L1']",0.3477877319805248
+regulation of cell motility (GO:2000145),"['ERBB3', 'ENPP2', 'PLXNB3', 'AMOTL2', 'EGFR']",0.3477877319805248
+positive regulation of peptidyl-serine phosphorylation (GO:0033138),"['SPRY2', 'AVP', 'EGFR', 'VEGFA']",0.3477877319805248
+positive regulation of peptidyl-tyrosine phosphorylation (GO:0050731),"['ERBB3', 'ENPP2', 'HES1', 'HES5', 'VEGFA']",0.3477877319805248
+Rho protein signal transduction (GO:0007266),"['CDC42EP2', 'CDC42EP1', 'ARHGAP29']",0.3477877319805248
+sensory organ development (GO:0007423),"['SOX2', 'MEIS1', 'MEIS2']",0.3477877319805248
+regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043122),"['GJA1', 'TRIM13', 'LPAR1', 'TRIM59', 'CXXC5', 'LITAF', 'WLS']",0.3477877319805248
+regulation of kinase activity (GO:0043549),"['PDGFRA', 'ERBB3', 'TYRO3', 'EGFR']",0.3477877319805248
+in utero embryonic development (GO:0001701),"['SOX8', 'VEGFA']",0.3477877319805248
+chordate embryonic development (GO:0043009),"['SOX8', 'HES5', 'VEGFA']",0.3477877319805248
+membrane lipid biosynthetic process (GO:0046467),"['FA2H', 'ELOVL7', 'PLPP3']",0.3477877319805248
+negative regulation of neuron projection development (GO:0010977),"['MAG', 'LPAR1', 'LRP4']",0.3477877319805248
+regulation of biomineral tissue development (GO:0070167),"['NOTCH1', 'S1PR1']",0.3477877319805248
+response to reactive oxygen species (GO:0000302),"['PDGFRA', 'APOD', 'EGFR']",0.3477877319805248
+positive regulation of tyrosine phosphorylation of STAT protein (GO:0042531),"['HES1', 'HES5', 'VEGFA']",0.3477877319805248
+enzyme linked receptor protein signaling pathway (GO:0007167),"['PDGFRA', 'ERBB3', 'TYRO3', 'PTN', 'EGFR']",0.3477877319805248
+regulation of neuron apoptotic process (GO:0043523),"['MAG', 'ERBB3', 'UNC5B', 'TYRO3']",0.3477877319805248
+negative regulation of neuron death (GO:1901215),"['MAG', 'ERBB3', 'UNC5B', 'TYRO3']",0.3477877319805248
+positive regulation of gene expression (GO:0010628),"['IL33', 'GJA1', 'GSN', 'NOTCH1', 'SPRY2', 'MITF', 'AVP', 'PLD1', 'VSIR', 'EGFR', 'POU3F3', 'VEGFA']",0.3477877319805248
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway (GO:0007193),"['GPR37', 'LPAR1', 'GPR37L1']",0.3477877319805248
+Notch signaling pathway (GO:0007219),"['NOTCH1', 'HES1', 'HES5']",0.3477877319805248
+regulation of cardiac muscle cell contraction (GO:0086004),"['JUP', 'PDE4B']",0.3477877319805248
+camera-type eye development (GO:0043010),"['HES5', 'VEGFA']",0.3477877319805248
+positive regulation of BMP signaling pathway (GO:0030513),"['NOTCH1', 'HES5']",0.3477877319805248
+positive regulation of mitotic cell cycle (GO:0045931),"['HES1', 'MEIS2']",0.3477877319805248
+Ras protein signal transduction (GO:0007265),"['CDC42EP2', 'ARHGAP29', 'CDC42EP1', 'PLD1', 'RASGRP3']",0.3477877319805248
+organic acid transport (GO:0015849),"['ATP8B1', 'SLC7A11', 'SLC38A3', 'SLC7A10']",0.3477877319805248
+positive regulation of macromolecule metabolic process (GO:0010604),"['IL33', 'GJA1', 'GSN', 'NOTCH1', 'SPRY2', 'MITF', 'AVP', 'VSIR', 'POU3F3', 'VEGFA']",0.3477877319805248
+receptor clustering (GO:0043113),"['LRP4', 'PTN']",0.3477877319805248
+cellular response to epidermal growth factor stimulus (GO:0071364),"['EGFR', 'ZFP36L1']",0.3477877319805248
+regulation of extrinsic apoptotic signaling pathway in absence of ligand (GO:2001239),"['UNC5B', 'EYA4']",0.3477877319805248
+regulation of muscle contraction (GO:0006937),"['TNNI1', 'ATP1A2']",0.3477877319805248
+regulation of plasma membrane bounded cell projection organization (GO:0120035),"['NTNG2', 'MBOAT1']",0.3477877319805248
+glycerophospholipid catabolic process (GO:0046475),"['ENPP2', 'PLA2G4A']",0.3477877319805248
+L-amino acid transport (GO:0015807),"['SLC1A3', 'SLC38A3']",0.3477877319805248
+ventricular septum morphogenesis (GO:0060412),"['NOTCH1', 'HES1']",0.3477877319805248
+negative regulation of axonogenesis (GO:0050771),"['MAG', 'LRP4']",0.3477877319805248
+negative regulation of oxidative stress-induced cell death (GO:1903202),"['GPR37', 'GPR37L1']",0.3477877319805248
+neutral amino acid transport (GO:0015804),"['SLC7A10', 'SLC38A3']",0.3477877319805248
+positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G protein-coupled signaling pathway (GO:0051482),"['GPR17', 'LPAR1']",0.3477877319805248
+positive regulation of protein import into nucleus (GO:0042307),"['JUP', 'ZIC1']",0.3477877319805248
+regulation of neurogenesis (GO:0050767),"['NOTCH1', 'HES1', 'HES5']",0.3477877319805248
+actin cytoskeleton reorganization (GO:0031532),"['GSN', 'GAB1', 'S1PR1']",0.3477877319805248
+amyloid fibril formation (GO:1990000),"['TSPAN15', 'GSN', 'MFGE8']",0.3477877319805248
+positive regulation of Ras protein signal transduction (GO:0046579),"['GPR17', 'NOTCH1', 'LPAR1']",0.3477877319805248
+regulation of cell population proliferation (GO:0042127),"['PDGFRA', 'TCF7L2', 'NOTCH1', 'JUP', 'PTN', 'MEIS2', 'ST18', 'EGFR', 'POU3F3', 'VEGFA', 'ZFP36L1', 'MEIS1', 'NR4A3', 'ERBB3', 'HES1', 'SGK2', 'HES5']",0.3477877319805248
+dicarboxylic acid transport (GO:0006835),"['GJA1', 'SLC1A3']",0.3477877319805248
+establishment of mitotic spindle localization (GO:0040001),"['GJA1', 'INSC']",0.3477877319805248
+positive regulation of leukocyte migration (GO:0002687),"['PTN', 'VEGFA']",0.3477877319805248
+axonogenesis (GO:0007409),"['NTNG2', 'NOTCH1', 'UNC5B', 'SEMA6D', 'GAB1', 'PRKCQ', 'DSCAML1']",0.3477877319805248
+plasma membrane organization (GO:0007009),"['FA2H', 'ABCA7', 'TLCD1']",0.3477877319805248
+positive regulation of transferase activity (GO:0051347),"['PDGFRA', 'ERBB3', 'TYRO3', 'PRKCQ', 'EGFR']",0.3477877319805248
+regulation of adherens junction organization (GO:1903391),['VEGFA'],0.3477877319805248
+regulation of basement membrane assembly involved in embryonic body morphogenesis (GO:1904259),['PHLDB1'],0.3477877319805248
+C-terminal protein deglutamylation (GO:0035609),['FOLH1'],0.3477877319805248
+camera-type eye photoreceptor cell differentiation (GO:0060219),['SOX8'],0.3477877319805248
+cardiac endothelial cell differentiation (GO:0003348),['NOTCH1'],0.3477877319805248
+cardiac muscle cell myoblast differentiation (GO:0060379),['NOTCH1'],0.3477877319805248
+regulation of chloride transport (GO:2001225),['ATP8B1'],0.3477877319805248
+caveolin-mediated endocytosis (GO:0072584),['MLC1'],0.3477877319805248
+cell-cell adhesion mediated by integrin (GO:0033631),['PLPP3'],0.3477877319805248
+cellular response to indole-3-methanol (GO:0071681),['JUP'],0.3477877319805248
+regulation of growth rate (GO:0040009),['NOTCH1'],0.3477877319805248
+cellular response to salt stress (GO:0071472),['ZFP36L1'],0.3477877319805248
+regulation of hormone metabolic process (GO:0032350),['TCF7L2'],0.3477877319805248
+cerebellar Purkinje cell differentiation (GO:0021702),['LHX1'],0.3477877319805248
+regulation of kidney development (GO:0090183),['SOX8'],0.3477877319805248
+regulation of myoblast proliferation (GO:2000291),['MEGF10'],0.3477877319805248
+regulation of plasma membrane organization (GO:1903729),['GSN'],0.3477877319805248
+embryonic viscerocranium morphogenesis (GO:0048703),['LHX1'],0.3477877319805248
+enamel mineralization (GO:0070166),['FAM20A'],0.3477877319805248
+endocardial cell differentiation (GO:0060956),['NOTCH1'],0.3477877319805248
+endodermal cell fate specification (GO:0001714),['SOX2'],0.3477877319805248
+regulation of protein kinase C activity (GO:1900019),['EGFR'],0.3477877319805248
+endothelin receptor signaling pathway (GO:0086100),['EDNRB'],0.3477877319805248
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process (GO:1902222),['QDPR'],0.3477877319805248
+regulation of respiratory gaseous exchange by nervous system process (GO:0002087),['ATP1A2'],0.3477877319805248
+regulation of retinal ganglion cell axon guidance (GO:0090259),['VEGFA'],0.3477877319805248
+regulation of skeletal muscle tissue development (GO:0048641),['MEGF10'],0.3477877319805248
+female genitalia development (GO:0030540),['LHX1'],0.3477877319805248
+forebrain regionalization (GO:0021871),['LHX1'],0.3477877319805248
+glomerular visceral epithelial cell migration (GO:0090521),['ANLN'],0.3477877319805248
+regulation of type B pancreatic cell apoptotic process (GO:2000674),['TCF7L2'],0.3477877319805248
+glucosylceramide metabolic process (GO:0006678),['FA2H'],0.3477877319805248
+regulation of vascular associated smooth muscle contraction (GO:0003056),['DOCK5'],0.3477877319805248
+glycerol ether metabolic process (GO:0006662),['PLAAT3'],0.3477877319805248
+regulation of voltage-gated sodium channel activity (GO:1905150),['FGF11'],0.3477877319805248
+response to denervation involved in regulation of muscle adaptation (GO:0014894),['FBXO32'],0.3477877319805248
+response to indole-3-methanol (GO:0071680),['JUP'],0.3477877319805248
+histone citrullination (GO:0036414),['PADI2'],0.3477877319805248
+response to salt stress (GO:0009651),['ZFP36L1'],0.3477877319805248
+retina vasculature development in camera-type eye (GO:0061298),['PDGFRA'],0.3477877319805248
+Schwann cell differentiation (GO:0014037),['ERBB3'],0.3477877319805248
+sensory perception of sour taste (GO:0050915),['PKD2L1'],0.3477877319805248
+L-aspartate transmembrane transport (GO:0070778),['SLC1A3'],0.3477877319805248
+L-phenylalanine catabolic process (GO:0006559),['QDPR'],0.3477877319805248
+tight junction organization (GO:0120193),['CLDN11'],0.3477877319805248
+membrane raft distribution (GO:0031580),['MAL'],0.3477877319805248
+metanephric distal tubule development (GO:0072235),['POU3F3'],0.3477877319805248
+metanephric nephron tubule morphogenesis (GO:0072282),['SOX8'],0.3477877319805248
+metanephric renal vesicle morphogenesis (GO:0072283),['SALL1'],0.3477877319805248
+vascular endothelial growth factor receptor-2 signaling pathway (GO:0036324),['VEGFA'],0.3477877319805248
+vitamin D3 metabolic process (GO:0070640),['CYP27A1'],0.3477877319805248
+negative regulation of gonadotropin secretion (GO:0032277),['GJA1'],0.3477877319805248
+negative regulation of hydrogen peroxide-induced neuron death (GO:1903208),['NR4A3'],0.3477877319805248
+negative regulation of myelination (GO:0031642),['TMEM98'],0.3477877319805248
+negative regulation of PERK-mediated unfolded protein response (GO:1903898),['ABCA7'],0.3477877319805248
+negative regulation of smooth muscle contraction (GO:0045986),['DOCK5'],0.3477877319805248
+negative regulation of T cell migration (GO:2000405),['APOD'],0.3477877319805248
+nephric duct development (GO:0072176),['LHX1'],0.3477877319805248
+nephron tubule formation (GO:0072079),['SOX8'],0.3477877319805248
+p38MAPK cascade (GO:0038066),['ZFP36L1'],0.3477877319805248
+peripheral nervous system neuron differentiation (GO:0048934),['ETV1'],0.3477877319805248
+positive regulation of axon extension involved in axon guidance (GO:0048842),['VEGFA'],0.3477877319805248
+positive regulation of basement membrane assembly involved in embryonic body morphogenesis (GO:1904261),['PHLDB1'],0.3477877319805248
+positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway (GO:0038033),['VEGFA'],0.3477877319805248
+positive regulation of feeding behavior (GO:2000253),['NR4A3'],0.3477877319805248
+positive regulation of mast cell chemotaxis (GO:0060754),['VEGFA'],0.3477877319805248
+positive regulation of metallopeptidase activity (GO:1905050),['MBP'],0.3477877319805248
+positive regulation of protein kinase C activity (GO:1900020),['EGFR'],0.3477877319805248
+protein citrullination (GO:0018101),['PADI2'],0.3477877319805248
+establishment of spindle orientation (GO:0051294),"['GJA1', 'INSC']",0.3477877319805248
+regulation of striated muscle contraction (GO:0006942),"['TNNI1', 'ATP1A2']",0.3477877319805248
+fatty-acyl-CoA biosynthetic process (GO:0046949),"['ACSBG1', 'ELOVL7']",0.3477877319805248
+maintenance of blood-brain barrier (GO:0035633),"['GJA1', 'MBP']",0.3477877319805248
+negative regulation of Notch signaling pathway (GO:0045746),"['TSPAN15', 'EGFR']",0.3477877319805248
+phosphatidylcholine acyl-chain remodeling (GO:0036151),"['PLA2G4A', 'PLAAT3']",0.3477877319805248
+positive regulation of endopeptidase activity (GO:0010950),"['MBP', 'VSIR']",0.3477877319805248
+positive regulation of protein import (GO:1904591),"['JUP', 'ZIC1']",0.3477877319805248
+cellular response to organic cyclic compound (GO:0071407),"['NR4A3', 'JUP', 'ATP1A2', 'EGFR', 'ZFP36L1']",0.3477877319805248
+cellular component disassembly (GO:0022411),"['ADAMTS4', 'GSN', 'MMP15']",0.3477877319805248
+ERBB signaling pathway (GO:0038127),"['ERBB3', 'GAB1', 'EGFR']",0.3477877319805248
+extracellular matrix disassembly (GO:0022617),"['ADAMTS4', 'GSN', 'MMP15']",0.3477877319805248
+"regulation of transcription, DNA-templated (GO:0006355)","['NFIX', 'NOTCH1', 'MYRF', 'EPAS1', 'LITAF', 'GLI3', 'EGFR', 'SOX2', 'SALL1', 'SALL3', 'ZIC1', 'HES1', 'SOX8', 'SOX6', 'HES5', 'TCF7L2', 'NKX6-2', 'PRRX1', 'ATP8B1', 'EBF1', 'TFEB', 'MITF', 'ETV1', 'OLIG1', 'OLIG2', 'SOX10', 'MEIS2', 'ST18', 'POU3F3', 'VEGFA', 'NR4A2', 'ZEB2', 'MEIS1', 'NR4A3', 'NFIA', 'IRF3', 'NFIB', 'LHX1', 'ID3', 'PRKCQ', 'CRYAB', 'CREB5']",0.3477877319805248
+embryonic skeletal system morphogenesis (GO:0048704),"['PDGFRA', 'DSCAML1']",0.3477877319805248
+renal water homeostasis (GO:0003091),"['AQP4', 'AVP']",0.3477877319805248
+negative regulation of axon extension (GO:0030517),"['MAG', 'SEMA6D']",0.3477877319805248
+phospholipid translocation (GO:0045332),"['ATP8B1', 'ABCA7']",0.3477877319805248
+positive regulation of leukocyte cell-cell adhesion (GO:1903039),"['NR4A3', 'PRKCQ']",0.3477877319805248
+positive regulation of Rho protein signal transduction (GO:0035025),"['GPR17', 'LPAR1']",0.3477877319805248
+canonical Wnt signaling pathway (GO:0060070),"['NR4A2', 'TCF7L2', 'PLPP3']",0.3477877319805248
+regulation of tyrosine phosphorylation of STAT protein (GO:0042509),"['HES1', 'HES5', 'VEGFA']",0.3477877319805248
+activation of phospholipase C activity (GO:0007202),"['LPAR1', 'EGFR']",0.3477877319805248
+regulation of cell migration involved in sprouting angiogenesis (GO:0090049),"['NOTCH1', 'VEGFA']",0.3477877319805248
+cardiac muscle tissue morphogenesis (GO:0055008),"['NOTCH1', 'S1PR1']",0.3477877319805248
+regulation of intracellular protein transport (GO:0033157),"['IFI27', 'PRR5L']",0.3477877319805248
+endodermal cell differentiation (GO:0035987),"['ITGB5', 'MMP15']",0.3477877319805248
+negative regulation of chemotaxis (GO:0050922),"['NOTCH1', 'SEMA6D']",0.3477877319805248
+negative regulation of developmental growth (GO:0048640),"['MAG', 'NKD1']",0.3477877319805248
+supramolecular fiber organization (GO:0097435),"['MYO1E', 'TSPAN15', 'GSN', 'COL27A1', 'COL11A2', 'CDC42EP2', 'PLOD1', 'MFGE8', 'ERMN']",0.3477877319805248
+generation of neurons (GO:0048699),"['NR4A2', 'LHX1', 'OLIG1', 'HES1', 'OLIG2', 'HES5']",0.3477877319805248
+cellular response to decreased oxygen levels (GO:0036294),"['EPAS1', 'ZFP36L1', 'VEGFA']",0.3477877319805248
+regulation of Wnt signaling pathway (GO:0030111),"['SALL1', 'FAM53B', 'NKD1', 'WLS']",0.3477877319805248
+pteridine-containing compound biosynthetic process (GO:0042559),['QDPR'],0.3477877319805248
+radial glial cell differentiation (GO:0060019),['HES1'],0.3477877319805248
+regulation of adipose tissue development (GO:1904177),['PLAAT3'],0.3477877319805248
+aspartate metabolic process (GO:0006531),['ASPA'],0.3477877319805248
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication (GO:0086073),['JUP'],0.3477877319805248
+regulation of hepatocyte proliferation (GO:2000345),['PTN'],0.3477877319805248
+cellular water homeostasis (GO:0009992),['AQP4'],0.3477877319805248
+regulation of macromolecule biosynthetic process (GO:0010556),['MITF'],0.3477877319805248
+regulation of macrophage proliferation (GO:0120040),['IL33'],0.3477877319805248
+regulation of mast cell chemotaxis (GO:0060753),['VEGFA'],0.3477877319805248
+equilibrioception (GO:0050957),['CDH23'],0.3477877319805248
+regulation of relaxation of cardiac muscle (GO:1901897),['PDE4B'],0.3477877319805248
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process (GO:1902221),['QDPR'],0.3477877319805248
+gastrulation with mouth forming second (GO:0001702),['LHX1'],0.3477877319805248
+regulation of type B pancreatic cell proliferation (GO:0061469),['NR4A3'],0.3477877319805248
+glycosylceramide metabolic process (GO:0006677),['GAL3ST1'],0.3477877319805248
+response to catecholamine (GO:0071869),['NR4A3'],0.3477877319805248
+sialylation (GO:0097503),['ST6GAL1'],0.3477877319805248
+L-serine biosynthetic process (GO:0006564),['PHGDH'],0.3477877319805248
+leukocyte chemotaxis involved in inflammatory response (GO:0002232),['PTN'],0.3477877319805248
+maintenance of DNA repeat elements (GO:0043570),['TCF7L2'],0.3477877319805248
+TORC2 signaling (GO:0038203),['PRR5L'],0.3477877319805248
+mesenchymal to epithelial transition involved in metanephros morphogenesis (GO:0003337),['SALL1'],0.3477877319805248
+transmembrane receptor protein tyrosine phosphatase signaling pathway (GO:0007185),['PTN'],0.3477877319805248
+negative regulation of actin filament depolymerization (GO:0030835),['GSN'],0.3477877319805248
+negative regulation of amyloid precursor protein biosynthetic process (GO:0042985),['ABCA7'],0.3477877319805248
+negative regulation of astrocyte differentiation (GO:0048712),['HES5'],0.3477877319805248
+negative regulation of cardiac muscle cell differentiation (GO:2000726),['SOX6'],0.3477877319805248
+"negative regulation of CD8-positive, alpha-beta T cell activation (GO:2001186)",['VSIR'],0.3477877319805248
+negative regulation of chemokine-mediated signaling pathway (GO:0070100),['PADI2'],0.3477877319805248
+negative regulation of cytosolic calcium ion concentration (GO:0051481),['ATP1A2'],0.3477877319805248
+negative regulation of erythrocyte differentiation (GO:0045647),['ZFP36L1'],0.3477877319805248
+negative regulation of lamellipodium organization (GO:1902744),['PLXNB3'],0.3477877319805248
+negative regulation of lens fiber cell differentiation (GO:1902747),['SPRY2'],0.3477877319805248
+negative regulation of morphogenesis of an epithelium (GO:1905331),['NKD1'],0.3477877319805248
+negative regulation of relaxation of muscle (GO:1901078),['PDE4B'],0.3477877319805248
+negative regulation of trophoblast cell migration (GO:1901164),['GJA1'],0.3477877319805248
+nephric duct morphogenesis (GO:0072178),['LHX1'],0.3477877319805248
+peripheral nervous system neuron development (GO:0048935),['ETV1'],0.3477877319805248
+positive regulation of deacetylase activity (GO:0090045),['VEGFA'],0.3477877319805248
+positive regulation of epithelial cell differentiation involved in kidney development (GO:2000698),['LHX1'],0.3477877319805248
+positive regulation of kidney development (GO:0090184),['SOX8'],0.3477877319805248
+positive regulation of osteoblast proliferation (GO:0033690),['SOX8'],0.3477877319805248
+MAPK cascade (GO:0000165),"['PDGFRA', 'ERBB3', 'PRKCQ', 'MBP', 'AVP', 'EGFR', 'ZFP36L1', 'RASGRP3']",0.3477877319805248
+apoptotic cell clearance (GO:0043277),"['MEGF10', 'TYRO3']",0.3477877319805248
+regulation of interleukin-17 production (GO:0032660),"['PRKCQ', 'VSIR']",0.3477877319805248
+vasculogenesis (GO:0001570),"['NOTCH1', 'VEGFA']",0.3477877319805248
+very long-chain fatty acid metabolic process (GO:0000038),"['ACSBG1', 'ELOVL7']",0.3477877319805248
+positive regulation of phosphorylation (GO:0042327),"['PDGFRA', 'DAB2', 'ERBB3', 'TYRO3', 'FAM20A', 'EGFR', 'VEGFA']",0.3477877319805248
+positive regulation of cell-substrate adhesion (GO:0010811),"['DOCK5', 'JUP', 'LIMS2']",0.3477877319805248
+protein-containing complex subunit organization (GO:0043933),"['MITF', 'HES1', 'HES5', 'SKAP2']",0.3477877319805248
+gland development (GO:0048732),"['SOX2', 'SALL1', 'HES1']",0.3477877319805248
+central nervous system neuron differentiation (GO:0021953),"['NR4A2', 'LHX1']",0.3477877319805248
+epithelial tube morphogenesis (GO:0060562),"['LHX1', 'HES1']",0.3477877319805248
+negative regulation of blood vessel endothelial cell migration (GO:0043537),"['NOTCH1', 'JUP']",0.3477877319805248
+regulation of protein kinase B signaling (GO:0051896),"['PDGFRA', 'TCF7L2', 'ERBB3', 'GAB1', 'SPRY2', 'EGFR']",0.3477877319805248
+positive regulation of cellular component organization (GO:0051130),"['DAB2', 'CDC42EP2', 'LRP4', 'VEGFA']",0.3477877319805248
+embryonic skeletal system development (GO:0048706),"['PDGFRA', 'DSCAML1']",0.3477877319805248
+semaphorin-plexin signaling pathway (GO:0071526),"['SEMA6D', 'PLXNB3']",0.3477877319805248
+negative regulation of Ras protein signal transduction (GO:0046580),"['HEG1', 'SPRY2']",0.3477877319805248
+regulation of Rho protein signal transduction (GO:0035023),"['GPR17', 'HEG1', 'LPAR1']",0.3477877319805248
+negative regulation of cell adhesion (GO:0007162),"['NOTCH1', 'ERBB3', 'PLXNB3']",0.3477877319805248
+regulation of protein-containing complex assembly (GO:0043254),"['GSN', 'CDC42EP2', 'CRYAB', 'VEGFA']",0.3477877319805248
+cellular component assembly (GO:0022607),"['GSN', 'MITF', 'HES1', 'TLCD1', 'LIMS2', 'HES5', 'SKAP2']",0.3477877319805248
+sphingolipid biosynthetic process (GO:0030148),"['FA2H', 'ELOVL7', 'PLPP3']",0.3477877319805248
+astrocyte differentiation (GO:0048708),['HES5'],0.3477877319805248
+atrioventricular valve formation (GO:0003190),['NOTCH1'],0.3477877319805248
+AV node cell to bundle of His cell communication (GO:0086067),['GJC3'],0.3477877319805248
+regulation of blood-brain barrier permeability (GO:1905603),['VEGFA'],0.3477877319805248
+bleb assembly (GO:0032060),['PMP22'],0.3477877319805248
+cardiac muscle cell-cardiac muscle cell adhesion (GO:0086042),['JUP'],0.3477877319805248
+regulation of chromatin assembly or disassembly (GO:0001672),['PADI2'],0.3477877319805248
+cardiolipin acyl-chain remodeling (GO:0035965),['PLA2G4A'],0.3477877319805248
+regulation of extracellular matrix assembly (GO:1901201),['NOTCH1'],0.3477877319805248
+cellular response to gonadotropin stimulus (GO:0071371),['NOTCH1'],0.3477877319805248
+regulation of glial cell differentiation (GO:0045685),['OPALIN'],0.3477877319805248
+cellular response to monoamine stimulus (GO:0071868),['NR4A3'],0.3477877319805248
+regulation of histone deacetylase activity (GO:1901725),['VEGFA'],0.3477877319805248
+chemical homeostasis within a tissue (GO:0048875),['VEGFA'],0.3477877319805248
+regulation of lens fiber cell differentiation (GO:1902746),['SPRY2'],0.3477877319805248
+creatine metabolic process (GO:0006600),['GATM'],0.3477877319805248
+dendrite arborization (GO:0140059),['PTN'],0.3477877319805248
+regulation of morphogenesis of an epithelium (GO:1905330),['GJA1'],0.3477877319805248
+desmosome organization (GO:0002934),['JUP'],0.3477877319805248
+epithelial cell differentiation involved in kidney development (GO:0035850),['SALL1'],0.3477877319805248
+regulation of respiratory system process (GO:0044065),['ATP1A2'],0.3477877319805248
+"fatty acid elongation, monounsaturated fatty acid (GO:0034625)",['ELOVL7'],0.3477877319805248
+"fatty acid elongation, polyunsaturated fatty acid (GO:0034626)",['ELOVL7'],0.3477877319805248
+"fatty acid elongation, saturated fatty acid (GO:0019367)",['ELOVL7'],0.3477877319805248
+"fatty acid elongation, unsaturated fatty acid (GO:0019368)",['ELOVL7'],0.3477877319805248
+regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation (GO:0003256),['NOTCH1'],0.3477877319805248
+glial cell migration (GO:0008347),['CD9'],0.3477877319805248
+glomerular epithelial cell development (GO:0072310),['MYO1E'],0.3477877319805248
+glomerular visceral epithelial cell development (GO:0072015),['MYO1E'],0.3477877319805248
+glutamine transport (GO:0006868),['SLC38A3'],0.3477877319805248
+serine transport (GO:0032329),['SLC7A10'],0.3477877319805248
+L-alanine transport (GO:0015808),['SLC38A3'],0.3477877319805248
+sphingosine-1-phosphate receptor signaling pathway (GO:0003376),['S1PR1'],0.3477877319805248
+long-term synaptic depression (GO:0060292),['PRRT1'],0.3477877319805248
+surfactant homeostasis (GO:0043129),['VEGFA'],0.3477877319805248
+T cell apoptotic process (GO:0070231),['GLI3'],0.3477877319805248
+membrane biogenesis (GO:0044091),['TLCD1'],0.3477877319805248
+metanephric nephron tubule development (GO:0072234),['POU3F3'],0.3477877319805248
+ureter development (GO:0072189),['SOX8'],0.3477877319805248
+monoacylglycerol biosynthetic process (GO:0006640),['PLA2G4A'],0.3477877319805248
+zinc ion import across plasma membrane (GO:0071578),['SLC39A12'],0.3477877319805248
+negative regulation of cell cycle phase transition (GO:1901988),['ZFP36L1'],0.3477877319805248
+negative regulation of intracellular transport (GO:0032387),['CRYAB'],0.3477877319805248
+negative regulation of nervous system process (GO:0031645),['TMEM98'],0.3477877319805248
+negative regulation of protein import (GO:1904590),['APOD'],0.3477877319805248
+negative regulation of protein import into nucleus (GO:0042308),['APOD'],0.3477877319805248
+negative regulation of T cell apoptotic process (GO:0070233),['PRKCQ'],0.3477877319805248
+neuron projection arborization (GO:0140058),['PTN'],0.3477877319805248
+nose development (GO:0043584),['GLI3'],0.3477877319805248
+"nuclear-transcribed mRNA catabolic process, deadenylation-independent decay (GO:0031086)",['ZFP36L1'],0.3477877319805248
+pericardium morphogenesis (GO:0003344),['NOTCH1'],0.3477877319805248
+pharyngeal arch artery morphogenesis (GO:0061626),['HES1'],0.3477877319805248
+photoreceptor cell differentiation (GO:0046530),['NKD1'],0.3477877319805248
+positive regulation of amyloid-beta clearance (GO:1900223),['ABCA7'],0.3477877319805248
+positive regulation of blood circulation (GO:1903524),['ATP1A2'],0.3477877319805248
+positive regulation of cardiac epithelial to mesenchymal transition (GO:0062043),['NOTCH1'],0.3477877319805248
+positive regulation of chemokine (C-X-C motif) ligand 2 production (GO:2000343),['MBP'],0.3477877319805248
+positive regulation of gastrulation (GO:2000543),['LHX1'],0.3477877319805248
+positive regulation of gliogenesis (GO:0014015),['SOX8'],0.3477877319805248
+positive regulation of integrin-mediated signaling pathway (GO:2001046),['LIMS2'],0.3477877319805248
+positive regulation of lamellipodium morphogenesis (GO:2000394),['ENPP2'],0.3477877319805248
+positive regulation of mast cell activation (GO:0033005),['NR4A3'],0.3477877319805248
+positive regulation of trophoblast cell migration (GO:1901165),['VEGFA'],0.3477877319805248
+heart development (GO:0007507),"['SALL1', 'NOTCH1', 'ERBB3', 'HEG1', 'VEGFA']",0.3477877319805248
+regulation of embryonic development (GO:0045995),"['PHLDB1', 'LHX1']",0.3477877319805248
+dendrite morphogenesis (GO:0048813),"['LRP4', 'PTN']",0.3477877319805248
+embryonic limb morphogenesis (GO:0030326),"['SALL1', 'GLI3']",0.3477877319805248
+membrane assembly (GO:0071709),"['LRP4', 'TLCD1']",0.3477877319805248
+positive regulation of substrate adhesion-dependent cell spreading (GO:1900026),"['DOCK5', 'LIMS2']",0.3477877319805248
+regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418),"['NOTCH1', 'EPAS1', 'VEGFA']",0.35275976762455813
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway (GO:0007188),"['GPR37', 'LPAR1', 'S1PR1', 'GPR37L1', 'S1PR5']",0.35277480307609943
+negative regulation of multicellular organismal process (GO:0051241),"['GJA1', 'NOTCH1', 'NFIB', 'LRP4', 'SPRY2', 'EGFR']",0.35466298828409826
+actomyosin structure organization (GO:0031032),"['ITGB5', 'CSRP1', 'MYH14']",0.35630087850223235
+cell morphogenesis involved in neuron differentiation (GO:0048667),"['NTNG2', 'LRP4', 'DSCAML1']",0.35630087850223235
+regulation of epithelial to mesenchymal transition (GO:0010717),"['PHLDB1', 'DAB2', 'SPRY2']",0.35630087850223235
+cellular response to hormone stimulus (GO:0032870),"['NR4A3', 'ATP1A2', 'ZFP36L1']",0.35630087850223235
+regulation of protein autophosphorylation (GO:0031952),"['RASSF2', 'VEGFA']",0.35630087850223235
+regulation of vascular associated smooth muscle cell proliferation (GO:1904705),"['GJA1', 'NR4A3']",0.35630087850223235
+lysosome localization (GO:0032418),"['NR4A3', 'TFEB']",0.35630087850223235
+"phagocytosis, engulfment (GO:0006911)","['GSN', 'MEGF10']",0.35630087850223235
+inorganic cation import across plasma membrane (GO:0098659),"['KCNJ10', 'ATP1A2', 'SLC39A12']",0.35630087850223235
+negative regulation of endothelial cell migration (GO:0010596),"['NOTCH1', 'JUP']",0.35630087850223235
+potassium ion transport (GO:0006813),"['KCNJ10', 'SLC1A3', 'PKD2L1', 'ATP1A2']",0.35630087850223235
+negative regulation of apoptotic signaling pathway (GO:2001234),"['NR4A2', 'TCF7L2', 'AVP']",0.35630087850223235
+actin filament reorganization (GO:0090527),['GSN'],0.35630087850223235
+regulation of alpha-beta T cell differentiation (GO:0046637),['GLI3'],0.35630087850223235
+regulation of anion transport (GO:0044070),['ATP8B1'],0.35630087850223235
+atrial cardiac muscle cell to AV node cell signaling (GO:0086026),['GJA1'],0.35630087850223235
+basic amino acid transport (GO:0015802),['SLC38A3'],0.35630087850223235
+"regulation of CD8-positive, alpha-beta T cell proliferation (GO:2000564)",['VSIR'],0.35630087850223235
+cardiac atrium development (GO:0003230),['NOTCH1'],0.35630087850223235
+regulation of chemokine-mediated signaling pathway (GO:0070099),['PADI2'],0.35630087850223235
+cell migration involved in heart development (GO:0060973),['NOTCH1'],0.35630087850223235
+cellular response to epinephrine stimulus (GO:0071872),['PDE4B'],0.35630087850223235
+regulation of extracellular matrix constituent secretion (GO:0003330),['NOTCH1'],0.35630087850223235
+regulation of positive chemotaxis (GO:0050926),['VEGFA'],0.35630087850223235
+regulation of RNA biosynthetic process (GO:2001141),['MITF'],0.35630087850223235
+regulation of striated muscle tissue development (GO:0016202),['MEGF10'],0.35630087850223235
+forebrain neuron differentiation (GO:0021879),['SALL1'],0.35630087850223235
+response to epinephrine (GO:0071871),['PDE4B'],0.35630087850223235
+rRNA base methylation (GO:0070475),['METTL15'],0.35630087850223235
+kidney epithelium development (GO:0072073),['SALL1'],0.35630087850223235
+macromolecule modification (GO:0043412),['ST6GAL1'],0.35630087850223235
+mast cell activation involved in immune response (GO:0002279),['NR4A3'],0.35630087850223235
+mast cell degranulation (GO:0043303),['NR4A3'],0.35630087850223235
+vascular associated smooth muscle cell differentiation (GO:0035886),['HES1'],0.35630087850223235
+vascular associated smooth muscle contraction (GO:0014829),['EDNRB'],0.35630087850223235
+ventricular trabecula myocardium morphogenesis (GO:0003222),['NOTCH1'],0.35630087850223235
+water homeostasis (GO:0030104),['AQP4'],0.35630087850223235
+myoblast migration (GO:0051451),['MEGF10'],0.35630087850223235
+negative regulation of alpha-beta T cell differentiation (GO:0046639),['GLI3'],0.35630087850223235
+"negative regulation of CD4-positive, alpha-beta T cell proliferation (GO:2000562)",['VSIR'],0.35630087850223235
+negative regulation of long-term synaptic potentiation (GO:1900272),['PTN'],0.35630087850223235
+negative regulation of muscle hypertrophy (GO:0014741),['NOTCH1'],0.35630087850223235
+negative regulation of neural precursor cell proliferation (GO:2000178),['PTN'],0.35630087850223235
+peptidyl-lysine hydroxylation (GO:0017185),['PLOD1'],0.35630087850223235
+platelet activating factor metabolic process (GO:0046469),['PLA2G4A'],0.35630087850223235
+positive regulation of apoptotic cell clearance (GO:2000427),['ABCA7'],0.35630087850223235
+positive regulation of early endosome to late endosome transport (GO:2000643),['DAB2'],0.35630087850223235
+positive regulation of melanin biosynthetic process (GO:0048023),['ZEB2'],0.35630087850223235
+positive regulation of oligodendrocyte differentiation (GO:0048714),['PTN'],0.35630087850223235
+positive regulation of secondary metabolite biosynthetic process (GO:1900378),['ZEB2'],0.35630087850223235
+protein deglutamylation (GO:0035608),['FOLH1'],0.35630087850223235
+axon development (GO:0061564),"['NTNG2', 'PLP1', 'DSCAML1']",0.3593234370835484
+regulation of neuron differentiation (GO:0045664),"['SOX2', 'HES1', 'HES5']",0.3593234370835484
+regulation of intracellular transport (GO:0032386),"['MLC1', 'CRYAB']",0.3593234370835484
+phospholipid dephosphorylation (GO:0046839),"['SYNJ2', 'PLPP3']",0.3593234370835484
+positive regulation of intracellular transport (GO:0032388),"['MLC1', 'PRR5L']",0.3593234370835484
+regulation of tumor necrosis factor production (GO:0032680),"['POMC', 'IL33', 'FRMD8', 'VSIR']",0.36084254054210696
+positive regulation of ERK1 and ERK2 cascade (GO:0070374),"['PDGFRA', 'NOTCH1', 'SPRY2', 'ABCA7', 'EGFR']",0.3627507774983044
+negative regulation of extrinsic apoptotic signaling pathway (GO:2001237),"['TCF7L2', 'UNC5B', 'EYA4']",0.3627507774983044
+carboxylic acid metabolic process (GO:0019752),"['ST6GAL1', 'PLA2G4A']",0.3627507774983044
+negative regulation of ERBB signaling pathway (GO:1901185),"['SPRY2', 'EGFR']",0.3627507774983044
+negative regulation of programmed cell death (GO:0043069),"['DAB2', 'TNFAIP8', 'SPRY2', 'SOX8', 'AVP', 'CRYAB', 'EGFR', 'POU3F3', 'VEGFA']",0.3627507774983044
+circulatory system development (GO:0072359),"['SALL1', 'NOTCH1', 'ERBB3', 'HEG1']",0.3627507774983044
+neuron differentiation (GO:0030182),"['NR4A2', 'LHX1', 'OLIG1', 'OLIG2', 'VEGFA']",0.3627507774983044
+negative regulation of cellular macromolecule biosynthetic process (GO:2000113),"['TCF7L2', 'NKX6-2', 'NOTCH1', 'SALL1', 'ATP8B1', 'LHX1', 'ID3', 'HES1', 'SOX8', 'CRYAB', 'GLI3', 'POU3F3']",0.3627507774983044
+positive regulation of cytoskeleton organization (GO:0051495),"['CDC42EP2', 'CDC42EP1', 'SORBS3']",0.3627507774983044
+regulation of cell development (GO:0060284),"['HES1', 'HES5']",0.3627507774983044
+epithelial cell migration (GO:0010631),"['ANLN', 'ZEB2']",0.3627507774983044
+heart contraction (GO:0060047),"['TNNI1', 'ATP1A2']",0.3627507774983044
+import into cell (GO:0098657),"['SLC1A3', 'ATP1A2']",0.3627507774983044
+T cell differentiation (GO:0030217),"['GLI3', 'ZFP36L1']",0.3627507774983044
+nucleobase-containing compound catabolic process (GO:0034655),"['ENTPD1', 'DNASE1L2']",0.3627507774983044
+actin-mediated cell contraction (GO:0070252),['GSN'],0.3627507774983044
+amyloid-beta formation (GO:0034205),['ABCA7'],0.3627507774983044
+axon regeneration (GO:0031103),['APOD'],0.3627507774983044
+basement membrane assembly (GO:0070831),['NTNG2'],0.3627507774983044
+regulation of cell adhesion molecule production (GO:0060353),['NOTCH1'],0.3627507774983044
+bundle of His cell to Purkinje myocyte communication (GO:0086069),['JUP'],0.3627507774983044
+regulation of complement-dependent cytotoxicity (GO:1903659),['CFH'],0.3627507774983044
+cellular response to leptin stimulus (GO:0044320),['NR4A3'],0.3627507774983044
+cholesterol catabolic process (GO:0006707),['CYP27A1'],0.3627507774983044
+regulation of nephron tubule epithelial cell differentiation (GO:0072182),['LHX1'],0.3627507774983044
+regulation of PERK-mediated unfolded protein response (GO:1903897),['ABCA7'],0.3627507774983044
+embryonic digestive tract morphogenesis (GO:0048557),['PDGFRA'],0.3627507774983044
+endothelial cell chemotaxis (GO:0035767),['VEGFA'],0.3627507774983044
+epithelial cell apoptotic process (GO:1904019),['GSN'],0.3627507774983044
+epithelial to mesenchymal transition involved in endocardial cushion formation (GO:0003198),['NOTCH1'],0.3627507774983044
+response to leptin (GO:0044321),['NR4A3'],0.3627507774983044
+retinal rod cell differentiation (GO:0060221),['SOX8'],0.3627507774983044
+semaphorin-plexin signaling pathway involved in axon guidance (GO:1902287),['PLXNB3'],0.3627507774983044
+sensory organ morphogenesis (GO:0090596),['GLI3'],0.3627507774983044
+L-phenylalanine metabolic process (GO:0006558),['QDPR'],0.3627507774983044
+sterol catabolic process (GO:0016127),['CYP27A1'],0.3627507774983044
+T-helper 1 type immune response (GO:0042088),['TMEM98'],0.3627507774983044
+mast cell mediated immunity (GO:0002448),['NR4A3'],0.3627507774983044
+mitral valve morphogenesis (GO:0003183),['NOTCH1'],0.3627507774983044
+N-acylphosphatidylethanolamine metabolic process (GO:0070292),['PLAAT3'],0.3627507774983044
+negative regulation of alpha-beta T cell activation (GO:0046636),['GLI3'],0.3627507774983044
+negative regulation of biomineralization (GO:0110150),['NOTCH1'],0.3627507774983044
+negative regulation of glycoprotein biosynthetic process (GO:0010561),['ABCA7'],0.3627507774983044
+negative regulation of leukocyte proliferation (GO:0070664),['IL33'],0.3627507774983044
+negative regulation of platelet aggregation (GO:0090331),['CD9'],0.3627507774983044
+negative regulation of systemic arterial blood pressure (GO:0003085),['GPR37L1'],0.3627507774983044
+nucleoside diphosphate catabolic process (GO:0009134),['ENTPD1'],0.3627507774983044
+pericardium development (GO:0060039),['NOTCH1'],0.3627507774983044
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis (GO:1903589),['VEGFA'],0.3627507774983044
+positive regulation of extracellular matrix assembly (GO:1901203),['PHLDB1'],0.3627507774983044
+"positive regulation of phagocytosis, engulfment (GO:0060100)",['ABCA7'],0.3627507774983044
+positive regulation of protein kinase C signaling (GO:0090037),['VEGFA'],0.3627507774983044
+postsynaptic membrane assembly (GO:0097104),['LRP4'],0.3627507774983044
+regulation of Notch signaling pathway (GO:0008593),"['TSPAN15', 'NOTCH1', 'EGFR']",0.3661377655898361
+positive regulation of plasma membrane bounded cell projection assembly (GO:0120034),"['ANLN', 'CDC42EP2', 'CDC42EP1']",0.3661377655898361
+muscle contraction (GO:0006936),"['ITGB5', 'TNNI1', 'CRYAB', 'SORBS3']",0.36714430531069103
+skeletal system morphogenesis (GO:0048705),"['PDGFRA', 'DSCAML1']",0.3702065153517723
+potassium ion import across plasma membrane (GO:1990573),"['KCNJ10', 'ATP1A2']",0.3702065153517723
+vascular transport (GO:0010232),"['SLC1A3', 'ATP1A2', 'SLC38A3']",0.3704968709761226
+lipid modification (GO:0030258),"['MBOAT1', 'PLPP3']",0.3704968709761226
+myofibril assembly (GO:0030239),"['PDGFRA', 'CSRP1']",0.3704968709761226
+positive regulation of axonogenesis (GO:0050772),"['METRN', 'PLXNB3']",0.3704968709761226
+positive regulation of T cell differentiation (GO:0045582),"['GLI3', 'VSIR']",0.3704968709761226
+transport across blood-brain barrier (GO:0150104),"['SLC1A3', 'ATP1A2', 'SLC38A3']",0.3704968709761226
+adrenal gland development (GO:0030325),['SALL1'],0.3704968709761226
+amino sugar metabolic process (GO:0006040),['ST6GAL1'],0.3704968709761226
+regulation of actin filament-based movement (GO:1903115),['PDE4B'],0.3704968709761226
+aromatic amino acid family metabolic process (GO:0009072),['QDPR'],0.3704968709761226
+regulation of axon guidance (GO:1902667),['VEGFA'],0.3704968709761226
+regulation of cell-cell adhesion involved in gastrulation (GO:0070587),['MBP'],0.3704968709761226
+cellular response to acidic pH (GO:0071468),['PKD2L1'],0.3704968709761226
+regulation of epithelial cell apoptotic process (GO:1904035),['ZFP36L1'],0.3704968709761226
+regulation of high voltage-gated calcium channel activity (GO:1901841),['PDE4B'],0.3704968709761226
+cytoplasmic pattern recognition receptor signaling pathway in response to virus (GO:0039528),['IRF3'],0.3704968709761226
+ectoderm development (GO:0007398),['LHX1'],0.3704968709761226
+regulation of podosome assembly (GO:0071801),['GSN'],0.3704968709761226
+endodermal cell fate commitment (GO:0001711),['SOX2'],0.3704968709761226
+regulation of protein neddylation (GO:2000434),['EPAS1'],0.3704968709761226
+ether lipid biosynthetic process (GO:0008611),['PLA2G4A'],0.3704968709761226
+regulation of T-helper 17 type immune response (GO:2000316),['PRKCQ'],0.3704968709761226
+sequestering of actin monomers (GO:0042989),['GSN'],0.3704968709761226
+L-glutamate transmembrane transport (GO:0015813),['SLC1A3'],0.3704968709761226
+L-serine metabolic process (GO:0006563),['PHGDH'],0.3704968709761226
+lactation (GO:0007595),['VEGFA'],0.3704968709761226
+membrane lipid catabolic process (GO:0046466),['ENPP2'],0.3704968709761226
+mesenchymal to epithelial transition (GO:0060231),['SALL1'],0.3704968709761226
+morphogenesis of an epithelial sheet (GO:0002011),['NOTCH1'],0.3704968709761226
+muscle cell migration (GO:0014812),['MEGF10'],0.3704968709761226
+myelin maintenance (GO:0043217),['MYRF'],0.3704968709761226
+N-acetylneuraminate metabolic process (GO:0006054),['ST6GAL1'],0.3704968709761226
+negative regulation of alpha-beta T cell proliferation (GO:0046642),['VSIR'],0.3704968709761226
+negative regulation of delayed rectifier potassium channel activity (GO:1902260),['KCNRG'],0.3704968709761226
+negative regulation of extracellular matrix organization (GO:1903054),['NOTCH1'],0.3704968709761226
+negative regulation of heterotypic cell-cell adhesion (GO:0034115),['MBP'],0.3704968709761226
+negative regulation of hormone secretion (GO:0046888),['GJA1'],0.3704968709761226
+negative regulation of lymphocyte apoptotic process (GO:0070229),['PRKCQ'],0.3704968709761226
+negative regulation of sodium ion transmembrane transporter activity (GO:2000650),['ATP1A2'],0.3704968709761226
+negative regulation of vascular endothelial growth factor signaling pathway (GO:1900747),['SPRY2'],0.3704968709761226
+neuron projection regeneration (GO:0031102),['PTN'],0.3704968709761226
+positive regulation of behavior (GO:0048520),['NR4A3'],0.3704968709761226
+positive regulation of cell activation (GO:0050867),['PLA2G4A'],0.3704968709761226
+positive regulation of monocyte differentiation (GO:0045657),['ZFP36L1'],0.3704968709761226
+presynaptic membrane assembly (GO:0097105),['LRP4'],0.3704968709761226
+branching morphogenesis of an epithelial tube (GO:0048754),"['SALL1', 'VEGFA']",0.3704968709761226
+cation transmembrane transport (GO:0098655),"['ATP1A2', 'PKD2L1']",0.3704968709761226
+negative regulation of epidermal growth factor receptor signaling pathway (GO:0042059),"['SPRY2', 'EGFR']",0.3704968709761226
+positive regulation of cell-matrix adhesion (GO:0001954),"['JUP', 'VEGFA']",0.3704968709761226
+positive regulation of mRNA catabolic process (GO:0061014),"['PRR5L', 'ZFP36L1']",0.3704968709761226
+positive regulation of receptor-mediated endocytosis (GO:0048260),"['DAB2', 'VEGFA']",0.3704968709761226
+positive regulation of stress fiber assembly (GO:0051496),"['LPAR1', 'SORBS3']",0.3704968709761226
+sensory perception of mechanical stimulus (GO:0050954),"['COL11A2', 'CDH23', 'MYH14']",0.37657698849238946
+regulation of DNA repair (GO:0006282),"['EYA4', 'EGFR']",0.37657698849238946
+positive regulation of chemotaxis (GO:0050921),"['PTN', 'VEGFA']",0.37657698849238946
+regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043281),"['SOX2', 'AVP', 'VEGFA']",0.37657698849238946
+collagen fibril organization (GO:0030199),"['COL27A1', 'COL11A2', 'PLOD1']",0.37657698849238946
+negative regulation of tumor necrosis factor production (GO:0032720),"['POMC', 'VSIR']",0.37657698849238946
+cellular amino acid catabolic process (GO:0009063),"['QDPR', 'PIPOX', 'ASPA']",0.37657698849238946
+actin filament depolymerization (GO:0030042),['GSN'],0.37657698849238946
+alcohol catabolic process (GO:0046164),['CYP27A1'],0.37657698849238946
+regulation of amyloid precursor protein biosynthetic process (GO:0042984),['ABCA7'],0.37657698849238946
+regulation of cardiac muscle cell differentiation (GO:2000725),['SOX6'],0.37657698849238946
+"regulation of CD4-positive, alpha-beta T cell proliferation (GO:2000561)",['VSIR'],0.37657698849238946
+camera-type eye morphogenesis (GO:0048593),['VEGFA'],0.37657698849238946
+cellular response to cholesterol (GO:0071397),['MLC1'],0.37657698849238946
+chromatin-mediated maintenance of transcription (GO:0048096),['PADI2'],0.37657698849238946
+regulation of lamellipodium morphogenesis (GO:2000392),['ENPP2'],0.37657698849238946
+regulation of melanin biosynthetic process (GO:0048021),['ZEB2'],0.37657698849238946
+regulation of monocyte chemotactic protein-1 production (GO:0071637),['APOD'],0.37657698849238946
+regulation of mRNA 3'-end processing (GO:0031440),['ZFP36L1'],0.37657698849238946
+regulation of T cell apoptotic process (GO:0070232),['PRKCQ'],0.37657698849238946
+glycerolipid metabolic process (GO:0046486),['GAL3ST1'],0.37657698849238946
+induction of positive chemotaxis (GO:0050930),['VEGFA'],0.37657698849238946
+inositol phosphate dephosphorylation (GO:0046855),['SYNJ2'],0.37657698849238946
+skeletal muscle cell differentiation (GO:0035914),['MEGF10'],0.37657698849238946
+tetrahydrobiopterin metabolic process (GO:0046146),['QDPR'],0.37657698849238946
+midbrain dopaminergic neuron differentiation (GO:1904948),['NR4A2'],0.37657698849238946
+mitochondrion morphogenesis (GO:0070584),['MYH14'],0.37657698849238946
+vasoconstriction (GO:0042310),['EDNRB'],0.37657698849238946
+monocyte differentiation (GO:0030224),['VEGFA'],0.37657698849238946
+negative regulation of calcium ion transmembrane transport (GO:1903170),['ATP1A2'],0.37657698849238946
+negative regulation of homotypic cell-cell adhesion (GO:0034111),['CD9'],0.37657698849238946
+negative regulation of interleukin-17 production (GO:0032700),['VSIR'],0.37657698849238946
+negative regulation of oxidative stress-induced neuron death (GO:1903204),['NR4A3'],0.37657698849238946
+negative regulation of platelet-derived growth factor receptor signaling pathway (GO:0010642),['APOD'],0.37657698849238946
+negative regulation of voltage-gated potassium channel activity (GO:1903817),['KCNRG'],0.37657698849238946
+Notch signaling involved in heart development (GO:0061314),['NOTCH1'],0.37657698849238946
+organophosphate catabolic process (GO:0046434),['ENPP2'],0.37657698849238946
+phosphorylated carbohydrate dephosphorylation (GO:0046838),['SYNJ2'],0.37657698849238946
+positive regulation of actin nucleation (GO:0051127),['GSN'],0.37657698849238946
+positive regulation of chondrocyte differentiation (GO:0032332),['SOX6'],0.37657698849238946
+positive regulation of cytoplasmic transport (GO:1903651),['DAB2'],0.37657698849238946
+positive regulation of dendrite development (GO:1900006),['PTN'],0.37657698849238946
+positive regulation of myelination (GO:0031643),['MYRF'],0.37657698849238946
+positive regulation of neuroblast proliferation (GO:0002052),['VEGFA'],0.37657698849238946
+positive regulation of nitric-oxide synthase biosynthetic process (GO:0051770),['IL33'],0.37657698849238946
+positive regulation of phospholipid transport (GO:2001140),['ABCA7'],0.37657698849238946
+positive regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903800),['EGFR'],0.37657698849238946
+postsynapse assembly (GO:0099068),['LRP4'],0.37657698849238946
+presynaptic membrane organization (GO:0097090),['LRP4'],0.37657698849238946
+protein kinase C signaling (GO:0070528),['AVP'],0.37657698849238946
+sensory perception of sound (GO:0007605),"['COL11A2', 'CDH23', 'MYH14']",0.3825328810109404
+potassium ion transmembrane transport (GO:0071805),"['KCNJ10', 'SLC1A3', 'PKD2L1', 'ATP1A2']",0.3825328810109404
+embryonic heart tube morphogenesis (GO:0003143),"['NOTCH1', 'HES1']",0.3825328810109404
+epidermal growth factor receptor signaling pathway (GO:0007173),"['GAB1', 'EGFR']",0.3825328810109404
+positive regulation of cell-cell adhesion (GO:0022409),"['MEGF10', 'PLPP3']",0.3825328810109404
+regulation of peptidyl-tyrosine phosphorylation (GO:0050730),"['ENPP2', 'EGFR', 'VEGFA']",0.38356521776520497
+cellular response to alcohol (GO:0097306),"['JUP', 'MLC1']",0.38356521776520497
+substrate adhesion-dependent cell spreading (GO:0034446),"['NTNG2', 'TYRO3']",0.38356521776520497
+negative regulation of tumor necrosis factor superfamily cytokine production (GO:1903556),"['POMC', 'VSIR']",0.38356521776520497
+phosphatidic acid biosynthetic process (GO:0006654),"['PLA2G4A', 'PLD1']",0.38356521776520497
+positive regulation of DNA repair (GO:0045739),"['EYA4', 'EGFR']",0.38356521776520497
+adipose tissue development (GO:0060612),['SOX8'],0.38356521776520497
+regulation of actin nucleation (GO:0051125),['GSN'],0.38356521776520497
+regulation of amyloid precursor protein catabolic process (GO:1902991),['ABCA7'],0.38356521776520497
+regulation of axon regeneration (GO:0048679),['PTN'],0.38356521776520497
+C-terminal protein amino acid modification (GO:0018410),['FOLH1'],0.38356521776520497
+cell differentiation in hindbrain (GO:0021533),['LHX1'],0.38356521776520497
+regulation of feeding behavior (GO:0060259),['NR4A3'],0.38356521776520497
+regulation of hemopoiesis (GO:1903706),['PTN'],0.38356521776520497
+dermatan sulfate biosynthetic process (GO:0030208),['BCAN'],0.38356521776520497
+regulation of muscle system process (GO:0090257),['ATP1A2'],0.38356521776520497
+glomerular visceral epithelial cell differentiation (GO:0072112),['MYO1E'],0.38356521776520497
+regulation of ventricular cardiac muscle cell action potential (GO:0098911),['JUP'],0.38356521776520497
+inorganic ion transmembrane transport (GO:0098660),['PKD2L1'],0.38356521776520497
+inositol phosphate catabolic process (GO:0071545),['SYNJ2'],0.38356521776520497
+sensory perception of taste (GO:0050909),['PKD2L1'],0.38356521776520497
+serine family amino acid biosynthetic process (GO:0009070),['PHGDH'],0.38356521776520497
+smooth muscle cell differentiation (GO:0051145),['EDNRB'],0.38356521776520497
+sphingoid metabolic process (GO:0046519),['PLPP3'],0.38356521776520497
+lysine catabolic process (GO:0006554),['PIPOX'],0.38356521776520497
+lysine metabolic process (GO:0006553),['PIPOX'],0.38356521776520497
+macrophage chemotaxis (GO:0048246),['EDNRB'],0.38356521776520497
+magnesium ion transport (GO:0015693),['NIPAL4'],0.38356521776520497
+melanocyte differentiation (GO:0030318),['MITF'],0.38356521776520497
+urogenital system development (GO:0001655),['LHX1'],0.38356521776520497
+modulation by host of viral process (GO:0044788),['IFI27'],0.38356521776520497
+negative regulation of amyloid fibril formation (GO:1905907),['CRYAB'],0.38356521776520497
+negative regulation of cardiac muscle hypertrophy (GO:0010614),['NOTCH1'],0.38356521776520497
+negative regulation of cellular response to vascular endothelial growth factor stimulus (GO:1902548),['SPRY2'],0.38356521776520497
+negative regulation of heart contraction (GO:0045822),['ATP1A2'],0.38356521776520497
+negative regulation of leukocyte chemotaxis (GO:0002689),['PADI2'],0.38356521776520497
+negative regulation of vascular permeability (GO:0043116),['VEGFA'],0.38356521776520497
+phasic smooth muscle contraction (GO:0014821),['EDNRB'],0.38356521776520497
+phospholipid efflux (GO:0033700),['ABCA7'],0.38356521776520497
+phospholipid homeostasis (GO:0055091),['TLCD1'],0.38356521776520497
+positive regulation of fatty acid oxidation (GO:0046321),['NR4A3'],0.38356521776520497
+positive regulation of neuroinflammatory response (GO:0150078),['IL33'],0.38356521776520497
+positive regulation of T-helper 17 type immune response (GO:2000318),['PRKCQ'],0.38356521776520497
+positive regulation of vascular permeability (GO:0043117),['VEGFA'],0.38356521776520497
+mitotic cytokinesis (GO:0000281),"['ANLN', 'TRIM36']",0.3861215801639554
+positive regulation of epithelial cell migration (GO:0010634),"['DOCK5', 'ENPP2', 'VEGFA']",0.3862664228509581
+negative regulation of cell migration (GO:0030336),"['GJA1', 'CLIC4', 'PLXNB3', 'MITF']",0.39102503050494936
+sensory perception of light stimulus (GO:0050953),"['CRYBG3', 'EYA4', 'CDH23']",0.39102503050494936
+neuron migration (GO:0001764),"['NR4A2', 'VEGFA']",0.39102503050494936
+phosphatidic acid metabolic process (GO:0046473),"['PLA2G4A', 'PLD1']",0.39102503050494936
+positive regulation of cell morphogenesis involved in differentiation (GO:0010770),"['DOCK5', 'LIMS2']",0.39102503050494936
+regulation of smoothened signaling pathway (GO:0008589),"['ZIC1', 'GLI3']",0.39102503050494936
+regulation of substrate adhesion-dependent cell spreading (GO:1900024),"['DOCK5', 'LIMS2']",0.39102503050494936
+gonad development (GO:0008406),"['SALL1', 'SOX8']",0.39102503050494936
+positive regulation of actin filament bundle assembly (GO:0032233),"['LPAR1', 'SORBS3']",0.39102503050494936
+pteridine-containing compound metabolic process (GO:0042558),['QDPR'],0.39102503050494936
+atrial cardiac muscle cell action potential (GO:0086014),['GJA1'],0.39102503050494936
+regulation of chemokine (C-X-C motif) ligand 2 production (GO:2000341),['MBP'],0.39102503050494936
+cell part morphogenesis (GO:0032990),['MYH14'],0.39102503050494936
+cellular potassium ion homeostasis (GO:0030007),['ATP1A2'],0.39102503050494936
+regulation of homotypic cell-cell adhesion (GO:0034110),['PRKCQ'],0.39102503050494936
+central nervous system projection neuron axonogenesis (GO:0021952),['NFIB'],0.39102503050494936
+chondroitin sulfate catabolic process (GO:0030207),['BCAN'],0.39102503050494936
+chromatin organization involved in regulation of transcription (GO:0034401),['PADI2'],0.39102503050494936
+dermatan sulfate metabolic process (GO:0030205),['BCAN'],0.39102503050494936
+DNA catabolic process (GO:0006308),['DNASE1L2'],0.39102503050494936
+regulation of nucleocytoplasmic transport (GO:0046822),['IFI27'],0.39102503050494936
+regulation of platelet-derived growth factor receptor signaling pathway (GO:0010640),['APOD'],0.39102503050494936
+regulation of receptor signaling pathway via STAT (GO:1904892),['HES1'],0.39102503050494936
+regulation of response to stress (GO:0080134),['MLC1'],0.39102503050494936
+fatty acid elongation (GO:0030497),['ELOVL7'],0.39102503050494936
+high-density lipoprotein particle assembly (GO:0034380),['ABCA7'],0.39102503050494936
+homeostasis of number of cells (GO:0048872),['NOTCH1'],0.39102503050494936
+semaphorin-plexin signaling pathway involved in neuron projection guidance (GO:1902285),['PLXNB3'],0.39102503050494936
+sodium ion export across plasma membrane (GO:0036376),['ATP1A2'],0.39102503050494936
+very long-chain fatty acid biosynthetic process (GO:0042761),['ELOVL7'],0.39102503050494936
+muscle tissue development (GO:0060537),['CSRP1'],0.39102503050494936
+negative regulation of adenylate cyclase activity (GO:0007194),['EDNRB'],0.39102503050494936
+"negative regulation of CD4-positive, alpha-beta T cell activation (GO:2000515)",['VSIR'],0.39102503050494936
+negative regulation of endoplasmic reticulum unfolded protein response (GO:1900102),['ABCA7'],0.39102503050494936
+negative regulation of myotube differentiation (GO:0010832),['NOTCH1'],0.39102503050494936
+negative regulation of nucleocytoplasmic transport (GO:0046823),['APOD'],0.39102503050494936
+negative regulation of viral release from host cell (GO:1902187),['TRIM13'],0.39102503050494936
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains (GO:0002824),['PRKCQ'],0.39102503050494936
+"positive regulation of CD4-positive, alpha-beta T cell activation (GO:2000516)",['PRKCQ'],0.39102503050494936
+positive regulation of histone deacetylation (GO:0031065),['VEGFA'],0.39102503050494936
+positive regulation of mRNA metabolic process (GO:1903313),['PRR5L'],0.39102503050494936
+positive regulation of protein localization to cell surface (GO:2000010),['ABCA7'],0.39102503050494936
+positive regulation of transporter activity (GO:0032411),['SGK2'],0.39102503050494936
+regulation of MAP kinase activity (GO:0043405),"['SPRY2', 'EGFR', 'VEGFA']",0.39102503050494936
+regulation of macromolecule metabolic process (GO:0060255),"['SOX2', 'LHX1', 'TFEB', 'HMG20B', 'ZFP36L1']",0.39759058223152366
+regulation of cytosolic calcium ion concentration (GO:0051480),"['PDGFRA', 'LPAR1', 'CDH23', 'ATP1A2']",0.39759058223152366
+positive regulation of intracellular protein transport (GO:0090316),"['TCF7L2', 'JUP', 'ZIC1', 'PRR5L']",0.39759058223152366
+protein homotetramerization (GO:0051289),"['AQP4', 'PKD2L1']",0.39759058223152366
+cardiac muscle tissue development (GO:0048738),"['GJA1', 'NOTCH1']",0.39759058223152366
+negative regulation of cysteine-type endopeptidase activity (GO:2000117),"['AVP', 'VEGFA']",0.39759058223152366
+positive regulation of chemokine production (GO:0032722),"['IL33', 'MBP']",0.39759058223152366
+regulation of cytokine production (GO:0001817),"['IL33', 'IRF3', 'MOG', 'TRIL']",0.39759058223152366
+regulation of transforming growth factor beta receptor signaling pathway (GO:0017015),"['DAB2', 'ZEB2', 'SPRY2']",0.39759058223152366
+amyloid precursor protein catabolic process (GO:0042987),['ABCA7'],0.39759058223152366
+atrioventricular valve development (GO:0003171),['NOTCH1'],0.39759058223152366
+branching involved in blood vessel morphogenesis (GO:0001569),['VEGFA'],0.39759058223152366
+cardiac left ventricle morphogenesis (GO:0003214),['NOTCH1'],0.39759058223152366
+cardiolipin metabolic process (GO:0032048),['PLA2G4A'],0.39759058223152366
+cellular response to low-density lipoprotein particle stimulus (GO:0071404),['CD9'],0.39759058223152366
+regulation of integrin-mediated signaling pathway (GO:2001044),['LIMS2'],0.39759058223152366
+dicarboxylic acid catabolic process (GO:0043649),['ASPA'],0.39759058223152366
+regulation of nitric-oxide synthase biosynthetic process (GO:0051769),['IL33'],0.39759058223152366
+regulation of protein kinase C signaling (GO:0090036),['VEGFA'],0.39759058223152366
+ether lipid metabolic process (GO:0046485),['PLAAT3'],0.39759058223152366
+renal absorption (GO:0070293),['GSN'],0.39759058223152366
+response to UV-A (GO:0070141),['EGFR'],0.39759058223152366
+T-helper cell differentiation (GO:0042093),['TMEM98'],0.39759058223152366
+thymus development (GO:0048538),['HES1'],0.39759058223152366
+monoacylglycerol metabolic process (GO:0046462),['PLA2G4A'],0.39759058223152366
+NAD biosynthesis via nicotinamide riboside salvage pathway (GO:0034356),['NUDT12'],0.39759058223152366
+negative regulation of cell activation (GO:0050866),['PDGFRA'],0.39759058223152366
+negative regulation of cell migration involved in sprouting angiogenesis (GO:0090051),['NOTCH1'],0.39759058223152366
+negative regulation of cyclase activity (GO:0031280),['EDNRB'],0.39759058223152366
+negative regulation of fibroblast growth factor receptor signaling pathway (GO:0040037),['SPRY2'],0.39759058223152366
+negative regulation of pri-miRNA transcription by RNA polymerase II (GO:1902894),['NFIB'],0.39759058223152366
+negative regulation of secretion (GO:0051048),['ERBB3'],0.39759058223152366
+negative regulation of T cell differentiation (GO:0045581),['GLI3'],0.39759058223152366
+negative regulation of viral transcription (GO:0032897),['TRIM13'],0.39759058223152366
+neuromuscular process controlling balance (GO:0050885),['CDH23'],0.39759058223152366
+nucleoside phosphate catabolic process (GO:1901292),['ENTPD1'],0.39759058223152366
+ovarian follicle development (GO:0001541),['VEGFA'],0.39759058223152366
+pancreas development (GO:0031016),['TCF7L2'],0.39759058223152366
+positive regulation of alpha-beta T cell differentiation (GO:0046638),['GLI3'],0.39759058223152366
+positive regulation of cardiac muscle cell proliferation (GO:0060045),['NOTCH1'],0.39759058223152366
+positive regulation of glycoprotein biosynthetic process (GO:0010560),['IL33'],0.39759058223152366
+positive regulation of regulatory T cell differentiation (GO:0045591),['VSIR'],0.39759058223152366
+positive regulation of SMAD protein signal transduction (GO:0060391),['DAB2'],0.39759058223152366
+positive regulation of transmembrane transport (GO:0034764),['NR4A3'],0.39759058223152366
+regulation of gene expression (GO:0010468),"['IL33', 'GSN', 'NKX6-2', 'NOTCH1', 'MOG', 'TFEB', 'MITF', 'VSIR', 'POU3F3', 'VEGFA', 'ZFP36L1', 'SOX2', 'GJA1', 'NFIA', 'LHX1', 'SPRY2', 'HMG20B', 'PRKCQ', 'AVP', 'SOX6']",0.4001428473120373
+regulation of focal adhesion assembly (GO:0051893),"['APOD', 'VEGFA']",0.4001428473120373
+regulation of megakaryocyte differentiation (GO:0045652),"['NR4A3', 'PRKCQ']",0.4001428473120373
+positive regulation of leukocyte chemotaxis (GO:0002690),"['PTN', 'VEGFA']",0.4001428473120373
+actin filament organization (GO:0007015),"['MYO1E', 'GSN', 'CDC42EP2', 'ERMN']",0.4001428473120373
+negative regulation of protein phosphorylation (GO:0001933),"['RASSF2', 'SPRY2', 'PRR5L', 'PLPP3']",0.4001428473120373
+positive regulation of protein phosphorylation (GO:0001934),"['DAB2', 'RASSF2', 'ENPP2', 'SPRY2', 'FAM20A', 'AVP', 'EGFR', 'VEGFA']",0.4001428473120373
+protein O-linked glycosylation (GO:0006493),"['GALNT6', 'ST6GAL1', 'PLOD1']",0.4001428473120373
+cell junction assembly (GO:0034329),"['CDH20', 'LIMS2', 'CDH19']",0.4001428473120373
+positive regulation of vasculature development (GO:1904018),"['JUP', 'GAB1', 'VEGFA']",0.4001428473120373
+regulation of blood vessel endothelial cell migration (GO:0043535),"['JUP', 'VEGFA']",0.4001428473120373
+ceramide metabolic process (GO:0006672),"['FA2H', 'PLPP3']",0.4001428473120373
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043154),"['AVP', 'VEGFA']",0.4001428473120373
+positive regulation of response to DNA damage stimulus (GO:2001022),"['EYA4', 'EGFR']",0.4001428473120373
+regulation of amyloid fibril formation (GO:1905906),['CRYAB'],0.4001428473120373
+cardiac myofibril assembly (GO:0055003),['PDGFRA'],0.4001428473120373
+regulation of clathrin-dependent endocytosis (GO:2000369),['DAB2'],0.4001428473120373
+regulation of endothelial cell chemotaxis (GO:2001026),['NOTCH1'],0.4001428473120373
+regulation of extracellular matrix organization (GO:1903053),['NOTCH1'],0.4001428473120373
+cellular sodium ion homeostasis (GO:0006883),['ATP1A2'],0.4001428473120373
+contractile actin filament bundle assembly (GO:0030038),['ITGB5'],0.4001428473120373
+dermatan sulfate proteoglycan biosynthetic process (GO:0050651),['BCAN'],0.4001428473120373
+regulation of neuron projection arborization (GO:0150011),['NTNG2'],0.4001428473120373
+"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:1900151)",['ZFP36L1'],0.4001428473120373
+regulation of phospholipase C activity (GO:1900274),['PDGFRA'],0.4001428473120373
+endoderm development (GO:0007492),['LHX1'],0.4001428473120373
+engulfment of apoptotic cell (GO:0043652),['MEGF10'],0.4001428473120373
+regulation of secretion (GO:0051046),['ERBB3'],0.4001428473120373
+eye photoreceptor cell development (GO:0042462),['VEGFA'],0.4001428473120373
+glucan catabolic process (GO:0009251),['PHKG1'],0.4001428473120373
+glycogen catabolic process (GO:0005980),['PHKG1'],0.4001428473120373
+response to acidic pH (GO:0010447),['PKD2L1'],0.4001428473120373
+response to muscle stretch (GO:0035994),['GSN'],0.4001428473120373
+icosanoid biosynthetic process (GO:0046456),['PLA2G4A'],0.4001428473120373
+stress fiber assembly (GO:0043149),['ITGB5'],0.4001428473120373
+macrophage differentiation (GO:0030225),['VEGFA'],0.4001428473120373
+macrophage migration (GO:1905517),['EDNRB'],0.4001428473120373
+modulation by host of viral genome replication (GO:0044827),['IFI27'],0.4001428473120373
+myoblast fusion (GO:0007520),['CD9'],0.4001428473120373
+negative regulation of androgen receptor signaling pathway (GO:0060766),['DAB2'],0.4001428473120373
+negative regulation of blood pressure (GO:0045776),['GPR37L1'],0.4001428473120373
+negative regulation of cellular component movement (GO:0051271),['CD9'],0.4001428473120373
+nucleobase-containing small molecule catabolic process (GO:0034656),['ENTPD1'],0.4001428473120373
+peptidyl-arginine modification (GO:0018195),['PADI2'],0.4001428473120373
+peptidyl-tyrosine autophosphorylation (GO:0038083),['EGFR'],0.4001428473120373
+photoreceptor cell development (GO:0042461),['VEGFA'],0.4001428473120373
+positive regulation of endothelial cell chemotaxis (GO:2001028),['VEGFA'],0.4001428473120373
+"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay (GO:1900153)",['ZFP36L1'],0.4001428473120373
+positive regulation of protein export from nucleus (GO:0046827),['TCF7L2'],0.4001428473120373
+positive regulation of sprouting angiogenesis (GO:1903672),['VEGFA'],0.4001428473120373
+prostanoid biosynthetic process (GO:0046457),['PLA2G4A'],0.4001428473120373
+protein hydroxylation (GO:0018126),['PLOD1'],0.4001428473120373
+blood vessel morphogenesis (GO:0048514),"['HES1', 'VEGFA']",0.40365890493415685
+peptidyl-tyrosine modification (GO:0018212),"['PDGFRA', 'EGFR']",0.40365890493415685
+regulation of cell differentiation (GO:0045595),"['PHLDB1', 'MEGF10', 'HES5', 'ZFP36L1']",0.4064865776347129
+regulation of bone mineralization (GO:0030500),"['S1PR1', 'PTN']",0.4064865776347129
+cellular response to peptide (GO:1901653),"['GJA1', 'ZFP36L1']",0.4064865776347129
+regulation of protein phosphorylation (GO:0001932),"['DAB2', 'PRR5L', 'FAM20A', 'PLPP3', 'EGFR', 'VEGFA']",0.4064865776347129
+cellular response to peptide hormone stimulus (GO:0071375),"['NR4A2', 'NR4A3', 'ZFP36L1']",0.4064865776347129
+chromosome organization (GO:0051276),"['SOX2', 'TCF7L2', 'PADI2']",0.4064865776347129
+organonitrogen compound biosynthetic process (GO:1901566),"['FA2H', 'PLA2G4A', 'ELOVL7', 'PLPP3']",0.4064865776347129
+3'-UTR-mediated mRNA destabilization (GO:0061158),['ZFP36L1'],0.4064865776347129
+aromatic amino acid family catabolic process (GO:0009074),['QDPR'],0.4064865776347129
+regulation of amyloid-beta clearance (GO:1900221),['ABCA7'],0.4064865776347129
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis (GO:1903587),['VEGFA'],0.4064865776347129
+basement membrane organization (GO:0071711),['NTNG2'],0.4064865776347129
+body fluid secretion (GO:0007589),['VEGFA'],0.4064865776347129
+cellular polysaccharide catabolic process (GO:0044247),['PHKG1'],0.4064865776347129
+regulation of ERBB signaling pathway (GO:1901184),['EGFR'],0.4064865776347129
+regulation of establishment of cell polarity (GO:2000114),['GSN'],0.4064865776347129
+cellular response to corticosteroid stimulus (GO:0071384),['ZFP36L1'],0.4064865776347129
+regulation of fatty acid oxidation (GO:0046320),['NR4A3'],0.4064865776347129
+cellular response to sterol (GO:0036315),['MLC1'],0.4064865776347129
+dendrite self-avoidance (GO:0070593),['DSCAML1'],0.4064865776347129
+regulation of monocyte differentiation (GO:0045655),['ZFP36L1'],0.4064865776347129
+digestive tract morphogenesis (GO:0048546),['PDGFRA'],0.4064865776347129
+regulation of systemic arterial blood pressure (GO:0003073),['GPR37L1'],0.4064865776347129
+sphingolipid catabolic process (GO:0030149),['ENPP2'],0.4064865776347129
+membrane repolarization (GO:0086009),['ATP1A2'],0.4064865776347129
+transepithelial transport (GO:0070633),['SLC1A3'],0.4064865776347129
+motor neuron axon guidance (GO:0008045),['LHX1'],0.4064865776347129
+negative regulation of anoikis (GO:2000811),['NOTCH1'],0.4064865776347129
+negative regulation of cell-substrate junction organization (GO:0150118),['APOD'],0.4064865776347129
+negative regulation of epithelial cell differentiation (GO:0030857),['SPRY2'],0.4064865776347129
+negative regulation of focal adhesion assembly (GO:0051895),['APOD'],0.4064865776347129
+negative regulation of lyase activity (GO:0051350),['EDNRB'],0.4064865776347129
+negative regulation of release of cytochrome c from mitochondria (GO:0090201),['AVP'],0.4064865776347129
+neural tube development (GO:0021915),['HES5'],0.4064865776347129
+neuron cell-cell adhesion (GO:0007158),['NINJ2'],0.4064865776347129
+nucleoside diphosphate metabolic process (GO:0009132),['ENTPD1'],0.4064865776347129
+oogenesis (GO:0048477),['PTN'],0.4064865776347129
+polyol biosynthetic process (GO:0046173),['CYP27A1'],0.4064865776347129
+positive regulation of myeloid leukocyte cytokine production involved in immune response (GO:0061081),['NR4A3'],0.4064865776347129
+phospholipid transport (GO:0015914),"['ATP8B1', 'ABCA7']",0.41477899532966883
+pulmonary valve morphogenesis (GO:0003184),['NOTCH1'],0.41477899532966883
+amyloid-beta metabolic process (GO:0050435),['ABCA7'],0.41477899532966883
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion (GO:0010881),['ATP1A2'],0.41477899532966883
+regulation of cell killing (GO:0031341),['CFH'],0.41477899532966883
+cell surface receptor signaling pathway involved in heart development (GO:0061311),['NOTCH1'],0.41477899532966883
+regulation of establishment of endothelial barrier (GO:1903140),['VEGFA'],0.41477899532966883
+cellular response to gamma radiation (GO:0071480),['CRYAB'],0.41477899532966883
+regulation of leukocyte migration (GO:0002685),['VEGFA'],0.41477899532966883
+diol biosynthetic process (GO:0034312),['QDPR'],0.41477899532966883
+regulation of osteoblast proliferation (GO:0033688),['SOX8'],0.41477899532966883
+stem cell development (GO:0048864),['SOX8'],0.41477899532966883
+membrane depolarization during cardiac muscle cell action potential (GO:0086012),['ATP1A2'],0.41477899532966883
+mesenchyme morphogenesis (GO:0072132),['NOTCH1'],0.41477899532966883
+vasculature development (GO:0001944),['PDGFRA'],0.41477899532966883
+muscle tissue morphogenesis (GO:0060415),['NOTCH1'],0.41477899532966883
+negative regulation of amyloid-beta formation (GO:1902430),['ABCA7'],0.41477899532966883
+negative regulation of chemokine production (GO:0032682),['APOD'],0.41477899532966883
+negative regulation of interleukin-10 production (GO:0032693),['VSIR'],0.41477899532966883
+negative regulation of peptidyl-threonine phosphorylation (GO:0010801),['SPRY2'],0.41477899532966883
+negative regulation of viral entry into host cell (GO:0046597),['GSN'],0.41477899532966883
+pharyngeal system development (GO:0060037),['HES1'],0.41477899532966883
+positive regulation of cardiac muscle tissue growth (GO:0055023),['NOTCH1'],0.41477899532966883
+positive regulation of collagen metabolic process (GO:0010714),['VSIR'],0.41477899532966883
+positive regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045737),['EGFR'],0.41477899532966883
+positive regulation of DNA replication (GO:0045740),['EGFR'],0.41477899532966883
+positive regulation of macrophage activation (GO:0043032),['IL33'],0.41477899532966883
+positive regulation of muscle hypertrophy (GO:0014742),['NR4A3'],0.41477899532966883
+positive regulation of positive chemotaxis (GO:0050927),['VEGFA'],0.41477899532966883
+positive regulation of stem cell proliferation (GO:2000648),['GJA1'],0.41477899532966883
+positive regulation of telomere capping (GO:1904355),['PRKCQ'],0.41477899532966883
+positive regulation of transcription of Notch receptor target (GO:0007221),['NOTCH1'],0.41477899532966883
+preassembly of GPI anchor in ER membrane (GO:0016254),['PIGZ'],0.41477899532966883
+protein autoprocessing (GO:0016540),['MYRF'],0.41477899532966883
+homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156),"['PLXNB3', 'DSCAML1']",0.415311423363532
+"regulation of DNA-templated transcription, initiation (GO:2000142)","['TCF7L2', 'MITF']",0.4238113237165551
+regulation of endocytosis (GO:0030100),"['DAB2', 'ABCA7']",0.4238113237165551
+O-glycan processing (GO:0016266),"['GALNT6', 'ST6GAL1']",0.4238113237165551
+phosphatidylinositol metabolic process (GO:0046488),"['PLA2G4A', 'PLAAT3', 'SYNJ2']",0.4238113237165551
+pulmonary valve development (GO:0003177),['NOTCH1'],0.4238113237165551
+regulation of B cell differentiation (GO:0045577),['ZFP36L1'],0.4238113237165551
+regulation of cartilage development (GO:0061035),['SOX6'],0.4238113237165551
+cell migration involved in sprouting angiogenesis (GO:0002042),['VEGFA'],0.4238113237165551
+regulation of delayed rectifier potassium channel activity (GO:1902259),['KCNRG'],0.4238113237165551
+regulation of early endosome to late endosome transport (GO:2000641),['DAB2'],0.4238113237165551
+cellular response to glucocorticoid stimulus (GO:0071385),['ZFP36L1'],0.4238113237165551
+cellular response to pH (GO:0071467),['PKD2L1'],0.4238113237165551
+embryonic heart tube development (GO:0035050),['HES1'],0.4238113237165551
+regulation of production of miRNAs involved in gene silencing by miRNA (GO:1903798),['EGFR'],0.4238113237165551
+response to axon injury (GO:0048678),['APOD'],0.4238113237165551
+interleukin-6-mediated signaling pathway (GO:0070102),['ST18'],0.4238113237165551
+intracellular estrogen receptor signaling pathway (GO:0030520),['PADI2'],0.4238113237165551
+T cell migration (GO:0072678),['S1PR1'],0.4238113237165551
+negative regulation of cation transmembrane transport (GO:1904063),['ATP1A2'],0.4238113237165551
+negative regulation of Rho protein signal transduction (GO:0035024),['HEG1'],0.4238113237165551
+phosphatidylglycerol acyl-chain remodeling (GO:0036148),['PLA2G4A'],0.4238113237165551
+positive regulation of cardiac muscle hypertrophy (GO:0010613),['NR4A3'],0.4238113237165551
+positive regulation of cartilage development (GO:0061036),['SOX6'],0.4238113237165551
+positive regulation of cell migration involved in sprouting angiogenesis (GO:0090050),['VEGFA'],0.4238113237165551
+positive regulation of CREB transcription factor activity (GO:0032793),['VEGFA'],0.4238113237165551
+positive regulation of fatty acid metabolic process (GO:0045923),['NR4A3'],0.4238113237165551
+positive regulation of interleukin-4 production (GO:0032753),['PRKCQ'],0.4238113237165551
+positive regulation of nervous system process (GO:0031646),['MYRF'],0.4238113237165551
+presynapse assembly (GO:0099054),['LRP4'],0.4238113237165551
+cellular response to reactive oxygen species (GO:0034614),"['PDGFRA', 'EGFR']",0.4277769555691098
+monocarboxylic acid biosynthetic process (GO:0072330),"['CYP27A1', 'GATM']",0.4277769555691098
+neuropeptide signaling pathway (GO:0007218),"['GPR37', 'NXPH4']",0.4277769555691098
+organonitrogen compound catabolic process (GO:1901565),"['ENPP2', 'PLA2G4A']",0.4277769555691098
+positive regulation of DNA metabolic process (GO:0051054),"['EYA4', 'EGFR']",0.4277769555691098
+cellular response to transforming growth factor beta stimulus (GO:0071560),"['ITGB5', 'SOX6', 'ZFP36L1']",0.4277769555691098
+negative regulation of cell motility (GO:2000146),"['CLIC4', 'PLXNB3', 'MITF']",0.4277769555691098
+cellular amide metabolic process (GO:0043603),"['ST6GAL1', 'PLAAT3', 'PLPP3']",0.4277769555691098
+actin filament capping (GO:0051693),['GSN'],0.4277769555691098
+atrioventricular valve morphogenesis (GO:0003181),['NOTCH1'],0.4277769555691098
+barbed-end actin filament capping (GO:0051016),['GSN'],0.4277769555691098
+branching involved in ureteric bud morphogenesis (GO:0001658),['SALL1'],0.4277769555691098
+cardiac atrium morphogenesis (GO:0003209),['NOTCH1'],0.4277769555691098
+cardiac muscle cell contraction (GO:0086003),['GSN'],0.4277769555691098
+regulation of glucose transmembrane transport (GO:0010827),['NR4A3'],0.4277769555691098
+regulation of leukocyte chemotaxis (GO:0002688),['PTN'],0.4277769555691098
+regulation of neuroinflammatory response (GO:0150077),['IL33'],0.4277769555691098
+diol metabolic process (GO:0034311),['PLPP3'],0.4277769555691098
+endocardial cushion morphogenesis (GO:0003203),['NOTCH1'],0.4277769555691098
+endoplasmic reticulum mannose trimming (GO:1904380),['TRIM13'],0.4277769555691098
+establishment of skin barrier (GO:0061436),['FA2H'],0.4277769555691098
+establishment or maintenance of apical/basal cell polarity (GO:0035088),['CLIC4'],0.4277769555691098
+regulation of stem cell population maintenance (GO:2000036),['PTN'],0.4277769555691098
+regulation of vascular endothelial growth factor signaling pathway (GO:1900746),['SPRY2'],0.4277769555691098
+glycerolipid catabolic process (GO:0046503),['PLA2G4A'],0.4277769555691098
+regulation of water loss via skin (GO:0033561),['FA2H'],0.4277769555691098
+response to cholesterol (GO:0070723),['MLC1'],0.4277769555691098
+sphingosine metabolic process (GO:0006670),['PLPP3'],0.4277769555691098
+leukotriene biosynthetic process (GO:0019370),['PLA2G4A'],0.4277769555691098
+ureteric bud morphogenesis (GO:0060675),['SALL1'],0.4277769555691098
+vesicle transport along actin filament (GO:0030050),['MYO1E'],0.4277769555691098
+negative regulation of amyloid precursor protein catabolic process (GO:1902992),['ABCA7'],0.4277769555691098
+negative regulation of calcium ion transport (GO:0051926),['ATP1A2'],0.4277769555691098
+negative regulation of cytokine production involved in inflammatory response (GO:1900016),['APOD'],0.4277769555691098
+negative regulation of nervous system development (GO:0051961),['NOTCH1'],0.4277769555691098
+negative regulation of protein localization to nucleus (GO:1900181),['APOD'],0.4277769555691098
+neural crest cell differentiation (GO:0014033),['SOX8'],0.4277769555691098
+positive regulation of focal adhesion assembly (GO:0051894),['VEGFA'],0.4277769555691098
+positive regulation of leukocyte activation (GO:0002696),['IL33'],0.4277769555691098
+postsynaptic membrane organization (GO:0001941),['LRP4'],0.4277769555691098
+prostaglandin biosynthetic process (GO:0001516),['PLA2G4A'],0.4277769555691098
+positive regulation of angiogenesis (GO:0045766),"['JUP', 'GAB1', 'VEGFA']",0.43239173956388216
+cellular response to type I interferon (GO:0071357),"['IFI27', 'IRF3']",0.4347954622127264
+chemical homeostasis (GO:0048878),"['AQP4', 'TLCD1']",0.4347954622127264
+type I interferon signaling pathway (GO:0060337),"['IFI27', 'IRF3']",0.4347954622127264
+protein autoubiquitination (GO:0051865),"['TRIM13', 'RNF220']",0.4347954622127264
+positive regulation of cell projection organization (GO:0031346),"['METRN', 'PLXNB3', 'PTN']",0.43533100744567876
+embryonic organ development (GO:0048568),"['SALL1', 'GLI3']",0.43533100744567876
+positive regulation of cell cycle (GO:0045787),"['MEIS2', 'EGFR']",0.43533100744567876
+adenylate cyclase-activating G protein-coupled receptor signaling pathway (GO:0007189),"['LPAR1', 'S1PR1', 'S1PR5']",0.43533100744567876
+calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules (GO:0016338),['CLDN11'],0.43533100744567876
+cardiac epithelial to mesenchymal transition (GO:0060317),['NOTCH1'],0.43533100744567876
+cellular modified amino acid biosynthetic process (GO:0042398),['GATM'],0.43533100744567876
+cellular monovalent inorganic cation homeostasis (GO:0030004),['ATP1A2'],0.43533100744567876
+regulation of fibroblast growth factor receptor signaling pathway (GO:0040036),['SPRY2'],0.43533100744567876
+regulation of hippo signaling (GO:0035330),['MOB3B'],0.43533100744567876
+regulation of lymphocyte differentiation (GO:0045619),['ZFP36L1'],0.43533100744567876
+regulation of protein modification by small protein conjugation or removal (GO:1903320),['EPAS1'],0.43533100744567876
+epithelial cilium movement involved in extracellular fluid movement (GO:0003351),['AQP4'],0.43533100744567876
+regulation of T cell migration (GO:2000404),['APOD'],0.43533100744567876
+toll-like receptor 4 signaling pathway (GO:0034142),['TRIL'],0.43533100744567876
+mesoderm development (GO:0007498),['VEGFA'],0.43533100744567876
+xenobiotic transport (GO:0042908),['GJA1'],0.43533100744567876
+negative regulation of axon extension involved in axon guidance (GO:0048843),['SEMA6D'],0.43533100744567876
+negative regulation of viral life cycle (GO:1903901),['GSN'],0.43533100744567876
+positive regulation of alpha-beta T cell activation (GO:0046635),['GLI3'],0.43533100744567876
+positive regulation of cyclin-dependent protein kinase activity (GO:1904031),['EGFR'],0.43533100744567876
+positive regulation of embryonic development (GO:0040019),['LHX1'],0.43533100744567876
+positive regulation of heart contraction (GO:0045823),['ATP1A2'],0.43533100744567876
+positive regulation of interferon-alpha production (GO:0032727),['IRF3'],0.43533100744567876
+positive regulation of protein processing (GO:0010954),['GSN'],0.43533100744567876
+protein N-linked glycosylation (GO:0006487),"['ST6GAL1', 'GAL3ST1']",0.44269249524944715
+regulation of epidermal growth factor receptor signaling pathway (GO:0042058),"['SPRY2', 'EGFR']",0.44269249524944715
+positive regulation of catabolic process (GO:0009896),"['VSIR', 'NKD1']",0.44269249524944715
+positive regulation of protein localization to nucleus (GO:1900182),"['JUP', 'ZIC1']",0.44449991239098446
+actin filament-based transport (GO:0099515),['MYO1E'],0.44449991239098446
+purinergic nucleotide receptor signaling pathway (GO:0035590),['ENTPD1'],0.44449991239098446
+regulation of anoikis (GO:2000209),['NOTCH1'],0.44449991239098446
+regulation of cardiac muscle cell proliferation (GO:0060043),['NOTCH1'],0.44449991239098446
+regulation of cardiac muscle contraction by calcium ion signaling (GO:0010882),['ATP1A2'],0.44449991239098446
+cellular response to estradiol stimulus (GO:0071392),['EGFR'],0.44449991239098446
+regulation of fibroblast migration (GO:0010762),['PRR5L'],0.44449991239098446
+cellular response to steroid hormone stimulus (GO:0071383),['ATP1A2'],0.44449991239098446
+chondroitin sulfate biosynthetic process (GO:0030206),['BCAN'],0.44449991239098446
+endocardial cushion development (GO:0003197),['NOTCH1'],0.44449991239098446
+extrinsic apoptotic signaling pathway in absence of ligand (GO:0097192),['ERBB3'],0.44449991239098446
+NAD biosynthetic process (GO:0009435),['NUDT12'],0.44449991239098446
+negative regulation of cell communication (GO:0010648),['ERBB3'],0.44449991239098446
+negative regulation of peptidyl-serine phosphorylation (GO:0033137),['RASSF2'],0.44449991239098446
+negative regulation of protein localization to cell periphery (GO:1904376),['DAB2'],0.44449991239098446
+negative regulation of protein localization to plasma membrane (GO:1903077),['DAB2'],0.44449991239098446
+negative regulation of reproductive process (GO:2000242),['GJA1'],0.44449991239098446
+negative regulation of small GTPase mediated signal transduction (GO:0051058),['SPRY2'],0.44449991239098446
+neuron apoptotic process (GO:0051402),['ERBB3'],0.44449991239098446
+positive regulation of immune system process (GO:0002684),['VEGFA'],0.44449991239098446
+peptidyl-tyrosine phosphorylation (GO:0018108),"['PDGFRA', 'EGFR']",0.45175217368691983
+positive regulation of MAP kinase activity (GO:0043406),"['EGFR', 'VEGFA']",0.45175217368691983
+positive regulation of protein polymerization (GO:0032273),"['CDC42EP2', 'CDC42EP1']",0.45175217368691983
+regulation of plasma membrane bounded cell projection assembly (GO:0120032),"['ATP8B1', 'PLD1']",0.45341415202629065
+wound healing (GO:0042060),"['PDGFRA', 'ERBB3']",0.45341415202629065
+amino acid import (GO:0043090),['SLC1A3'],0.45341415202629065
+regulation of adenylate cyclase activity (GO:0045761),['EDNRB'],0.45341415202629065
+cell projection assembly (GO:0030031),['GSN'],0.45341415202629065
+cellular response to osmotic stress (GO:0071470),['ZFP36L1'],0.45341415202629065
+female gonad development (GO:0008585),['VEGFA'],0.45341415202629065
+regulation of viral release from host cell (GO:1902186),['TRIM13'],0.45341415202629065
+regulation of voltage-gated calcium channel activity (GO:1901385),['PDE4B'],0.45341415202629065
+rRNA methylation (GO:0031167),['METTL15'],0.45341415202629065
+limb morphogenesis (GO:0035108),['GLI3'],0.45341415202629065
+membrane lipid metabolic process (GO:0006643),['GAL3ST1'],0.45341415202629065
+zinc ion transmembrane transport (GO:0071577),['SLC39A12'],0.45341415202629065
+negative regulation of biomineral tissue development (GO:0070168),['NOTCH1'],0.45341415202629065
+neuronal action potential (GO:0019228),['MYH14'],0.45341415202629065
+positive regulation of axon extension (GO:0045773),['VEGFA'],0.45341415202629065
+"positive regulation of DNA-templated transcription, initiation (GO:2000144)",['MITF'],0.45341415202629065
+positive regulation of neural precursor cell proliferation (GO:2000179),['VEGFA'],0.45341415202629065
+positive regulation of peptidase activity (GO:0010952),['VSIR'],0.45341415202629065
+protein localization to cell junction (GO:1902414),['HEG1'],0.45341415202629065
+regulation of ERK1 and ERK2 cascade (GO:0070372),"['PDGFRA', 'NOTCH1', 'SPRY2', 'ABCA7', 'EGFR']",0.4589503137193897
+protein tetramerization (GO:0051262),"['AQP4', 'PKD2L1']",0.4596707098934022
+fatty acid biosynthetic process (GO:0006633),"['ACSBG1', 'ELOVL7']",0.4596707098934022
+cellular response to oxidative stress (GO:0034599),"['PDGFRA', 'PRR5L', 'EGFR']",0.4596707098934022
+acylglycerol biosynthetic process (GO:0046463),['PLA2G4A'],0.4596707098934022
+regulation of calcium ion transmembrane transport (GO:1903169),['ATP1A2'],0.4596707098934022
+blood vessel endothelial cell migration (GO:0043534),['VEGFA'],0.4596707098934022
+regulation of cysteine-type endopeptidase activity (GO:2000116),['SOX2'],0.4596707098934022
+regulation of interleukin-4 production (GO:0032673),['PRKCQ'],0.4596707098934022
+cytoskeleton-dependent intracellular transport (GO:0030705),['MAP6D1'],0.4596707098934022
+"DNA catabolic process, endonucleolytic (GO:0000737)",['DNASE1L2'],0.4596707098934022
+ear morphogenesis (GO:0042471),['ZIC1'],0.4596707098934022
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum (GO:0010880),['ATP1A2'],0.4596707098934022
+regulation of SMAD protein signal transduction (GO:0060390),['DAB2'],0.4596707098934022
+regulation of telomere capping (GO:1904353),['PRKCQ'],0.4596707098934022
+membrane protein ectodomain proteolysis (GO:0006509),['PRKCQ'],0.4596707098934022
+negative regulation of GTPase activity (GO:0034260),['PLXNB3'],0.4596707098934022
+negative regulation of intracellular protein transport (GO:0090317),['APOD'],0.4596707098934022
+negative regulation of smoothened signaling pathway (GO:0045879),['GLI3'],0.4596707098934022
+positive regulation of cholesterol efflux (GO:0010875),['ABCA7'],0.4596707098934022
+positive regulation of epithelial cell apoptotic process (GO:1904037),['GSN'],0.4596707098934022
+positive regulation of interleukin-17 production (GO:0032740),['PRKCQ'],0.4596707098934022
+positive regulation of receptor internalization (GO:0002092),['VEGFA'],0.4596707098934022
+cell junction organization (GO:0034330),"['LRP4', 'LIMS2']",0.4596707098934022
+cell morphogenesis involved in differentiation (GO:0000904),"['NTNG2', 'TYRO3']",0.4596707098934022
+cytoskeleton-dependent cytokinesis (GO:0061640),"['ANLN', 'TRIM36']",0.4596707098934022
+extrinsic apoptotic signaling pathway (GO:0097191),"['IFI27', 'ERBB3']",0.4596707098934022
+negative regulation of epithelial cell proliferation (GO:0050680),"['SOX2', 'NFIB']",0.4596707098934022
+positive regulation of protein secretion (GO:0050714),"['TCF7L2', 'WLS']",0.4596707098934022
+membrane organization (GO:0061024),"['DAB2', 'AVP', 'TLCD1', 'SYNJ2', 'EGFR']",0.4661822583074363
+regulation of actin filament polymerization (GO:0030833),"['CDC42EP2', 'CDC42EP1']",0.4672010041503888
+neurotransmitter transport (GO:0006836),"['SLC1A3', 'ATP1A2']",0.4672010041503888
+amino acid import across plasma membrane (GO:0089718),['SLC1A3'],0.4676001730533319
+cardiac muscle cell differentiation (GO:0055007),['VEGFA'],0.4676001730533319
+regulation of cytokine production involved in immune response (GO:0002718),['TRIL'],0.4676001730533319
+cholesterol efflux (GO:0033344),['ABCA7'],0.4676001730533319
+regulation of keratinocyte proliferation (GO:0010837),['ZFP36L1'],0.4676001730533319
+regulation of monooxygenase activity (GO:0032768),['EGFR'],0.4676001730533319
+extracellular matrix assembly (GO:0085029),['NTNG2'],0.4676001730533319
+inner ear morphogenesis (GO:0042472),['ZIC1'],0.4676001730533319
+leukotriene metabolic process (GO:0006691),['PLA2G4A'],0.4676001730533319
+mammary gland development (GO:0030879),['VEGFA'],0.4676001730533319
+negative regulation of lipid metabolic process (GO:0045833),['APOD'],0.4676001730533319
+negative regulation of synaptic transmission (GO:0050805),['PRRT1'],0.4676001730533319
+neuromuscular junction development (GO:0007528),['LRP4'],0.4676001730533319
+positive regulation of cell-substrate junction organization (GO:0150117),['VEGFA'],0.4676001730533319
+positive regulation of p38MAPK cascade (GO:1900745),['VEGFA'],0.4676001730533319
+positive regulation of phospholipase activity (GO:0010518),['PDGFRA'],0.4676001730533319
+positive regulation of viral life cycle (GO:1903902),['TYRO3'],0.4676001730533319
+potassium ion homeostasis (GO:0055075),['ATP1A2'],0.4676001730533319
+"protein alpha-1,2-demannosylation (GO:0036508)",['TRIM13'],0.4676001730533319
+regulation of stress fiber assembly (GO:0051492),"['LPAR1', 'SORBS3']",0.4681808728743995
+positive regulation of macromolecule biosynthetic process (GO:0010557),"['IL33', 'PLD1', 'EGFR']",0.4686196438095154
+protein glycosylation (GO:0006486),"['GALNT6', 'GAL3ST1', 'PLOD1']",0.47409146396029594
+positive regulation of DNA-binding transcription factor activity (GO:0051091),"['JUP', 'TRIM13', 'PRKCQ', 'PLPP3', 'VEGFA']",0.47409146396029594
+cellular response to hypoxia (GO:0071456),"['EPAS1', 'ZFP36L1', 'VEGFA']",0.47409146396029594
+regulation of AMPA receptor activity (GO:2000311),['PRRT1'],0.47409146396029594
+regulation of cardiac muscle cell action potential (GO:0098901),['JUP'],0.47409146396029594
+cardiac conduction system development (GO:0003161),['GJA1'],0.47409146396029594
+regulation of epidermal cell differentiation (GO:0045604),['ZFP36L1'],0.47409146396029594
+regulation of heterotypic cell-cell adhesion (GO:0034114),['MBP'],0.47409146396029594
+regulation of interferon-alpha production (GO:0032647),['IRF3'],0.47409146396029594
+regulation of mitochondrial fission (GO:0090140),['INF2'],0.47409146396029594
+detection of chemical stimulus involved in sensory perception (GO:0050907),['PKD2L1'],0.47409146396029594
+regulation of myotube differentiation (GO:0010830),['NOTCH1'],0.47409146396029594
+divalent inorganic cation homeostasis (GO:0072507),['FAM20A'],0.47409146396029594
+energy derivation by oxidation of organic compounds (GO:0015980),['NR4A3'],0.47409146396029594
+response to hexose (GO:0009746),['TCF7L2'],0.47409146396029594
+sodium ion homeostasis (GO:0055078),['ATP1A2'],0.47409146396029594
+negative regulation of actin filament polymerization (GO:0030837),['GSN'],0.47409146396029594
+negative regulation of cell junction assembly (GO:1901889),['APOD'],0.47409146396029594
+negative regulation of endocytosis (GO:0045806),['ABCA7'],0.47409146396029594
+negative regulation of signaling (GO:0023057),['ERBB3'],0.47409146396029594
+peroxisome organization (GO:0007031),['PLAAT3'],0.47409146396029594
+phosphatidylglycerol metabolic process (GO:0046471),['PLA2G4A'],0.47409146396029594
+phosphatidylinositol dephosphorylation (GO:0046856),['SYNJ2'],0.47409146396029594
+regulation of BMP signaling pathway (GO:0030510),"['NOTCH1', 'HES5']",0.4748299106467957
+chloride transport (GO:0006821),"['CLIC4', 'SLC1A3']",0.4748299106467957
+positive regulation of interleukin-6 production (GO:0032755),"['IL33', 'MBP']",0.4748299106467957
+regulation of nucleic acid-templated transcription (GO:1903506),"['SOX2', 'NKX6-2', 'NOTCH1', 'NFIA', 'TFEB', 'PRKCQ', 'MITF', 'SOX6']",0.47800978615145423
+negative regulation of developmental process (GO:0051093),"['NOTCH1', 'NFIB']",0.4815935377645788
+positive regulation of endothelial cell proliferation (GO:0001938),"['PLXNB3', 'VEGFA']",0.4815935377645788
+positive regulation of tumor necrosis factor production (GO:0032760),"['IL33', 'FRMD8']",0.4815935377645788
+regulation of cell adhesion (GO:0030155),"['ERBB3', 'PLXNB3', 'VEGFA']",0.4815935377645788
+regulation of chondrocyte differentiation (GO:0032330),['SOX6'],0.4815935377645788
+cellular response to drug (GO:0035690),['PDE4B'],0.4815935377645788
+regulation of regulatory T cell differentiation (GO:0045589),['VSIR'],0.4815935377645788
+regulation of viral life cycle (GO:1903900),['TYRO3'],0.4815935377645788
+hippo signaling (GO:0035329),['AMOTL2'],0.4815935377645788
+lamellipodium assembly (GO:0030032),['S1PR1'],0.4815935377645788
+membrane depolarization during action potential (GO:0086010),['ATP1A2'],0.4815935377645788
+TOR signaling (GO:0031929),['PRR5L'],0.4815935377645788
+mononuclear cell differentiation (GO:1903131),['VEGFA'],0.4815935377645788
+negative regulation of cell development (GO:0010721),['NOTCH1'],0.4815935377645788
+negative regulation of protein localization to membrane (GO:1905476),['DAB2'],0.4815935377645788
+positive regulation of G1/S transition of mitotic cell cycle (GO:1900087),['EGFR'],0.4815935377645788
+positive regulation of interleukin-2 production (GO:0032743),['PDE4B'],0.4815935377645788
+negative regulation of protein serine/threonine kinase activity (GO:0071901),"['HEG1', 'SPRY2']",0.48413324596345864
+bile acid biosynthetic process (GO:0006699),['CYP27A1'],0.4912610939607523
+cellular lipid catabolic process (GO:0044242),['ENPP2'],0.4912610939607523
+cellular response to cadmium ion (GO:0071276),['EGFR'],0.4912610939607523
+chondroitin sulfate proteoglycan biosynthetic process (GO:0050650),['BCAN'],0.4912610939607523
+regulation of toll-like receptor signaling pathway (GO:0034121),['TYRO3'],0.4912610939607523
+response to glucocorticoid (GO:0051384),['ZFP36L1'],0.4912610939607523
+L-alpha-amino acid transmembrane transport (GO:1902475),['SLC1A3'],0.4912610939607523
+negative regulation of catalytic activity (GO:0043086),['NOTCH1'],0.4912610939607523
+negative regulation of insulin receptor signaling pathway (GO:0046627),['PRKCQ'],0.4912610939607523
+negative regulation of plasma membrane bounded cell projection assembly (GO:0120033),['PLXNB3'],0.4912610939607523
+positive regulation of cellular component movement (GO:0051272),['VEGFA'],0.4912610939607523
+positive regulation of gene silencing by miRNA (GO:2000637),['EGFR'],0.4912610939607523
+presynaptic endocytosis (GO:0140238),['SYNJ2'],0.4912610939607523
+regulation of NIK/NF-kappaB signaling (GO:1901222),"['RASSF2', 'EGFR']",0.4927190986984727
+regulation of organelle organization (GO:0033043),"['CLIC4', 'ZEB2']",0.4927190986984727
+regulation of protein localization to plasma membrane (GO:1903076),"['DAB2', 'EGFR']",0.4927190986984727
+glycerophospholipid metabolic process (GO:0006650),"['PIGZ', 'PLA2G4A']",0.4927190986984727
+skin development (GO:0043588),"['FA2H', 'CLIC4']",0.4927190986984727
+negative regulation of cellular response to growth factor stimulus (GO:0090288),"['NOTCH1', 'SPRY2']",0.4927190986984727
+positive regulation of cell adhesion (GO:0045785),"['MEGF10', 'VEGFA']",0.4927190986984727
+negative regulation of protein modification process (GO:0031400),"['PRR5L', 'PLPP3']",0.4950966818404968
+phospholipase C-activating G protein-coupled receptor signaling pathway (GO:0007200),"['GPR17', 'LPAR1']",0.4950966818404968
+positive regulation of tumor necrosis factor superfamily cytokine production (GO:1903557),"['IL33', 'FRMD8']",0.4950966818404968
+regulation of B cell activation (GO:0050864),['ZFP36L1'],0.4950966818404968
+bile acid and bile salt transport (GO:0015721),['ATP8B1'],0.4950966818404968
+cellular response to acid chemical (GO:0071229),['VEGFA'],0.4950966818404968
+cellular response to interleukin-6 (GO:0071354),['ST18'],0.4950966818404968
+cellular zinc ion homeostasis (GO:0006882),['SLC39A12'],0.4950966818404968
+regulation of multicellular organismal development (GO:2000026),['PTN'],0.4950966818404968
+regulation of neuron migration (GO:2001222),['NTNG2'],0.4950966818404968
+glycogen metabolic process (GO:0005977),['PHKG1'],0.4950966818404968
+GPI anchor metabolic process (GO:0006505),['PIGZ'],0.4950966818404968
+sarcomere organization (GO:0045214),['CSRP1'],0.4950966818404968
+negative regulation of calcium ion transmembrane transporter activity (GO:1901020),['ATP1A2'],0.4950966818404968
+negative regulation of cellular response to insulin stimulus (GO:1900077),['PRKCQ'],0.4950966818404968
+positive regulation of cell communication (GO:0010647),['WLS'],0.4950966818404968
+positive regulation of fibroblast proliferation (GO:0048146),['PDGFRA'],0.4950966818404968
+positive regulation of phosphatidylinositol 3-kinase activity (GO:0043552),['PDGFRA'],0.4950966818404968
+positive regulation of response to wounding (GO:1903036),['PTN'],0.4950966818404968
+protein depolymerization (GO:0051261),['GSN'],0.4950966818404968
+protein localization to cell surface (GO:0034394),['PRRT1'],0.4950966818404968
+positive regulation of cell differentiation (GO:0045597),"['GJA1', 'DAB2', 'PTN', 'SOX6', 'ZFP36L1']",0.4950966818404968
+regulation of cellular component organization (GO:0051128),"['PRKCQ', 'SGK2', 'ERMN']",0.49637560141379794
+transcription by RNA polymerase II (GO:0006366),"['NR4A2', 'NFIX', 'NR4A3', 'NOTCH1', 'PRRX1', 'LHX1']",0.49866851551519786
+transcription initiation from RNA polymerase II promoter (GO:0006367),"['NR4A2', 'NOTCH1', 'NR4A3']",0.5011136080109888
+neuron projection morphogenesis (GO:0048812),"['NTNG2', 'LRP4', 'DSCAML1']",0.5011136080109888
+long-chain fatty acid metabolic process (GO:0001676),"['PLA2G4A', 'ACSBG1']",0.5036461430640221
+regulation of small GTPase mediated signal transduction (GO:0051056),"['ARAP2', 'ARHGEF19', 'ARHGAP29']",0.5036461430640221
+actin filament polymerization (GO:0030041),['GSN'],0.5036461430640221
+beta-catenin-TCF complex assembly (GO:1904837),['TCF7L2'],0.5036461430640221
+determination of bilateral symmetry (GO:0009855),['NOTCH1'],0.5036461430640221
+response to cadmium ion (GO:0046686),['EGFR'],0.5036461430640221
+lamellipodium organization (GO:0097581),['S1PR1'],0.5036461430640221
+lipid catabolic process (GO:0016042),['PLAAT3'],0.5036461430640221
+negative regulation of epithelial to mesenchymal transition (GO:0010719),['SPRY2'],0.5036461430640221
+negative regulation of interferon-gamma production (GO:0032689),['VSIR'],0.5036461430640221
+negative regulation of DNA-binding transcription factor activity (GO:0043433),"['TCF7L2', 'ID3', 'HES1']",0.5101707400370767
+nitrogen compound transport (GO:0071705),"['SLC7A11', 'SLC38A3', 'SLC7A10']",0.5101707400370767
+regulation of angiogenesis (GO:0045765),"['JUP', 'GAB1', 'SPRY2', 'VEGFA']",0.5101707400370767
+protein N-linked glycosylation via asparagine (GO:0018279),['ST6GAL1'],0.5101707400370767
+cardiac muscle cell action potential (GO:0086001),['ATP1A2'],0.5101707400370767
+cell projection organization (GO:0030030),['GSN'],0.5101707400370767
+chondroitin sulfate metabolic process (GO:0030204),['BCAN'],0.5101707400370767
+regulation of long-term synaptic potentiation (GO:1900271),['PTN'],0.5101707400370767
+regulation of macrophage activation (GO:0043030),['IL33'],0.5101707400370767
+regulation of protein localization to membrane (GO:1905475),['GSN'],0.5101707400370767
+respiratory tube development (GO:0030323),['VEGFA'],0.5101707400370767
+heterotypic cell-cell adhesion (GO:0034113),['JUP'],0.5101707400370767
+long-chain fatty acid biosynthetic process (GO:0042759),['ACSBG1'],0.5101707400370767
+TRIF-dependent toll-like receptor signaling pathway (GO:0035666),['IRF3'],0.5101707400370767
+zinc ion homeostasis (GO:0055069),['SLC39A12'],0.5101707400370767
+plasma membrane invagination (GO:0099024),['GSN'],0.5101707400370767
+positive regulation of lipid kinase activity (GO:0090218),['PDGFRA'],0.5101707400370767
+positive regulation of phosphate metabolic process (GO:0045937),['EGFR'],0.5101707400370767
+positive regulation of small GTPase mediated signal transduction (GO:0051057),['NOTCH1'],0.5101707400370767
+negative regulation of defense response (GO:0031348),"['TNFAIP6', 'TYRO3']",0.5104645650492553
+regulation of interferon-gamma production (GO:0032649),"['PDE4B', 'VSIR']",0.5164774688603766
+regulation of Ras protein signal transduction (GO:0046578),"['NOTCH1', 'SPRY2']",0.5164774688603766
+negative regulation of phosphorylation (GO:0042326),"['PRR5L', 'PLPP3']",0.5164774688603766
+positive regulation of endothelial cell migration (GO:0010595),"['PLPP3', 'VEGFA']",0.5164774688603766
+protein-containing complex assembly (GO:0065003),"['TCF7L2', 'MITF', 'HES1', 'HES5', 'SKAP2']",0.5178155390454879
+cardiac muscle cell action potential involved in contraction (GO:0086002),['GJA1'],0.5178155390454879
+cellular response to cAMP (GO:0071320),['ZFP36L1'],0.5178155390454879
+MyD88-independent toll-like receptor signaling pathway (GO:0002756),['IRF3'],0.5178155390454879
+negative regulation of osteoblast differentiation (GO:0045668),['NOTCH1'],0.5178155390454879
+negative regulation of response to biotic stimulus (GO:0002832),['TYRO3'],0.5178155390454879
+peptide cross-linking (GO:0018149),['ABCA7'],0.5178155390454879
+peptidyl-asparagine modification (GO:0018196),['ST6GAL1'],0.5178155390454879
+phosphatidylethanolamine metabolic process (GO:0046337),['PLAAT3'],0.5178155390454879
+prostaglandin metabolic process (GO:0006693),['PLA2G4A'],0.5178155390454879
+regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618),"['EPAS1', 'VEGFA']",0.5193992444610395
+sodium ion transmembrane transport (GO:0035725),"['PKD2L1', 'ATP1A2']",0.5193992444610395
+positive regulation of cytosolic calcium ion concentration (GO:0007204),"['PDGFRA', 'GPR17', 'LPAR1']",0.5234973093640497
+metal ion transport (GO:0030001),"['NIPAL4', 'CDH23']",0.5243466584720924
+positive regulation of neuron projection development (GO:0010976),"['PLXNB3', 'PTN']",0.5243466584720924
+aortic valve morphogenesis (GO:0003180),['NOTCH1'],0.5243466584720924
+regulation of cell morphogenesis (GO:0022604),['NTNG2'],0.5243466584720924
+regulation of cellular biosynthetic process (GO:0031326),['MITF'],0.5243466584720924
+regulation of chemotaxis (GO:0050920),['PDGFRA'],0.5243466584720924
+GPI anchor biosynthetic process (GO:0006506),['PIGZ'],0.5243466584720924
+skeletal muscle organ development (GO:0060538),['MYH14'],0.5243466584720924
+metal ion export (GO:0070839),['ATP1A2'],0.5243466584720924
+negative regulation of cell-matrix adhesion (GO:0001953),['APOD'],0.5243466584720924
+negative regulation of intracellular steroid hormone receptor signaling pathway (GO:0033144),['DAB2'],0.5243466584720924
+positive regulation of glucose transmembrane transport (GO:0010828),['NR4A3'],0.5243466584720924
+positive regulation of lamellipodium organization (GO:1902745),['ENPP2'],0.5243466584720924
+positive regulation of telomere maintenance (GO:0032206),['PRKCQ'],0.5243466584720924
+regulation of cation channel activity (GO:2001257),"['PRRT1', 'FGF11']",0.5276477974647258
+regulation of endothelial cell migration (GO:0010594),"['PTN', 'VEGFA']",0.5276477974647258
+sodium ion transport (GO:0006814),"['PKD2L1', 'ATP1A2']",0.531283423740163
+positive regulation of autophagy (GO:0010508),"['TFEB', 'TRIM13']",0.531283423740163
+positive regulation of binding (GO:0051099),"['TCF7L2', 'HES1']",0.531283423740163
+bile acid metabolic process (GO:0008206),['CYP27A1'],0.531283423740163
+regulation of cholesterol efflux (GO:0010874),['ABCA7'],0.531283423740163
+regulation of protein localization to cell surface (GO:2000008),['ABCA7'],0.531283423740163
+regulation of sprouting angiogenesis (GO:1903670),['VEGFA'],0.531283423740163
+lytic vacuole organization (GO:0080171),['TFEB'],0.531283423740163
+negative chemotaxis (GO:0050919),['SEMA6D'],0.531283423740163
+negative regulation of smooth muscle cell proliferation (GO:0048662),['APOD'],0.531283423740163
+positive regulation of cholesterol transport (GO:0032376),['ABCA7'],0.531283423740163
+positive regulation of organelle organization (GO:0010638),['SORBS3'],0.531283423740163
+positive regulation of telomere maintenance via telomerase (GO:0032212),['PRKCQ'],0.531283423740163
+negative regulation of inflammatory response (GO:0050728),"['POMC', 'TNFAIP6', 'TYRO3', 'AVP']",0.5316713420675827
+regulation of actin cytoskeleton organization (GO:0032956),"['PDGFRA', 'ARHGEF19']",0.5359687626134106
+positive regulation of supramolecular fiber organization (GO:1902905),"['CDC42EP2', 'CDC42EP1']",0.5359687626134106
+positive regulation of protein modification process (GO:0031401),"['DAB2', 'FAM20A', 'EGFR', 'VEGFA']",0.5366154054732821
+regulation of amyloid-beta formation (GO:1902003),['ABCA7'],0.5366154054732821
+regulation of keratinocyte differentiation (GO:0045616),['ZFP36L1'],0.5366154054732821
+regulation of lamellipodium assembly (GO:0010591),['PLXNB3'],0.5366154054732821
+female gamete generation (GO:0007292),['PTN'],0.5366154054732821
+regulation of transmembrane transport (GO:0034762),['KCNJ10'],0.5366154054732821
+response to steroid hormone (GO:0048545),['ATP1A2'],0.5366154054732821
+striated muscle tissue development (GO:0014706),['MYH14'],0.5366154054732821
+synaptic vesicle recycling (GO:0036465),['SYNJ2'],0.5366154054732821
+ventricular cardiac muscle tissue morphogenesis (GO:0055010),['NOTCH1'],0.5366154054732821
+negative regulation of mitochondrion organization (GO:0010823),['AVP'],0.5366154054732821
+positive regulation of DNA binding (GO:0043388),['HES1'],0.5366154054732821
+positive regulation of telomerase activity (GO:0051973),['PRKCQ'],0.5366154054732821
+protein destabilization (GO:0031648),['GSN'],0.5366154054732821
+protein insertion into membrane (GO:0051205),['EGFR'],0.5366154054732821
+regulation of endothelial cell proliferation (GO:0001936),"['PLXNB3', 'VEGFA']",0.5366154054732821
+positive regulation of cellular component biogenesis (GO:0044089),"['CDC42EP2', 'VEGFA']",0.5366154054732821
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),"['PDGFRA', 'NR4A3', 'ERBB3', 'GAB1', 'TYRO3', 'EGFR', 'VEGFA']",0.5374919225487732
+regulation of cellular macromolecule biosynthetic process (GO:2000112),"['SOX2', 'NKX6-2', 'NOTCH1', 'NFIA', 'TFEB', 'PRKCQ', 'MITF', 'SOX6']",0.5382013800904337
+positive regulation of protein kinase activity (GO:0045860),"['RASSF2', 'ERBB3', 'VEGFA']",0.5415408500585257
+visual perception (GO:0007601),"['CRYBG3', 'EYA4']",0.5415408500585257
+regulation of cell growth (GO:0001558),"['GJA1', 'PRKCQ', 'SGK2', 'EGFR']",0.5415408500585257
+blood vessel diameter maintenance (GO:0097746),['EDNRB'],0.5415408500585257
+cellular response to amyloid-beta (GO:1904646),['GJA1'],0.5415408500585257
+cellular response to virus (GO:0098586),['IRF3'],0.5415408500585257
+regulation of ion transmembrane transport (GO:0034765),['KCNJ10'],0.5415408500585257
+regulation of muscle cell differentiation (GO:0051147),['MEGF10'],0.5415408500585257
+regulation of phosphatidylinositol 3-kinase activity (GO:0043551),['PDGFRA'],0.5415408500585257
+respiratory system development (GO:0060541),['VEGFA'],0.5415408500585257
+lung development (GO:0030324),['VEGFA'],0.5415408500585257
+muscle cell differentiation (GO:0042692),['MEGF10'],0.5415408500585257
+positive regulation of cell cycle G1/S phase transition (GO:1902808),['EGFR'],0.5415408500585257
+positive regulation of lymphocyte activation (GO:0051251),['PRKCQ'],0.5415408500585257
+positive regulation of reproductive process (GO:2000243),['VEGFA'],0.5415408500585257
+negative regulation of MAPK cascade (GO:0043409),"['SPRY2', 'ABCA7']",0.5437240322416507
+aortic valve development (GO:0003176),['NOTCH1'],0.5486464460524713
+regulation of androgen receptor signaling pathway (GO:0060765),['DAB2'],0.5486464460524713
+regulation of cardiac muscle contraction (GO:0055117),['PDE4B'],0.5486464460524713
+regulation of mRNA processing (GO:0050684),['ZFP36L1'],0.5486464460524713
+regulation of receptor internalization (GO:0002090),['VEGFA'],0.5486464460524713
+"Wnt signaling pathway, calcium modulating pathway (GO:0007223)",['TCF7L2'],0.5486464460524713
+negative regulation of toll-like receptor signaling pathway (GO:0034122),['TYRO3'],0.5486464460524713
+positive regulation of bone mineralization (GO:0030501),['PTN'],0.5486464460524713
+positive regulation of interferon-beta production (GO:0032728),['IRF3'],0.5486464460524713
+positive regulation of myeloid leukocyte differentiation (GO:0002763),['ZFP36L1'],0.5486464460524713
+positive regulation of telomere maintenance via telomere lengthening (GO:1904358),['PRKCQ'],0.5486464460524713
+T cell receptor signaling pathway (GO:0050852),"['MOG', 'PDE4B', 'PRKCQ']",0.5530081927392537
+protein autophosphorylation (GO:0046777),"['PDGFRA', 'TYRO3', 'EGFR']",0.5566001901653248
+proton transmembrane transport (GO:1902600),['ATP1A2'],0.5566001901653248
+regulation of actin cytoskeleton reorganization (GO:2000249),['PDGFRA'],0.5566001901653248
+regulation of erythrocyte differentiation (GO:0045646),['ZFP36L1'],0.5566001901653248
+regulation of p38MAPK cascade (GO:1900744),['VEGFA'],0.5566001901653248
+skeletal muscle tissue development (GO:0007519),['MYH14'],0.5566001901653248
+negative regulation of epithelial cell apoptotic process (GO:1904036),['TCF7L2'],0.5566001901653248
+phospholipid biosynthetic process (GO:0008654),['MBOAT1'],0.5566001901653248
+regulation of apoptotic process (GO:0042981),"['DAB2', 'TNFAIP8', 'RASSF2', 'IRF3', 'ARHGEF19', 'SPRY2', 'SOX8', 'AVP', 'CRYAB', 'EGFR', 'POU3F3', 'VEGFA']",0.56238333580167
+actin-myosin filament sliding (GO:0033275),['TNNI1'],0.56238333580167
+regulation of apoptotic signaling pathway (GO:2001233),['NR4A2'],0.56238333580167
+regulation of axon extension (GO:0030516),['MAG'],0.56238333580167
+response to cAMP (GO:0051591),['ZFP36L1'],0.56238333580167
+response to estradiol (GO:0032355),['EGFR'],0.56238333580167
+lysosome organization (GO:0007040),['TFEB'],0.56238333580167
+synaptic vesicle endocytosis (GO:0048488),['SYNJ2'],0.56238333580167
+mRNA destabilization (GO:0061157),['ZFP36L1'],0.56238333580167
+muscle filament sliding (GO:0030049),['TNNI1'],0.56238333580167
+negative regulation of innate immune response (GO:0045824),['TYRO3'],0.56238333580167
+positive regulation of insulin secretion (GO:0032024),['TCF7L2'],0.56238333580167
+positive regulation of potassium ion transport (GO:0043268),['KCNJ10'],0.56238333580167
+positive regulation of signaling (GO:0023056),['WLS'],0.56238333580167
+positive regulation of stress-activated MAPK cascade (GO:0032874),"['RASSF2', 'VEGFA']",0.5640037898144064
+cell-matrix adhesion (GO:0007160),"['ITGB5', 'ITGA10']",0.5671355746312317
+regulation of cellular component biogenesis (GO:0044087),['NOTCH1'],0.5671355746312317
+regulation of dendrite development (GO:0050773),['PTN'],0.5671355746312317
+regulation of exit from mitosis (GO:0007096),['ANLN'],0.5671355746312317
+regulation of heart rate by cardiac conduction (GO:0086091),['JUP'],0.5671355746312317
+regulation of nitric-oxide synthase activity (GO:0050999),['EGFR'],0.5671355746312317
+regulation of peptidyl-threonine phosphorylation (GO:0010799),['SPRY2'],0.5671355746312317
+endothelial cell migration (GO:0043542),['VEGFA'],0.5671355746312317
+regulation of protein tyrosine kinase activity (GO:0061097),['ERBB3'],0.5671355746312317
+regulation of viral entry into host cell (GO:0046596),['GSN'],0.5671355746312317
+membrane protein proteolysis (GO:0033619),['PRKCQ'],0.5671355746312317
+vesicle cytoskeletal trafficking (GO:0099518),['MYO1E'],0.5671355746312317
+negative regulation of cellular metabolic process (GO:0031324),['EDNRB'],0.5671355746312317
+negative regulation of secretion by cell (GO:1903531),['NOTCH1'],0.5671355746312317
+organophosphate biosynthetic process (GO:0090407),['MBOAT1'],0.5671355746312317
+epithelial cell differentiation (GO:0030855),"['DAB2', 'VEGFA']",0.5708666561027261
+regulation of cell death (GO:0010941),"['TRIM13', 'CRYAB']",0.5720058475409662
+calcium-mediated signaling (GO:0019722),"['EDNRB', 'EGFR']",0.5720058475409662
+regulation of protein catabolic process (GO:0042176),"['EGFR', 'NKD1']",0.5720058475409662
+bone development (GO:0060348),['GJA1'],0.5720058475409662
+regulation of sodium ion transmembrane transporter activity (GO:2000649),['FGF11'],0.5720058475409662
+glycolipid biosynthetic process (GO:0009247),['PIGZ'],0.5720058475409662
+lymphocyte migration (GO:0072676),['S1PR1'],0.5720058475409662
+sulfur compound catabolic process (GO:0044273),['BCAN'],0.5720058475409662
+negative regulation of blood coagulation (GO:0030195),['PDGFRA'],0.5720058475409662
+negative regulation of cell-substrate adhesion (GO:0010812),['NOTCH1'],0.5720058475409662
+negative regulation of I-kappaB kinase/NF-kappaB signaling (GO:0043124),['TRIM59'],0.5720058475409662
+organic hydroxy compound transport (GO:0015850),['ATP8B1'],0.5720058475409662
+positive regulation of ossification (GO:0045778),['PTN'],0.5720058475409662
+positive regulation of wound healing (GO:0090303),['PLPP3'],0.5720058475409662
+apoptotic process (GO:0006915),"['IFI27', 'IRF3', 'ERBB3', 'MAL']",0.5755629006224825
+cellular response to organonitrogen compound (GO:0071417),"['JUP', 'ZFP36L1']",0.5774541140020772
+acylglycerol metabolic process (GO:0006639),['PLAAT3'],0.5785190422314893
+regulation of release of cytochrome c from mitochondria (GO:0090199),['AVP'],0.5785190422314893
+regulation of viral transcription (GO:0046782),['TRIM13'],0.5785190422314893
+response to growth factor (GO:0070848),['SOX2'],0.5785190422314893
+hexose metabolic process (GO:0019318),['APOD'],0.5785190422314893
+keratinocyte differentiation (GO:0030216),['CLIC4'],0.5785190422314893
+positive regulation of biomineral tissue development (GO:0070169),['PTN'],0.5785190422314893
+positive regulation of cation transmembrane transport (GO:1904064),['KCNJ10'],0.5785190422314893
+"DNA-templated transcription, initiation (GO:0006352)","['NR4A2', 'NOTCH1', 'NR4A3']",0.578951648917943
+protein phosphorylation (GO:0006468),"['PRRT1', 'PDGFRA', 'CDK19', 'TYRO3', 'PRKCQ', 'FAM20A', 'SGK2', 'EGFR']",0.5844128684751652
+activation of GTPase activity (GO:0090630),"['ARHGEF19', 'ARHGAP29']",0.5844128684751652
+regulation of JNK cascade (GO:0046328),"['RASSF2', 'EGFR']",0.5844128684751652
+regulation of chemokine production (GO:0032642),['IL33'],0.5844128684751652
+cellular respiration (GO:0045333),['NR4A3'],0.5844128684751652
+ceramide biosynthetic process (GO:0046513),['FA2H'],0.5844128684751652
+determination of left/right symmetry (GO:0007368),['NOTCH1'],0.5844128684751652
+negative regulation of protein catabolic process (GO:0042177),['EGFR'],0.5844128684751652
+nucleic acid-templated transcription (GO:0097659),['NR4A2'],0.5844128684751652
+positive regulation of protein tyrosine kinase activity (GO:0061098),['ERBB3'],0.5844128684751652
+protein processing (GO:0016485),"['MYRF', 'VSIR']",0.5872119457048859
+small GTPase mediated signal transduction (GO:0007264),"['PLD1', 'RASGRP3']",0.5872119457048859
+positive regulation of protein serine/threonine kinase activity (GO:0071902),"['EGFR', 'VEGFA']",0.5872119457048859
+protein localization to nucleus (GO:0034504),"['FAM53B', 'ABCA7']",0.5872119457048859
+regulation of cell-cell adhesion (GO:0022407),['MEGF10'],0.5896913745117639
+regulation of cell-substrate adhesion (GO:0010810),['NOTCH1'],0.5896913745117639
+regulation of cytokine production involved in inflammatory response (GO:1900015),['APOD'],0.5896913745117639
+development of primary male sexual characteristics (GO:0046546),['SOX8'],0.5896913745117639
+heart looping (GO:0001947),['NOTCH1'],0.5896913745117639
+male gonad development (GO:0008584),['SOX8'],0.5896913745117639
+negative regulation of type I interferon production (GO:0032480),['IRF3'],0.5896913745117639
+positive regulation of peptide hormone secretion (GO:0090277),['TCF7L2'],0.5896913745117639
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0090101),"['NOTCH1', 'SPRY2']",0.5951247852681545
+regulation of intracellular signal transduction (GO:1902531),"['RASSF2', 'ARHGEF19', 'ARAP2', 'ARHGAP29', 'MOB3B', 'EGFR', 'VEGFA']",0.5951247852681545
+cation transport (GO:0006812),"['KCNJ10', 'PKD2L1', 'ATP1A2']",0.5951247852681545
+cardiac ventricle morphogenesis (GO:0003208),['NOTCH1'],0.5951247852681545
+detection of chemical stimulus involved in sensory perception of taste (GO:0050912),['PKD2L1'],0.5951247852681545
+response to amyloid-beta (GO:1904645),['GJA1'],0.5951247852681545
+intracellular steroid hormone receptor signaling pathway (GO:0030518),['PADI2'],0.5951247852681545
+metal ion homeostasis (GO:0055065),['FAM20A'],0.5951247852681545
+mRNA catabolic process (GO:0006402),['NUDT12'],0.5951247852681545
+neurogenesis (GO:0022008),['LPAR1'],0.5951247852681545
+positive regulation of potassium ion transmembrane transport (GO:1901381),['KCNJ10'],0.5951247852681545
+lipid transport (GO:0006869),"['ATP8B1', 'ABCA7']",0.5975284694765571
+regulation of interleukin-6 production (GO:0032675),"['IL33', 'MBP']",0.6014905995014299
+action potential (GO:0001508),['MYH14'],0.6014905995014299
+regulation of insulin receptor signaling pathway (GO:0046626),['PRKCQ'],0.6014905995014299
+regulation of pri-miRNA transcription by RNA polymerase II (GO:1902893),['NFIB'],0.6014905995014299
+zymogen activation (GO:0031638),['VSIR'],0.6014905995014299
+positive regulation of Notch signaling pathway (GO:0045747),['NOTCH1'],0.6014905995014299
+positive regulation of RNA metabolic process (GO:0051254),['EGFR'],0.6014905995014299
+glycerophospholipid biosynthetic process (GO:0046474),"['PLA2G4A', 'SYNJ2', 'PLD1']",0.605247625732597
+Fc-epsilon receptor signaling pathway (GO:0038095),"['NR4A3', 'PRKCQ']",0.6057603136203846
+anterograde trans-synaptic signaling (GO:0098916),"['PLP1', 'PMP22', 'SLC1A3', 'MBP']",0.6070631922198784
+negative regulation of immune response (GO:0050777),"['POMC', 'TYRO3', 'AVP']",0.6076513434964496
+regulation of fibroblast proliferation (GO:0048145),['PDGFRA'],0.6076513434964496
+erythrocyte differentiation (GO:0030218),['VEGFA'],0.6076513434964496
+"regulation of synaptic transmission, glutamatergic (GO:0051966)",['ATP1A2'],0.6076513434964496
+regulation of telomerase activity (GO:0051972),['PRKCQ'],0.6076513434964496
+protein stabilization (GO:0050821),"['RASSF2', 'PLPP3', 'CRYAB']",0.6112380092143453
+positive regulation of cellular biosynthetic process (GO:0031328),"['ZEB2', 'PLD1', 'EGFR']",0.613612216461635
+regulation of DNA binding (GO:0051101),['HES1'],0.613612216461635
+determination of heart left/right asymmetry (GO:0061371),['NOTCH1'],0.613612216461635
+epithelial to mesenchymal transition (GO:0001837),['NOTCH1'],0.613612216461635
+regulation of T cell activation (GO:0050863),['PRKCQ'],0.613612216461635
+negative regulation of cold-induced thermogenesis (GO:0120163),['NOTCH1'],0.613612216461635
+positive regulation of pathway-restricted SMAD protein phosphorylation (GO:0010862),['DAB2'],0.613612216461635
+histone modification (GO:0016570),"['EYA4', 'PADI2']",0.617084861973782
+negative regulation of cytokine production (GO:0001818),"['IRF3', 'APOD', 'VSIR']",0.6182103785533315
+cellular response to ionizing radiation (GO:0071479),['CRYAB'],0.6182103785533315
+regulation of interleukin-10 production (GO:0032653),['VSIR'],0.6182103785533315
+regulation of interleukin-2 production (GO:0032663),['PDE4B'],0.6182103785533315
+regulation of mitochondrion organization (GO:0010821),['INF2'],0.6182103785533315
+regulation of protein metabolic process (GO:0051246),['ABCA7'],0.6182103785533315
+negative regulation of MAP kinase activity (GO:0043407),['SPRY2'],0.6182103785533315
+negative regulation of mitotic cell cycle (GO:0045930),['ZFP36L1'],0.6182103785533315
+positive regulation of blood vessel endothelial cell migration (GO:0043536),['VEGFA'],0.6182103785533315
+positive regulation of endocytosis (GO:0045807),['DAB2'],0.6182103785533315
+ion transport (GO:0006811),"['SLC1A3', 'PKD2L1']",0.6230027099395352
+receptor internalization (GO:0031623),['CD9'],0.6230027099395352
+regulation of cellular localization (GO:0060341),['GSN'],0.6230027099395352
+regulation of cellular protein metabolic process (GO:0032268),['EDNRB'],0.6230027099395352
+regulation of interferon-beta production (GO:0032648),['IRF3'],0.6230027099395352
+regulation of stress-activated MAPK cascade (GO:0032872),['EGFR'],0.6230027099395352
+response to glucose (GO:0009749),['TCF7L2'],0.6230027099395352
+RNA catabolic process (GO:0006401),['NUDT12'],0.6230027099395352
+secondary alcohol metabolic process (GO:1902652),['CYP27A1'],0.6230027099395352
+negative regulation of catabolic process (GO:0009895),['EGFR'],0.6230027099395352
+positive regulation of signal transduction (GO:0009967),"['SALL1', 'NOTCH1', 'LIMS2', 'WLS']",0.623857213348086
+antigen receptor-mediated signaling pathway (GO:0050851),"['MOG', 'PDE4B', 'PRKCQ']",0.6260779004800323
+regulation of protein binding (GO:0043393),"['TCF7L2', 'DAB2']",0.6276066600984438
+negative regulation of response to external stimulus (GO:0032102),"['TNFAIP6', 'TYRO3']",0.6276066600984438
+positive regulation of protein-containing complex assembly (GO:0031334),"['CDC42EP2', 'VEGFA']",0.6276066600984438
+actin polymerization or depolymerization (GO:0008154),['GSN'],0.6276066600984438
+regulation of complement activation (GO:0030449),['CFH'],0.6276066600984438
+chloride transmembrane transport (GO:1902476),['SLC1A3'],0.6276066600984438
+negative regulation of ERK1 and ERK2 cascade (GO:0070373),['SPRY2'],0.6276066600984438
+organic hydroxy compound biosynthetic process (GO:1901617),['CYP27A1'],0.6276066600984438
+cellular response to oxygen-containing compound (GO:1901701),"['PDGFRA', 'NR4A3', 'PDE4B', 'EGFR', 'ZFP36L1']",0.6313974887994932
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process (GO:0043280),"['GSN', 'ST18']",0.632033762867645
+cholesterol transport (GO:0030301),['ABCA7'],0.6328083916837637
+inositol lipid-mediated signaling (GO:0048017),['PDGFRA'],0.6328083916837637
+sensory perception (GO:0007600),['CDH23'],0.6328083916837637
+mesenchymal cell differentiation (GO:0048762),['NOTCH1'],0.6328083916837637
+negative regulation of protein ubiquitination (GO:0031397),['SPRY2'],0.6328083916837637
+positive regulation of fat cell differentiation (GO:0045600),['ZFP36L1'],0.6328083916837637
+cellular response to interferon-gamma (GO:0071346),"['IRF3', 'AQP4']",0.6370520344289347
+protein homooligomerization (GO:0051260),"['AQP4', 'PKD2L1']",0.6370520344289347
+amide biosynthetic process (GO:0043604),['FA2H'],0.6370520344289347
+regulation of telomere maintenance via telomerase (GO:0032210),['PRKCQ'],0.6370520344289347
+response to peptide hormone (GO:0043434),['ZFP36L1'],0.6370520344289347
+sprouting angiogenesis (GO:0002040),['VEGFA'],0.6370520344289347
+negative regulation of BMP signaling pathway (GO:0030514),['NOTCH1'],0.6370520344289347
+negative regulation of protein-containing complex assembly (GO:0031333),['CRYAB'],0.6370520344289347
+positive regulation of protein localization to cell periphery (GO:1904377),['EGFR'],0.6370520344289347
+positive regulation of protein localization to plasma membrane (GO:1903078),['EGFR'],0.6370520344289347
+regulation of mRNA catabolic process (GO:0061013),"['PRR5L', 'ZFP36L1']",0.641164587338887
+bicellular tight junction assembly (GO:0070830),['CLDN11'],0.6415142084337593
+regulation of DNA replication (GO:0006275),['EGFR'],0.6415142084337593
+cellular macromolecule catabolic process (GO:0044265),['DNASE1L2'],0.6415142084337593
+regulation of immune effector process (GO:0002697),['CFH'],0.6415142084337593
+epidermal cell differentiation (GO:0009913),['CLIC4'],0.6415142084337593
+positive regulation of macroautophagy (GO:0016239),['TRIM13'],0.6415142084337593
+positive regulation of NIK/NF-kappaB signaling (GO:1901224),['EGFR'],0.6415142084337593
+positive regulation of phagocytosis (GO:0050766),['ABCA7'],0.6415142084337593
+regulation of anatomical structure morphogenesis (GO:0022603),"['PHLDB1', 'INF2']",0.6427851652086476
+defense response to symbiont (GO:0140546),"['IFI27', 'IRF3']",0.6462012629553774
+fatty acid metabolic process (GO:0006631),"['FA2H', 'ACSBG1']",0.6462012629553774
+non-canonical Wnt signaling pathway (GO:0035567),"['TCF7L2', 'ARHGEF19']",0.6462012629553774
+regulation of humoral immune response (GO:0002920),['CFH'],0.6462012629553774
+regulation of potassium ion transmembrane transport (GO:1901379),['KCNJ10'],0.6462012629553774
+inorganic anion transport (GO:0015698),['CLIC4'],0.6462012629553774
+unsaturated fatty acid metabolic process (GO:0033559),['PLA2G4A'],0.6462012629553774
+platelet degranulation (GO:0002576),"['CD9', 'VEGFA']",0.6497893473050113
+protein localization to membrane (GO:0072657),"['TSPAN15', 'JUP', 'PTN']",0.6501441036371896
+pyruvate metabolic process (GO:0006090),['NR4A3'],0.6511202065516847
+regulation of cardiac conduction (GO:1903779),['ATP1A2'],0.6511202065516847
+triglyceride metabolic process (GO:0006641),['PLAAT3'],0.6511202065516847
+negative regulation of cytokine-mediated signaling pathway (GO:0001960),['PADI2'],0.6511202065516847
+negative regulation of protein modification by small protein conjugation or removal (GO:1903321),['SPRY2'],0.6511202065516847
+negative regulation of cell growth (GO:0030308),"['GJA1', 'MAG']",0.6512405366051789
+negative regulation of growth (GO:0045926),"['GJA1', 'NOTCH1']",0.6512405366051789
+phosphatidylinositol biosynthetic process (GO:0006661),"['PIGZ', 'SYNJ2']",0.6512405366051789
+positive regulation of cytokine production (GO:0001819),"['IL33', 'IRF3', 'PDE4B', 'PRKCQ', 'MBP']",0.6515583613941803
+glycosaminoglycan catabolic process (GO:0006027),['BCAN'],0.6558833847052388
+tight junction assembly (GO:0120192),['CLDN11'],0.6558833847052388
+negative regulation of metabolic process (GO:0009892),['NOTCH1'],0.6558833847052388
+regulation of signal transduction (GO:0009966),"['TSPAN15', 'ERBB3', 'ZIC1']",0.6569402636349813
+arachidonic acid metabolic process (GO:0019369),['PLA2G4A'],0.6597029746498873
+carboxylic acid transport (GO:0046942),['SLC38A3'],0.6597029746498873
+icosanoid metabolic process (GO:0006690),['PLA2G4A'],0.6597029746498873
+monocarboxylic acid transport (GO:0015718),['ATP8B1'],0.6597029746498873
+positive regulation of cell junction assembly (GO:1901890),['VEGFA'],0.6597029746498873
+"positive regulation of gene expression, epigenetic (GO:0045815)",['PADI2'],0.6597029746498873
+positive regulation of interferon-gamma production (GO:0032729),['PDE4B'],0.6597029746498873
+protein K48-linked ubiquitination (GO:0070936),['IFI27'],0.6597029746498873
+cellular response to insulin stimulus (GO:0032869),"['GAB1', 'ZFP36L1']",0.6603925409569775
+receptor metabolic process (GO:0043112),['CD9'],0.6633718904851328
+regulation of neurotransmitter receptor activity (GO:0099601),['PRRT1'],0.6633718904851328
+regulation of pathway-restricted SMAD protein phosphorylation (GO:0060393),['DAB2'],0.6633718904851328
+regulation of phagocytosis (GO:0050764),['ABCA7'],0.6633718904851328
+muscle organ development (GO:0007517),['SOX6'],0.6633718904851328
+negative regulation of hydrolase activity (GO:0051346),['PLXNB3'],0.6633718904851328
+positive regulation of mitotic cell cycle phase transition (GO:1901992),['EGFR'],0.6633718904851328
+positive regulation of protein binding (GO:0032092),['TCF7L2'],0.6633718904851328
+neutrophil degranulation (GO:0043312),"['TMEM63A', 'GSN', 'DOK3', 'JUP', 'TNFAIP6', 'PADI2', 'PLD1']",0.6640327039882757
+cellular response to metal ion (GO:0071248),"['CLIC4', 'EGFR']",0.6659692685137525
+protein polymerization (GO:0051258),['GSN'],0.66907977832235
+inorganic cation transmembrane transport (GO:0098662),"['KCNJ10', 'SLC1A3', 'PKD2L1', 'ATP1A2']",0.66907977832235
+neutrophil activation involved in immune response (GO:0002283),"['TMEM63A', 'GSN', 'DOK3', 'JUP', 'TNFAIP6', 'PADI2', 'PLD1']",0.6723638229332166
+defense response to virus (GO:0051607),"['IFI27', 'IRF3']",0.6733323504168964
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178),"['ITGB5', 'RGMA']",0.6733323504168964
+apical junction assembly (GO:0043297),['CLDN11'],0.6742492843761203
+regulation of inflammatory response (GO:0050727),"['IL33', 'TNFAIP6', 'TYRO3']",0.6771672845236038
+neutrophil mediated immunity (GO:0002446),"['TMEM63A', 'GSN', 'DOK3', 'JUP', 'TNFAIP6', 'PADI2', 'PLD1']",0.6777132531592789
+plasma membrane bounded cell projection assembly (GO:0120031),"['GSN', 'NOTCH1', 'S1PR1', 'PMP22']",0.678689223623282
+negative regulation of response to stimulus (GO:0048585),['ERBB3'],0.678689223623282
+positive regulation of DNA biosynthetic process (GO:2000573),['PRKCQ'],0.678689223623282
+protein lipidation (GO:0006497),['PIGZ'],0.678689223623282
+protein localization to plasma membrane (GO:0072659),"['TSPAN15', 'JUP']",0.6834279021008525
+negative regulation of inflammatory response to antigenic stimulus (GO:0002862),"['POMC', 'AVP']",0.6834279021008525
+glucose metabolic process (GO:0006006),['APOD'],0.6838011322525013
+stress-activated MAPK cascade (GO:0051403),['ZFP36L1'],0.6838011322525013
+regulation of inflammatory response to antigenic stimulus (GO:0002861),"['POMC', 'AVP']",0.686699690463335
+positive regulation of viral process (GO:0048524),['TYRO3'],0.6895998502471234
+negative regulation of cellular process (GO:0048523),"['GJA1', 'NOTCH1', 'TMEM98', 'ERBB3', 'PLXNB3', 'CD9', 'CRYAB', 'ST18']",0.6921882479149605
+phosphate-containing compound metabolic process (GO:0006796),"['PLA2G4A', 'PLAAT3', 'PLPP3']",0.6928406767154129
+positive regulation of response to external stimulus (GO:0032103),"['IL33', 'PTN']",0.6928406767154129
+protein secretion (GO:0009306),['WLS'],0.6928406767154129
+regulation of extrinsic apoptotic signaling pathway (GO:2001236),['TCF7L2'],0.6928406767154129
+regulation of innate immune response (GO:0045088),['TYRO3'],0.6928406767154129
+regulation of transcription initiation from RNA polymerase II promoter (GO:0060260),['TCF7L2'],0.6928406767154129
+lipid homeostasis (GO:0055088),['TLCD1'],0.6928406767154129
+protein localization to cell periphery (GO:1990778),"['TSPAN15', 'JUP']",0.6958307821581847
+BMP signaling pathway (GO:0030509),['RGMA'],0.696767628817702
+regulation of cell-matrix adhesion (GO:0001952),['JUP'],0.696767628817702
+regulation of RNA metabolic process (GO:0051252),['MITF'],0.696767628817702
+inorganic anion transmembrane transport (GO:0098661),['SLC1A3'],0.696767628817702
+steroid biosynthetic process (GO:0006694),['CYP27A1'],0.696767628817702
+positive regulation of cellular catabolic process (GO:0031331),"['TFEB', 'PRR5L']",0.6976941231781134
+chromatin organization (GO:0006325),"['SOX2', 'PADI2']",0.7013886830529648
+cellular response to nutrient levels (GO:0031669),['TFEB'],0.7013886830529648
+positive regulation of cell death (GO:0010942),['TRIM13'],0.7013886830529648
+receptor-mediated endocytosis (GO:0006898),"['DAB2', 'CD9']",0.7037276098719691
+monocarboxylic acid metabolic process (GO:0032787),"['FA2H', 'GATM']",0.7037276098719691
+neuron development (GO:0048666),"['PLP1', 'ETV1']",0.7037276098719691
+anion transmembrane transport (GO:0098656),['SLC1A3'],0.7054846211170007
+vascular endothelial growth factor receptor signaling pathway (GO:0048010),['VEGFA'],0.7054846211170007
+cellular response to lipid (GO:0071396),"['PDE4B', 'ATP1A2', 'EGFR']",0.7090483087628043
+interferon-gamma-mediated signaling pathway (GO:0060333),['IRF3'],0.7102881334945715
+negative regulation of transforming growth factor beta receptor signaling pathway (GO:0030512),['SPRY2'],0.7102881334945715
+"transcription, DNA-templated (GO:0006351)","['NR4A2', 'NFIX', 'LHX1']",0.7145257443784709
+cellular response to calcium ion (GO:0071277),['CLIC4'],0.7149846410537815
+positive regulation of protein transport (GO:0051222),['PRR5L'],0.7149846410537815
+carbohydrate homeostasis (GO:0033500),['TCF7L2'],0.7187451292509496
+establishment of protein localization to membrane (GO:0090150),['EGFR'],0.7187451292509496
+sterol metabolic process (GO:0016125),['CYP27A1'],0.7187451292509496
+negative regulation of viral process (GO:0048525),['TRIM13'],0.7187451292509496
+neutrophil chemotaxis (GO:0030593),['PDE4B'],0.7187451292509496
+regulation of endopeptidase activity (GO:0052548),['VSIR'],0.7219811885872374
+cellular response to BMP stimulus (GO:0071773),['RGMA'],0.7219811885872374
+regulation of G1/S transition of mitotic cell cycle (GO:2000045),['EGFR'],0.7219811885872374
+myeloid leukocyte differentiation (GO:0002573),['VEGFA'],0.7219811885872374
+nucleic acid metabolic process (GO:0090304),['DNASE1L2'],0.7219811885872374
+positive regulation of cellular protein localization (GO:1903829),['ABCA7'],0.7219811885872374
+response to ionizing radiation (GO:0010212),['TRIM13'],0.7267764160446739
+negative regulation of supramolecular fiber organization (GO:1902904),['CRYAB'],0.7267764160446739
+"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent (GO:0002479)",['ITGB5'],0.7293828092640516
+regulation of actin filament-based process (GO:0032970),['ARHGEF19'],0.7293828092640516
+regulation of hydrolase activity (GO:0051336),['PLXNB3'],0.7293828092640516
+granulocyte chemotaxis (GO:0071621),['PDE4B'],0.7293828092640516
+insulin receptor signaling pathway (GO:0008286),['GAB1'],0.7293828092640516
+ubiquitin-dependent ERAD pathway (GO:0030433),['TRIM13'],0.7293828092640516
+positive regulation of JNK cascade (GO:0046330),['RASSF2'],0.7293828092640516
+cellular response to amino acid starvation (GO:0034198),['TFEB'],0.7335588076172113
+Fc receptor mediated stimulatory signaling pathway (GO:0002431),['NR4A3'],0.7335588076172113
+negative regulation of protein binding (GO:0032091),['DAB2'],0.7335588076172113
+negative regulation of cell population proliferation (GO:0008285),"['SOX2', 'NOTCH1', 'HES1', 'APOD', 'ST18']",0.734182625342324
+chemical synaptic transmission (GO:0007268),"['PLP1', 'PMP22', 'SLC1A3', 'MBP']",0.7357132188428671
+positive regulation of NF-kappaB transcription factor activity (GO:0051092),"['TRIM13', 'PRKCQ']",0.7363790228275925
+response to amino acid starvation (GO:1990928),['TFEB'],0.7363790228275925
+nucleic acid phosphodiester bond hydrolysis (GO:0090305),['DNASE1L2'],0.7363790228275925
+positive regulation of T cell activation (GO:0050870),['PRKCQ'],0.7363790228275925
+peptidyl-serine phosphorylation (GO:0018105),"['PRKCQ', 'SGK2']",0.7391003696307932
+regulation of cell division (GO:0051302),['INSC'],0.7391003696307932
+establishment of protein localization to organelle (GO:0072594),['FAM53B'],0.7391003696307932
+RNA transport (GO:0050658),['ZFP36L1'],0.7391003696307932
+positive regulation of growth (GO:0045927),['EGFR'],0.7391003696307932
+protein import into nucleus (GO:0006606),['FAM53B'],0.7391003696307932
+cholesterol metabolic process (GO:0008203),['CYP27A1'],0.7421448070990907
+regulation of organelle assembly (GO:1902115),['GSN'],0.7421448070990907
+import into nucleus (GO:0051170),['FAM53B'],0.7421448070990907
+neutrophil migration (GO:1990266),['PDE4B'],0.7421448070990907
+positive regulation of type I interferon production (GO:0032481),['IRF3'],0.7421448070990907
+protein modification process (GO:0036211),['MMP15'],0.7459371191148612
+antigen processing and presentation of exogenous peptide antigen via MHC class I (GO:0042590),['ITGB5'],0.7459371191148612
+negative regulation of blood vessel morphogenesis (GO:2000181),['SPRY2'],0.7459371191148612
+regulation of cellular response to heat (GO:1900034),['CRYAB'],0.7492183589736321
+regulation of ion transport (GO:0043269),['KCNJ10'],0.7492183589736321
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436),['DAB2'],0.7492183589736321
+positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060),['DAB2'],0.7492183589736321
+regulation of fat cell differentiation (GO:0045598),['ZFP36L1'],0.7528339249343108
+response to interferon-gamma (GO:0034341),['AQP4'],0.7528339249343108
+lipid biosynthetic process (GO:0008610),['MBOAT1'],0.7528339249343108
+positive regulation of cellular amide metabolic process (GO:0034250),['PLD1'],0.7572149749888359
+regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079),['EGFR'],0.7615190213129649
+regulation of osteoblast differentiation (GO:0045667),['NOTCH1'],0.765317317904367
+epidermis development (GO:0008544),['PLOD1'],0.765317317904367
+cytokine-mediated signaling pathway (GO:0019221),"['SOX2', 'POMC', 'IL33', 'IFI27', 'IRF3', 'S1PR1', 'ST18', 'VEGFA']",0.7670814775839532
+response to insulin (GO:0032868),['ZFP36L1'],0.7690373125156155
+peptidyl-serine modification (GO:0018209),"['PRKCQ', 'SGK2']",0.7718155320853957
+"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)",['PLPP3'],0.7718155320853957
+"Wnt signaling pathway, planar cell polarity pathway (GO:0060071)",['ARHGEF19'],0.7718155320853957
+positive regulation of protein catabolic process (GO:0045732),['NKD1'],0.7718155320853957
+glucose homeostasis (GO:0042593),['TCF7L2'],0.7749466254891038
+negative regulation of cellular amide metabolic process (GO:0034249),['ABCA7'],0.7749466254891038
+positive regulation of proteasomal protein catabolic process (GO:1901800),['DAB2'],0.7749466254891038
+cellular protein localization (GO:0034613),"['PRRT1', 'GJA1', 'EGFR', 'WLS']",0.7766125099818626
+ERAD pathway (GO:0036503),['TRIM13'],0.7780009183123914
+negative regulation of angiogenesis (GO:0016525),['SPRY2'],0.7780009183123914
+cellular response to cytokine stimulus (GO:0071345),"['SOX2', 'POMC', 'S1PR1', 'AQP4', 'VEGFA', 'ZFP36L1']",0.7782925605212939
+regulation of establishment of planar polarity (GO:0090175),['ARHGEF19'],0.7809797860916088
+negative regulation of binding (GO:0051100),['DAB2'],0.7809797860916088
+regulation of type I interferon production (GO:0032479),['IRF3'],0.7830140813909917
+second-messenger-mediated signaling (GO:0019932),['EDNRB'],0.7830140813909917
+transforming growth factor beta receptor signaling pathway (GO:0007179),['ITGB5'],0.7830140813909917
+positive regulation of inflammatory response (GO:0050729),['IL33'],0.7830140813909917
+protein import (GO:0017038),['FAM53B'],0.7830140813909917
+toll-like receptor signaling pathway (GO:0002224),['TRIL'],0.7907915754329667
+cellular response to fibroblast growth factor stimulus (GO:0044344),['ZFP36L1'],0.793484315386141
+regulation of lipid metabolic process (GO:0019216),['ABCA7'],0.793484315386141
+negative regulation of mitotic cell cycle phase transition (GO:1901991),['ZFP36L1'],0.793484315386141
+regulated exocytosis (GO:0045055),"['CD9', 'VEGFA']",0.7964420304561722
+regulation of heart contraction (GO:0008016),['ATP1A2'],0.7965486052891331
+hemopoiesis (GO:0030097),['MEIS1'],0.7991052302347502
+interleukin-1-mediated signaling pathway (GO:0070498),['ST18'],0.7991052302347502
+negative regulation of cellular protein metabolic process (GO:0032269),['EDNRB'],0.7991052302347502
+mRNA metabolic process (GO:0016071),['NUDT12'],0.8024805090055821
+cellular transition metal ion homeostasis (GO:0046916),['SLC39A12'],0.8053503105319735
+regulation of vesicle-mediated transport (GO:0060627),['PLD1'],0.8053503105319735
+protein maturation (GO:0051604),['TSPAN15'],0.8077124201945105
+calcium ion homeostasis (GO:0055074),['FAM20A'],0.8077124201945105
+glycosaminoglycan biosynthetic process (GO:0006024),['BCAN'],0.8077124201945105
+positive regulation of defense response (GO:0031349),['IL33'],0.810902949267611
+regulation of mitotic cell cycle phase transition (GO:1901990),"['ANLN', 'ZFP36L1']",0.8131846991750735
+response to UV (GO:0009411),['EGFR'],0.8135878685777206
+positive regulation of translation (GO:0045727),['PLD1'],0.8166616830245728
+cellular response to chemical stress (GO:0062197),['PRR5L'],0.8192293705086915
+positive regulation of protein localization to membrane (GO:1905477),['EGFR'],0.8192293705086915
+regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434),['DAB2'],0.8212891642747118
+positive regulation of cell growth (GO:0030307),['EGFR'],0.8212891642747118
+positive regulation of cellular protein metabolic process (GO:0032270),['PLD1'],0.8212891642747118
+cellular response to tumor necrosis factor (GO:0071356),"['ST18', 'ZFP36L1']",0.8245070624005324
+negative regulation of macromolecule metabolic process (GO:0010605),"['NOTCH1', 'VEGFA']",0.8245070624005324
+cellular metal ion homeostasis (GO:0006875),['ATP1A2'],0.8252362062074083
+regulation of insulin secretion (GO:0050796),['TCF7L2'],0.8252362062074083
+steroid metabolic process (GO:0008202),['CYP27A1'],0.8252362062074083
+mRNA transport (GO:0051028),['ZFP36L1'],0.8252362062074083
+positive regulation of cellular metabolic process (GO:0031325),['VEGFA'],0.8280285087190159
+peptidyl-lysine modification (GO:0018205),['PLOD1'],0.8307690558699893
+negative regulation of intracellular signal transduction (GO:1902532),"['ABCA7', 'TRIM59']",0.8310439235661867
+endomembrane system organization (GO:0010256),"['ATP8B1', 'TLCD1']",0.8325507545041876
+response to calcium ion (GO:0051592),['CLIC4'],0.8325507545041876
+positive regulation of programmed cell death (GO:0043068),"['TNFAIP8', 'RASSF2', 'ARHGEF19']",0.8354526569116906
+regulation of protein ubiquitination (GO:0031396),['SPRY2'],0.8373200710391706
+modulation of chemical synaptic transmission (GO:0050804),['ATP1A2'],0.8373200710391706
+regulation of protein kinase activity (GO:0045859),['RASSF2'],0.8394020131481181
+response to tumor necrosis factor (GO:0034612),['ZFP36L1'],0.8394020131481181
+cellular divalent inorganic cation homeostasis (GO:0072503),['SLC39A12'],0.8418913188300898
+proteasomal protein catabolic process (GO:0010498),"['IFI27', 'TRIM13']",0.8429384058504433
+regulation of macroautophagy (GO:0016241),['TRIM13'],0.8434184065705903
+Fc receptor signaling pathway (GO:0038093),['PRKCQ'],0.8434184065705903
+sulfur compound biosynthetic process (GO:0044272),['BCAN'],0.8458124490541765
+activation of protein kinase activity (GO:0032147),['VEGFA'],0.8481610585969489
+regulation of cell cycle (GO:0051726),"['SOX2', 'TCF7L2', 'NOTCH1']",0.8490865633787246
+calcium ion transport (GO:0006816),['CDH23'],0.8490865633787246
+cellular response to molecule of bacterial origin (GO:0071219),['PDE4B'],0.8490865633787246
+positive regulation of protein metabolic process (GO:0051247),['NKD1'],0.8490865633787246
+tumor necrosis factor-mediated signaling pathway (GO:0033209),['ST18'],0.8513435258284366
+regulation of cellular response to stress (GO:0080135),['CRYAB'],0.8561901990620041
+positive regulation of GTPase activity (GO:0043547),"['ARHGEF19', 'ARHGAP29']",0.8564678025758308
+innate immune response (GO:0045087),"['IFI27', 'TRIM13', 'TRIM59']",0.8564678025758308
+cellular response to lipopolysaccharide (GO:0071222),['PDE4B'],0.8599456694289127
+positive regulation of apoptotic process (GO:0043065),"['TNFAIP8', 'RASSF2', 'ARHGEF19']",0.8686754621432311
+regulation of phosphorylation (GO:0042325),['EGFR'],0.8711940583638353
+synapse organization (GO:0050808),['LRP4'],0.8730502118403066
+protein polyubiquitination (GO:0000209),"['IFI27', 'TRIM36', 'FBXO32']",0.8734946611954932
+phosphorylation (GO:0016310),"['PRRT1', 'CDK19', 'FAM20A', 'SGK2']",0.8736701381944599
+plasma membrane bounded cell projection organization (GO:0120036),['PLP1'],0.87618143105518
+cilium organization (GO:0044782),"['GSN', 'NOTCH1']",0.8783503150980734
+regulation of primary metabolic process (GO:0080090),['ABCA7'],0.8786961149088147
+regulation of response to external stimulus (GO:0032101),['PDGFRA'],0.8786961149088147
+Golgi organization (GO:0007030),['ATP8B1'],0.8786961149088147
+negative regulation of gene expression (GO:0010629),"['NOTCH1', 'VEGFA', 'NUDT12']",0.8819752190529333
+protein modification by small protein conjugation (GO:0032446),"['EPAS1', 'TRIM13', 'FBXO32', 'RNF220']",0.8822154060991885
+cellular calcium ion homeostasis (GO:0006874),['CDH23'],0.889196907468386
+organic substance transport (GO:0071702),['ABCA7'],0.889196907468386
+protein dephosphorylation (GO:0006470),['EYA4'],0.8944988791427102
+protein localization to organelle (GO:0033365),['ABCA7'],0.8995383093835924
+regulation of mRNA stability (GO:0043488),['ZFP36L1'],0.9060306956290333
+post-translational protein modification (GO:0043687),"['EPAS1', 'FBXO32', 'MFGE8']",0.90798218462623
+protein ubiquitination (GO:0016567),"['EPAS1', 'TRIM13', 'TRIM36', 'FBXO32', 'RNF220']",0.9122159571487838
+dephosphorylation (GO:0016311),['PLPP3'],0.9157924617555072
+cellular response to interleukin-1 (GO:0071347),['ST18'],0.9182932396950353
+cellular response to starvation (GO:0009267),['TFEB'],0.922118233141694
+response to lipopolysaccharide (GO:0032496),['PDE4B'],0.9230216128632509
+cellular protein-containing complex assembly (GO:0034622),['ANLN'],0.9338585234420607
+DNA metabolic process (GO:0006259),"['TCF7L2', 'DNASE1L2']",0.9338585234420607
+neuron projection development (GO:0031175),['PLP1'],0.9362064076517908
+nuclear-transcribed mRNA catabolic process (GO:0000956),['ZFP36L1'],0.9362064076517908
+mitochondrion organization (GO:0007005),['MYH14'],0.9401723826416533
+proteolysis (GO:0006508),"['FOLH1', 'MMP15']",0.9410618574063744
+regulation of mitotic cell cycle (GO:0007346),['MEIS2'],0.9418462097601027
+regulation of translation (GO:0006417),['PLD1'],0.9418462097601027
+regulation of GTPase activity (GO:0043087),['PLXNB3'],0.9517982943457131
+regulation of programmed cell death (GO:0043067),['IRF3'],0.9554946280053277
+cilium assembly (GO:0060271),"['GSN', 'NOTCH1']",0.9585255217510967
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161),"['IFI27', 'TRIM13']",0.9621004508127085
+organelle assembly (GO:0070925),"['ANLN', 'GSN', 'NOTCH1']",0.9621004508127085
+intracellular protein transport (GO:0006886),"['FAM53B', 'WLS']",0.9690758057660688
+inflammatory response (GO:0006954),['TNFAIP6'],0.9752483410689635
+regulation of autophagy (GO:0010506),['TFEB'],0.9752483410689635
+ubiquitin-dependent protein catabolic process (GO:0006511),"['IFI27', 'TRIM13']",0.9752483410689635
+gene expression (GO:0010467),"['NR4A2', 'TSPAN15']",0.9754885990161271
+cellular protein modification process (GO:0006464),"['PRRT1', 'CDK19', 'EPAS1', 'MMP15', 'ABCA7', 'FAM20A', 'FBXO32', 'MFGE8', 'SGK2']",0.9767118184085667
+protein deubiquitination (GO:0016579),['IL33'],0.9858992512361986
+protein modification by small protein removal (GO:0070646),['IL33'],0.9876023217929478
+cellular protein metabolic process (GO:0044267),"['MMP15', 'MFGE8']",0.989230326220011
+organelle organization (GO:0006996),"['ATP8B1', 'PLAAT3']",0.989230326220011
+cellular macromolecule biosynthetic process (GO:0034645),['NR4A2'],0.992673139706371
+cellular response to DNA damage stimulus (GO:0006974),['IRF3'],0.9957090848763084
+protein transport (GO:0015031),['WLS'],0.9964062653730049
