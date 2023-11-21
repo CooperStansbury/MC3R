@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib 
 import matplotlib.pyplot as plt
+import seaborn as sns
 import scipy
 from scipy import stats
 from Bio import SeqIO
@@ -10,11 +11,28 @@ from Bio.KEGG import REST
 from Bio.KEGG.KGML import KGML_parser
 import io
 
+def label_point(x, y, val, ax):
+    a = pd.concat({'x': x, 'y': y, 'val': val}, axis=1)
+    for i, point in a.iterrows():
+        ax.text(point['x']+.05, 
+                point['y'],
+                str(point['val']),
+                fontsize=4,
+                fontweight='bold')
 
 def ncolor(n, cmap='viridis'):
     cmap = matplotlib.cm.get_cmap(cmap)
     arr = np.linspace(0, 1, n)
     return [matplotlib.colors.rgb2hex(cmap(x)) for x in arr] 
+
+
+def get_colors(data, cmap):
+    """A function to return seaborn colormap
+    dict from a colum """
+    color_list = sns.palettes.color_palette(cmap,
+                                            data.nunique(), 
+                                            as_cmap=False)
+    return color_list
 
 
 def parseKEGG(pathId):
