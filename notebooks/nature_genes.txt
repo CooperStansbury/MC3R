@@ -1,0 +1,15 @@
+subclass_label	subclass_id_label	subclass.markers.combo	subclass.tf.markers.combo	nt_type_label	class_id	class_label	class_id_label
+ARH-PVi Six6 Dopa-Gaba	091 ARH-PVi Six6 Dopa-Gaba	Slc6a3,Coch	Sox6,Satb2	Dopa	12	HY GABA	12 HY GABA
+DMH Prdm13 Gaba	095 DMH Prdm13 Gaba	Prdm13,Gad1,Zfhx4	Prdm13,St18,Zfhx4	GABA	12	HY GABA	12 HY GABA
+DMH-LHA Gsx1 Gaba	102 DMH-LHA Gsx1 Gaba	Gsx1,Cntnap5a,Prox1	Gsx1,Isl1,Prox1	GABA	12	HY GABA	12 HY GABA
+PVHd-DMH Lhx6 Gaba	103 PVHd-DMH Lhx6 Gaba	Lhx6,Glra1,Sp9	Lhx6,St18,Npas1	GABA	12	HY GABA	12 HY GABA
+TU-ARH Otp Six6 Gaba	104 TU-ARH Otp Six6 Gaba	Six6,Otp	Six6,Otp	GABA	12	HY GABA	12 HY GABA
+TMd-DMH Foxd2 Gaba	105 TMd-DMH Foxd2 Gaba	Sox14,Dlx1	Sox14,Dlx1	GABA	12	HY GABA	12 HY GABA
+DMH Hmx2 Gaba	107 DMH Hmx2 Gaba	Lef1,Dlx1,Dlk1,Gal	Hmx2,Dlx1,Nr2f2,Peg3	GABA	12	HY GABA	12 HY GABA
+ARH-PVp Tbx3 Gaba	108 ARH-PVp Tbx3 Gaba	Tbx3,Usp29,Slc32a1,Dlk1	Tbx3,Dlx1,Six3,Peg3	GABA	12	HY GABA	12 HY GABA
+DMH Nkx2-4 Glut	123 DMH Nkx2-4 Glut	Tafa4,Asb4	Bsx,Nkx2-4,Prox1	Glut	14	HY Glut	14 HY Glut
+DMH Hmx2 Glut	125 DMH Hmx2 Glut	Hmx2,Lef1,Slc17a6	Onecut3,Isl1,Rorb	Glut	14	HY Glut	14 HY Glut
+ARH-PVp Tbx3 Glut	126 ARH-PVp Tbx3 Glut	Tbx3,Slc17a6,Bsx	Tbx3,Myt1l,Nhlh2,Nkx2-1	Glut	14	HY Glut	14 HY Glut
+DMH-LHA Vgll2 Glut	127 DMH-LHA Vgll2 Glut	Vgll2	Rfx4,Lhx9	Glut	14	HY Glut	14 HY Glut
+VMH Fezf1 Glut	128 VMH Fezf1 Glut	Fezf1,Sfta3-ps,Htr7	Fezf1,Nkx2-1,Peg3	Glut	14	HY Glut	14 HY Glut
+VMH Nr5a1 Glut	129 VMH Nr5a1 Glut	Nr5a1,Lingo2	Nr5a1,Myt1l	Glut	14	HY Glut	14 HY Glut
