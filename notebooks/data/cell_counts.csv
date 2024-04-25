@@ -1,0 +1,29 @@
+CellType,Sex,Diet,CellCount
+Astrocytes,f,fasted,408
+Astrocytes,f,fed,459
+Astrocytes,m,fasted,473
+Astrocytes,m,fed,781
+Ependymal Cells,f,fasted,95
+Ependymal Cells,f,fed,96
+Ependymal Cells,m,fasted,105
+Ependymal Cells,m,fed,268
+Fibroblasts,f,fasted,234
+Fibroblasts,f,fed,151
+Fibroblasts,m,fasted,145
+Fibroblasts,m,fed,310
+Microglia,f,fasted,104
+Microglia,f,fed,236
+Microglia,m,fasted,216
+Microglia,m,fed,272
+Neurons,f,fasted,10699
+Neurons,f,fed,8754
+Neurons,m,fasted,8114
+Neurons,m,fed,6080
+OPC,f,fasted,141
+OPC,f,fed,245
+OPC,m,fasted,205
+OPC,m,fed,320
+Oligodendrocytes,f,fasted,490
+Oligodendrocytes,f,fed,1349
+Oligodendrocytes,m,fasted,969
+Oligodendrocytes,m,fed,1218
